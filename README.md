@@ -15,7 +15,7 @@ The dataset used in this notebook is read from CSV files (`train.csv` and `test.
 ## Installation  
 Ensure you have Python and Jupyter Notebook installed. Then, install the required dependencies:  
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn klib
+pip install pandas numpy matplotlib seaborn scikit-learn klib tensorflow pytorch
 ```  
 
 ## Usage  
