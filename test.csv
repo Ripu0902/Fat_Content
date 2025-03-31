@@ -1,0 +1,1001 @@
+Id,Bone_Health_Calcium,VitA_Percentage,Saturated_Lipids,Energy_Content,Cholesterol_Level,Drink_Name,Iron_Concentration,VitC_Content,Sweetness_Index,Drink_Type,Salt_Level,Health_Category,Flavor_Variant,Fibre_Amount,Processed_Oil_Content,Carb_Count,Protein_Quantity,Stimulant_Caffeine,Heart_Risk_Index,Health_Rating
+5100,55%,55%,0.07525,23.2181,29,Brand 9,0.11%,8%,43,South Indian Filter Coffee,30,Vitamin_Rich,Extra Large Kulhad,0.898,2.9513,278,58.0,141,14.66,Medium
+5101,10%,16%,0.01101,11.612,31,Brand 4,0.11%,44%,61,Cold Coffee,10,Low_Fat,Large Kulhad,0.101,1.4683,48,3.0,21,28.3388,Medium
+5102,51%,29%,0.0768,33.984,59,Brand 15,29.63%,67%,100,Mango Shake,46,Vitamin_Rich,Malai Milk,0.101,0.6918,593,86.4,53,28.9953,High
+5103,130%,54%,0.02213,18.586,0,Brand 4,1.48%,12%,88,Masala Chai,16,Low_Fat,Rose Milk,6.382,1.1477,142,86.5,244,11.9288,Medium
+5104,27%,28%,0.01206,29.4795,44,Brand 20,24.94%,12%,154,Cold Coffee,10,Low_Fat,Rose Milk,1.647,1.0234,760,40.9,156,15.0831,Medium
+5105,99%,57%,0.01101,25.4333,69,Brand 1,0.11%,12%,28,Masala Chai,10,Low_Fat,Saffron-Infused Milk,0.101,0.969,343,85.7,40,20.5768,Medium
+5106,63%,28%,0.03103,21.0487,34,Brand 32,24.32%,10%,56,Masala Chai,11,Vitamin_Rich,Badam Milk,0.101,1.1604,82,13.5,33,10.9843,Medium
+5107,49%,50%,0.01971,25.301,24,Brand 14,2.58%,5%,120,Special Spiced Chai,16,Low_Fat,Kesar Doodh,2.961,0.4784,82,62.0,135,6.3099,High
+5108,98%,50%,0.13533,23.9372,37,Brand 31,0.11%,13%,79,Special Spiced Chai,18,Low_Fat,Rose Milk,0.101,3.4991,432,85.6,58,18.6834,Medium
+5109,12%,20%,0.03123,28.9102,30,Brand 19,21.24%,5%,102,Cold Coffee,11,Low_Fat,Large Kulhad,0.47,0.8018,249,3.0,261,13.7106,Medium
+5110,10%,0%,0.02137,22.3008,16,Brand 5,0.11%,12%,64,Kadak Chai,11,Low_Fat,Elaichi Doodh,0.101,0.2732,130,3.0,246,10.3236,Medium
+5111,31%,20%,0.01101,38.3706,49,Brand 27,21.01%,47%,52,Cold Coffee,11,Low_Fat,Full Cream Buffalo Milk,0.101,0.4059,496,29.6,20,17.2066,Medium
+5112,125%,44%,0.09465,26.1205,38,Brand 14,0.11%,5%,133,Masala Chai,10,Vitamin_Rich,Kesar Doodh,0.276,2.7029,332,78.1,133,11.9962,Medium
+5113,69%,46%,0.08469,29.2682,74,Brand 6,25.18%,8%,38,Nimbu Pani & Shikanji,37,Low_Fat,Elaichi Doodh,2.885,0.6516,681,65.5,68,22.1397,Medium
+5114,33%,2%,0.04264,18.8853,0,Brand 26,0.11%,11%,2,Special Spiced Chai,16,Low_Fat,Rose Milk,0.101,0.1721,196,12.1,128,5.9782,Medium
+5115,101%,26%,0.02531,26.6105,61,Brand 19,0.11%,5%,156,Cold Coffee,16,Low_Fat,Kesar Doodh,0.101,1.1733,528,30.1,20,21.2076,Medium
+5116,113%,31%,0.09028,26.6314,57,Brand 10,0.11%,9%,55,Masala Chai,45,Vitamin_Rich,Malai Milk,0.101,2.6825,397,61.1,146,29.5373,Medium
+5117,35%,2%,0.03112,17.3033,15,Brand 18,0.13%,11%,2,Masala Chai,10,Low_Fat,Badam Milk,0.101,0.8571,101,34.7,143,6.9699,Medium
+5118,63%,28%,0.10163,33.0802,55,Brand 32,29.87%,6%,58,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,2.7666,300,83.9,57,22.149,Medium
+5119,50%,76%,0.02238,22.4691,63,Brand 14,0.11%,5%,46,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,0.101,0.7436,669,67.4,30,19.032,Medium
+5120,38%,27%,0.01101,34.5739,73,Brand 25,31.61%,65%,132,Lassi Blends,15,Low_Fat,Ek Chhoti Pyali,0.101,0.9703,606,33.7,37,32.505,Medium
+5121,47%,32%,0.03177,18.2132,43,Brand 19,0.11%,5%,208,South Indian Filter Coffee,16,Low_Fat,Kesar Doodh,1.599,0.6603,484,35.0,148,21.099,Medium
+5122,18%,0%,0.01101,24.2526,45,Brand 27,0.11%,10%,166,Cold Coffee,11,Low_Fat,Large Kulhad,0.101,0.7917,144,3.0,159,13.4595,Medium
+5123,157%,34%,0.01101,35.8842,35,Brand 28,35.14%,10%,73,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.982,1.2929,432,82.9,42,23.7348,High
+5124,14%,6%,0.01508,31.1108,4,Brand 1,0.64%,83%,97,Nimbu Pani & Shikanji,10,Low_Fat,Saffron-Infused Milk,0.41,0.043,60,7.4,45,18.731,Medium
+5125,128%,52%,0.12244,28.9897,30,Brand 2,0.11%,13%,105,Masala Chai,39,Vitamin_Rich,Elaichi Doodh,2.982,3.7534,504,122.5,213,21.6099,Medium
+5126,14%,6%,0.01896,13.9183,0,Brand 19,0.38%,13%,116,Nimbu Pani & Shikanji,10,Low_Fat,Medium Glass,0.101,0.4448,0,3.0,148,3.3381,Low
+5127,44%,29%,0.02905,23.4136,49,Brand 24,25.54%,7%,193,Masala Chai,11,Vitamin_Rich,Malai Milk,0.835,3.561,549,55.0,138,14.5926,Medium
+5128,10%,0%,0.02582,8.9706,45,Brand 23,0.11%,5%,36,Cold Coffee,10,Low_Fat,Large Kulhad,0.101,0.6389,248,6.8,245,13.9627,Medium
+5129,69%,36%,0.09355,26.6311,58,Brand 17,0.11%,11%,46,Lassi Blends,11,Vitamin_Rich,Malai Milk,0.101,1.0127,427,127.8,43,20.1351,Medium
+5130,35%,26%,0.08484,29.7047,61,Brand 32,0.11%,8%,40,Lassi Blends,10,Low_Fat,Badam Milk,0.101,1.2886,336,42.8,20,22.0471,Medium
+5131,76%,21%,0.04596,25.8145,42,Brand 1,19.27%,5%,155,Light Buttermilk (Chaas),10,Low_Fat,Kesar Doodh,3.841,0.4547,0,3.0,192,11.6096,Medium
+5132,18%,2%,0.02798,0.0,9,Brand 16,0.11%,12%,8,Masala Chai,11,Low_Fat,Small Glass,0.101,0.7568,167,19.1,64,3.3381,Medium
+5133,37%,36%,0.03344,31.693,49,Brand 32,0.11%,29%,46,Lassi Blends,10,Low_Fat,Elaichi Doodh,0.101,0.9438,258,40.8,20,16.4858,Medium
+5134,125%,36%,0.08542,22.7104,32,Brand 9,0.22%,8%,128,South Indian Filter Coffee,30,Vitamin_Rich,Elaichi Doodh,0.101,3.0012,491,115.3,133,17.6785,Medium
+5135,69%,32%,0.08995,36.3045,59,Brand 12,25.71%,9%,125,Special Spiced Chai,12,Low_Fat,Elaichi Doodh,0.101,0.8642,176,47.6,37,27.0504,Medium
+5136,10%,2%,0.02442,2.196,14,Brand 13,0.52%,10%,124,Nimbu Pani & Shikanji,11,Low_Fat,Saffron-Infused Milk,0.101,0.0,0,3.0,29,3.3381,Low
+5137,30%,1%,0.02598,0.0,0,Brand 32,0.11%,8%,3,Masala Chai,10,Low_Fat,Rose Milk,4.887,0.4185,449,13.6,142,3.3381,Medium
+5138,10%,11%,0.01962,14.9507,10,Brand 7,0.11%,9%,9,Nimbu Pani & Shikanji,11,Low_Fat,Small Glass,0.101,0.0741,183,3.0,279,7.7441,Medium
+5139,40%,26%,0.02588,20.1652,6,Brand 19,0.11%,5%,48,Special Spiced Chai,24,Low_Fat,Rose Milk,0.101,1.2336,244,26.7,153,11.8375,Medium
+5140,22%,25%,0.0299,38.161,48,Brand 25,16.51%,8%,160,Lassi Blends,11,Low_Fat,Full Cream Buffalo Milk,0.647,0.6317,1105,24.4,42,20.447,Medium
+5141,54%,33%,0.09965,37.1539,61,Brand 7,19.68%,6%,142,Lassi Blends,12,Vitamin_Rich,Saffron-Infused Milk,0.101,1.2352,590,58.3,27,27.1218,Medium
+5142,29%,26%,0.02226,31.3908,35,Brand 2,0.11%,9%,168,Mango Shake,10,Low_Fat,Kesar Doodh,1.589,0.4676,144,97.1,20,19.1862,High
+5143,18%,24%,0.07438,33.4956,46,Brand 23,27.65%,5%,77,Cold Coffee,10,Vitamin_Rich,Large Kulhad,184.626,3.1951,466,36.4,37,34.8216,Medium
+5144,35%,1%,0.02442,9.5512,17,Brand 33,0.12%,9%,130,Masala Chai,11,Low_Fat,Medium Glass,1.044,0.3053,479,36.6,195,16.006,Low
+5145,32%,0%,0.02847,22.3249,21,Brand 4,0.11%,12%,68,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,0.101,0.0,176,19.1,296,11.667,Medium
+5146,42%,29%,0.10704,30.4176,24,Brand 9,0.11%,12%,52,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,2.196,103,20.1,132,13.1379,Medium
+5147,43%,26%,0.03024,23.6183,32,Brand 25,0.11%,8%,140,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,0.7953,519,24.5,217,5.8188,Medium
+5148,77%,39%,0.02616,32.8889,29,Brand 1,38.74%,8%,107,Masala Chai,28,Low_Fat,Elaichi Doodh,3.336,0.6688,1151,37.5,229,17.2814,Medium
+5149,15%,25%,0.01892,26.4185,5,Brand 19,0.11%,62%,50,Masala Chai,10,Low_Fat,Large Kulhad,0.101,0.74,222,9.6,25,17.7077,Medium
+5150,160%,42%,0.03054,30.6228,65,Brand 14,25.10%,12%,80,Masala Chai,10,Vitamin_Rich,Badam Milk,415.374,1.1644,559,140.1,29,21.5323,High
+5151,10%,0%,0.01426,21.2974,10,Brand 14,0.11%,11%,8,South Indian Filter Coffee,10,Low_Fat,Medium Glass,0.101,0.4554,70,11.1,607,3.5126,Medium
+5152,83%,64%,0.02557,21.8689,41,Brand 32,1.96%,51%,87,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,0.101,0.2043,333,40.2,24,11.6976,Medium
+5153,59%,57%,0.06876,23.1564,70,Brand 3,36.94%,91%,173,South Indian Filter Coffee,17,Vitamin_Rich,Malai Milk,0.101,2.5126,551,124.7,77,28.9035,High
+5154,28%,25%,0.08193,21.3159,86,Brand 32,33.24%,67%,79,Cold Coffee,21,Low_Fat,Saffron-Infused Milk,5.884,0.1869,301,41.4,20,15.5292,Low
+5155,57%,41%,0.02273,24.6321,31,Brand 14,0.11%,10%,7,Masala Chai,11,Vitamin_Rich,Saffron-Infused Milk,2.963,0.8914,194,22.1,129,7.6986,Medium
+5156,35%,33%,0.08535,29.0818,90,Brand 10,10.46%,7%,185,Lassi Blends,16,Vitamin_Rich,Saffron-Infused Milk,31.006,3.0665,574,72.6,188,26.3968,Medium
+5157,109%,31%,0.0163,14.0555,23,Brand 2,0.11%,9%,47,Masala Chai,10,Vitamin_Rich,Extra Large Kulhad,0.101,3.6965,197,39.2,44,17.1558,Medium
+5158,39%,0%,0.02236,17.1461,17,Brand 15,2.21%,12%,8,Mango Shake,10,Vitamin_Rich,Kesar Doodh,4.667,0.7434,217,120.8,51,8.1577,High
+5159,94%,53%,0.08276,26.7216,55,Brand 10,16.38%,14%,191,Special Spiced Chai,46,Vitamin_Rich,Elaichi Doodh,0.101,3.036,650,70.4,149,22.3423,Medium
+5160,51%,28%,0.09828,28.9585,50,Brand 14,0.11%,8%,117,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,1.478,415,36.3,272,15.3653,Medium
+5161,12%,4%,0.10192,12.8814,3,Brand 19,0.11%,11%,27,Nimbu Pani & Shikanji,11,Low_Fat,Rose Milk,0.101,0.4459,0,6.4,491,3.3381,Medium
+5162,65%,31%,0.08363,33.1816,44,Brand 10,26.83%,286%,187,Mango Shake,26,Vitamin_Rich,Badam Milk,0.101,2.7884,244,39.8,52,29.0968,Medium
+5163,10%,0%,0.0219,4.3877,0,Brand 19,0.11%,9%,64,South Indian Filter Coffee,11,Low_Fat,Medium Glass,0.101,0.7685,136,7.5,505,3.3381,Medium
+5164,110%,6%,0.02447,21.4871,0,Brand 24,0.11%,8%,49,South Indian Filter Coffee,10,High_Protein,Badam Milk,0.101,1.9693,327,24.2,209,11.6752,Medium
+5165,43%,30%,0.09489,31.2472,48,Brand 12,20.06%,9%,150,Masala Chai,24,Low_Fat,Elaichi Doodh,2.413,0.9562,757,16.2,39,20.7832,Medium
+5166,10%,30%,0.02118,23.4118,25,Brand 16,15.57%,11%,83,Light Buttermilk (Chaas),16,Low_Fat,Kesar Doodh,0.578,1.3393,871,56.6,32,21.7042,Medium
+5167,47%,28%,0.02355,31.4994,47,Brand 15,29.23%,5%,245,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,3.9164,946,52.1,272,19.3323,Medium
+5168,10%,0%,0.01101,18.5071,0,Brand 1,0.11%,13%,15,Nimbu Pani & Shikanji,10,Low_Fat,Medium Glass,0.101,0.0,0,3.0,222,3.3381,Low
+5169,123%,31%,0.09558,28.9281,2,Brand 2,0.11%,8%,42,Special Spiced Chai,11,Vitamin_Rich,Elaichi Doodh,0.101,0.7893,191,32.7,133,15.6247,Medium
+5170,60%,0%,0.03525,0.0,0,Brand 7,0.11%,9%,2,South Indian Filter Coffee,10,Low_Fat,Rose Milk,0.101,0.0836,184,16.2,213,3.3381,Medium
+5171,29%,33%,0.0869,35.6799,50,Brand 27,0.23%,7%,165,Cold Coffee,46,Vitamin_Rich,Saffron-Infused Milk,0.101,2.9902,662,19.5,228,26.0968,Medium
+5172,70%,13%,0.01453,10.6769,0,Brand 18,0.11%,10%,2,South Indian Filter Coffee,12,Low_Fat,Medium Glass,0.101,0.7793,192,30.8,142,9.6547,Medium
+5173,40%,37%,0.02373,29.5737,33,Brand 19,12.81%,6%,164,South Indian Filter Coffee,12,Vitamin_Rich,Badam Milk,0.101,1.3382,285,31.3,264,20.1114,Medium
+5174,24%,30%,0.02244,13.8341,34,Brand 10,0.11%,10%,2,Special Spiced Chai,10,Vitamin_Rich,Badam Milk,2.429,0.0699,231,25.1,146,5.2284,Medium
+5175,55%,41%,0.03963,17.1604,35,Brand 15,18.02%,5%,64,Masala Chai,11,Vitamin_Rich,Badam Milk,0.101,3.5545,250,37.9,130,6.2713,Medium
+5176,46%,54%,0.02852,19.4855,19,Brand 24,20.59%,6%,132,South Indian Filter Coffee,48,Vitamin_Rich,Malai Milk,3.679,3.811,314,83.7,147,12.5257,Medium
+5177,10%,0%,0.02514,15.5614,19,Brand 1,1.29%,13%,75,Lassi Blends,11,Low_Fat,Large Kulhad,0.101,0.2718,224,3.0,248,13.3244,Medium
+5178,86%,52%,0.13537,27.5382,30,Brand 11,0.11%,15%,150,South Indian Filter Coffee,52,Vitamin_Rich,Malai Milk,0.101,3.27,699,86.6,63,17.181,Medium
+5179,76%,39%,0.08887,32.2185,40,Brand 3,28.82%,13%,169,Lassi Blends,41,Vitamin_Rich,Malai Milk,23.609,0.8332,498,126.1,21,23.7065,Medium
+5180,113%,44%,0.01101,25.7357,39,Brand 32,0.11%,63%,32,South Indian Filter Coffee,10,Low_Fat,Kesar Doodh,0.101,0.1463,151,7.4,20,19.2968,Medium
+5181,46%,36%,0.0835,32.0176,56,Brand 23,40.57%,70%,175,Cold Coffee,29,Vitamin_Rich,Badam Milk,4.771,3.8767,658,62.7,63,31.9335,High
+5182,147%,63%,0.16013,34.0037,79,Brand 4,38.11%,8%,105,South Indian Filter Coffee,12,Vitamin_Rich,Malai Milk,2.118,1.4616,147,96.9,217,28.5925,Medium
+5183,129%,52%,0.01101,24.0521,24,Brand 27,24.45%,12%,214,Nimbu Pani & Shikanji,11,Vitamin_Rich,Malai Milk,3.88,1.7394,276,90.5,223,21.0077,Medium
+5184,21%,0%,0.01101,25.7533,0,Brand 7,0.11%,5%,2,Masala Chai,10,Low_Fat,Saffron-Infused Milk,1.952,0.0,0,3.0,129,7.2579,Low
+5185,15%,30%,0.02705,26.4774,60,Brand 26,21.19%,34%,131,Masala Chai,10,Low_Fat,Badam Milk,1.726,0.5471,72,32.8,77,19.8139,Medium
+5186,32%,29%,0.14671,32.7736,82,Brand 17,22.01%,9%,181,Lassi Blends,26,Low_Fat,Malai Milk,0.101,1.5766,622,49.6,178,36.6466,Medium
+5187,35%,48%,0.02012,33.1103,34,Brand 19,39.36%,75%,79,Lassi Blends,11,Low_Fat,Full Cream Buffalo Milk,8.565,0.2297,135,15.1,69,13.3762,High
+5188,27%,43%,0.0358,22.6556,14,Brand 19,1.58%,8%,128,Masala Chai,10,High_Protein,Badam Milk,6.699,1.1098,59,66.7,144,4.304,Medium
+5189,103%,55%,0.02422,25.4731,41,Brand 10,0.11%,12%,79,Masala Chai,17,Low_Fat,Elaichi Doodh,0.373,1.2207,538,135.6,236,21.3446,Medium
+5190,47%,26%,0.10022,30.9423,85,Brand 32,55.62%,71%,81,Masala Chai,10,Vitamin_Rich,Badam Milk,4.127,1.5117,396,52.0,23,37.8461,High
+5191,59%,29%,0.07531,28.9779,58,Brand 9,16.51%,9%,56,Masala Chai,11,Vitamin_Rich,Badam Milk,0.101,1.1418,51,46.0,132,17.075,Medium
+5192,71%,29%,0.01101,23.542,39,Brand 32,40.24%,68%,114,Special Spiced Chai,11,Low_Fat,Rose Milk,1.05,1.0154,207,24.3,243,14.264,Medium
+5193,138%,35%,0.09331,35.2987,70,Brand 23,23.39%,9%,105,Cold Coffee,11,Vitamin_Rich,Badam Milk,0.101,1.5636,324,35.8,20,41.4316,Medium
+5194,42%,44%,0.03388,25.8299,0,Brand 3,14.85%,5%,87,South Indian Filter Coffee,10,Vitamin_Rich,Saffron-Infused Milk,0.101,0.9895,207,32.9,46,12.4698,Medium
+5195,27%,52%,0.03789,24.2465,38,Brand 4,0.11%,9%,61,Masala Chai,10,Low_Fat,Malai Milk,3.799,3.2711,310,38.0,135,16.6066,Medium
+5196,23%,27%,0.07956,36.2995,57,Brand 31,26.37%,10%,107,Masala Chai,22,Vitamin_Rich,Badam Milk,0.101,2.5577,293,44.4,35,29.3516,Medium
+5197,86%,54%,0.02482,20.0911,25,Brand 6,0.11%,11%,71,Masala Chai,11,Vitamin_Rich,Malai Milk,1.504,4.3879,191,45.4,143,15.7882,Medium
+5198,53%,26%,0.07569,27.4907,65,Brand 32,34.06%,8%,88,Lassi Blends,48,Vitamin_Rich,Malai Milk,1.208,1.2512,394,98.4,44,38.6887,Medium
+5199,10%,4%,0.01896,16.23,2,Brand 27,0.11%,8%,44,South Indian Filter Coffee,12,Low_Fat,Rose Milk,1.946,0.2221,184,9.1,259,5.0281,Medium
+5200,50%,24%,0.02686,20.3076,51,Brand 32,0.11%,66%,15,Special Spiced Chai,10,Low_Fat,Badam Milk,0.443,0.3296,261,34.1,35,11.4104,Medium
+5201,119%,58%,0.10248,26.6905,108,Brand 10,23.65%,11%,66,Masala Chai,28,Vitamin_Rich,Elaichi Doodh,24.648,4.2355,1217,78.6,201,34.4173,Medium
+5202,26%,8%,0.0466,1.5228,8,Brand 19,0.11%,9%,55,Masala Chai,11,Low_Fat,Large Kulhad,0.16,0.7072,195,23.4,135,7.3033,Medium
+5203,65%,33%,0.11173,32.8171,39,Brand 14,14.61%,10%,193,Masala Chai,26,Vitamin_Rich,Saffron-Infused Milk,0.101,1.8443,882,41.9,194,15.1843,Medium
+5204,97%,0%,0.02595,24.1009,29,Brand 19,0.47%,5%,2,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,1.855,0.604,184,33.2,20,6.8801,Medium
+5205,62%,28%,0.09607,30.6511,18,Brand 3,0.11%,5%,157,South Indian Filter Coffee,23,Vitamin_Rich,Malai Milk,0.101,3.2859,303,38.1,135,21.0333,Medium
+5206,67%,28%,0.08506,38.1442,81,Brand 24,32.17%,8%,75,Cold Coffee,29,Vitamin_Rich,Badam Milk,0.101,1.9554,1247,58.1,24,35.0421,Medium
+5207,58%,6%,0.03752,11.3456,26,Brand 9,0.65%,9%,65,Masala Chai,11,Low_Fat,Extra Large Kulhad,0.101,0.0,87,3.0,190,3.3381,Medium
+5208,80%,42%,0.15666,28.6177,31,Brand 22,0.11%,16%,119,South Indian Filter Coffee,23,Low_Fat,Malai Milk,0.101,0.837,575,85.9,224,14.6154,Medium
+5209,108%,35%,0.1547,34.898,80,Brand 9,25.10%,12%,195,Mango Shake,17,Vitamin_Rich,Badam Milk,3.712,2.8736,1254,64.6,239,24.1364,Medium
+5210,127%,49%,0.09101,32.2625,63,Brand 25,0.11%,12%,149,Special Spiced Chai,47,Low_Fat,Malai Milk,0.101,0.9836,470,102.0,252,24.3211,Medium
+5211,120%,36%,0.08329,25.4759,24,Brand 17,46.81%,6%,181,South Indian Filter Coffee,22,Low_Fat,Elaichi Doodh,0.101,4.7328,398,54.2,233,11.9059,Medium
+5212,50%,54%,0.01443,18.9348,12,Brand 1,1.71%,10%,96,South Indian Filter Coffee,11,Low_Fat,Kesar Doodh,0.101,0.0,459,75.4,248,20.5072,Medium
+5213,26%,22%,0.03052,16.0053,8,Brand 17,0.11%,12%,25,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,0.8451,114,3.0,142,6.1721,Medium
+5214,133%,35%,0.0944,29.8146,61,Brand 9,0.64%,7%,123,Masala Chai,16,Low_Fat,Elaichi Doodh,0.101,0.4979,392,73.7,226,30.2478,Medium
+5215,49%,54%,0.08702,19.4328,16,Brand 21,1.32%,7%,27,South Indian Filter Coffee,26,Vitamin_Rich,Malai Milk,0.772,3.2793,1011,26.6,136,9.3809,Medium
+5216,32%,27%,0.10277,30.2161,38,Brand 3,42.28%,46%,181,Nimbu Pani & Shikanji,11,Low_Fat,Large Kulhad,4.989,0.3396,859,44.6,63,17.2052,Medium
+5217,94%,52%,0.10653,22.9626,24,Brand 10,0.11%,10%,43,Special Spiced Chai,16,Low_Fat,Elaichi Doodh,0.101,0.7785,490,91.4,50,20.8408,Medium
+5218,44%,32%,0.03544,22.4903,17,Brand 13,1.20%,8%,91,Lassi Blends,10,Low_Fat,Badam Milk,0.101,0.8862,159,45.4,192,9.6549,Medium
+5219,36%,28%,0.08225,22.7657,26,Brand 19,21.17%,7%,186,Cold Coffee,23,Vitamin_Rich,Large Kulhad,275.205,3.0638,313,37.9,152,18.423,Medium
+5220,36%,26%,0.02755,21.4091,48,Brand 21,25.73%,7%,144,Masala Chai,11,Vitamin_Rich,Saffron-Infused Milk,7.474,0.7131,519,77.9,28,29.2384,High
+5221,50%,26%,0.01101,22.1339,0,Brand 16,0.11%,9%,51,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.767,1.5894,151,15.4,22,9.827,Medium
+5222,57%,4%,0.03504,33.2312,20,Brand 20,2.32%,10%,88,South Indian Filter Coffee,10,Low_Fat,Badam Milk,0.101,1.0303,399,65.0,280,11.889,Medium
+5223,138%,66%,0.02549,32.4254,36,Brand 15,1.14%,10%,147,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,3.1769,459,119.7,155,18.2313,Medium
+5224,97%,73%,0.017,31.2859,27,Brand 6,0.11%,13%,128,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,1.0809,284,104.4,230,24.7871,Medium
+5225,52%,4%,0.01967,29.1094,24,Brand 10,0.11%,12%,2,Masala Chai,10,Low_Fat,Elaichi Doodh,0.101,0.441,392,8.8,23,10.422,Medium
+5226,51%,31%,0.01218,31.16,58,Brand 8,36.69%,72%,78,Lassi Blends,10,Low_Fat,Malai Milk,291.977,0.8819,421,52.8,140,15.7743,High
+5227,34%,26%,0.08816,18.2,33,Brand 26,0.11%,8%,33,South Indian Filter Coffee,10,High_Protein,Large Kulhad,2.876,1.1431,291,35.3,120,15.5045,Medium
+5228,50%,32%,0.1014,29.192,27,Brand 19,14.44%,5%,149,South Indian Filter Coffee,11,Vitamin_Rich,Malai Milk,4.935,3.4375,777,54.4,207,10.9639,Medium
+5229,84%,48%,0.01415,27.1661,55,Brand 12,0.11%,11%,98,South Indian Filter Coffee,50,Low_Fat,Elaichi Doodh,0.101,4.2279,1001,109.3,277,22.2063,Medium
+5230,107%,46%,0.205,24.1094,30,Brand 11,37.50%,15%,96,South Indian Filter Coffee,18,Vitamin_Rich,Malai Milk,5.993,3.8526,566,136.8,194,16.9662,Medium
+5231,12%,0%,0.02649,12.984,0,Brand 13,0.11%,9%,37,Nimbu Pani & Shikanji,11,Low_Fat,Medium Glass,0.101,0.2837,0,3.0,349,3.3381,Medium
+5232,76%,34%,0.03312,32.5114,42,Brand 28,21.94%,8%,68,South Indian Filter Coffee,10,Low_Fat,Malai Milk,0.289,0.8292,450,104.3,41,28.194,Medium
+5233,14%,29%,0.02026,20.3443,20,Brand 27,0.11%,7%,2,Light Buttermilk (Chaas),10,Low_Fat,Rose Milk,0.101,0.3195,376,36.6,147,17.5695,Medium
+5234,35%,38%,0.01754,33.7889,30,Brand 27,0.11%,5%,34,Masala Chai,12,Vitamin_Rich,Badam Milk,1.061,1.0941,101,62.0,235,13.2715,Medium
+5235,10%,24%,0.01571,30.4643,24,Brand 32,0.11%,7%,14,Masala Chai,10,Low_Fat,Saffron-Infused Milk,0.101,0.1902,206,20.1,432,8.4359,Medium
+5236,91%,29%,0.02754,25.1071,24,Brand 13,36.78%,8%,137,Masala Chai,17,Low_Fat,Saffron-Infused Milk,3.485,1.4618,109,24.8,44,17.5131,Medium
+5237,45%,47%,0.02037,27.7372,54,Brand 32,34.88%,62%,165,Nimbu Pani & Shikanji,10,Low_Fat,Saffron-Infused Milk,7.082,0.3133,217,24.4,56,14.6671,High
+5238,59%,28%,0.03436,28.1745,40,Brand 14,12.00%,7%,99,Masala Chai,11,Vitamin_Rich,Elaichi Doodh,0.101,2.8004,175,20.6,193,17.8778,Medium
+5239,55%,27%,0.08409,33.3344,70,Brand 32,40.00%,8%,52,Special Spiced Chai,10,Low_Fat,Elaichi Doodh,0.101,1.0459,528,44.2,20,38.7052,Medium
+5240,56%,33%,0.08393,26.4864,64,Brand 19,0.11%,32%,45,Nimbu Pani & Shikanji,16,Low_Fat,Medium Glass,141.565,0.5845,379,38.7,36,28.2544,Medium
+5241,42%,26%,0.03487,30.1988,69,Brand 4,26.27%,7%,87,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,0.7466,377,12.2,42,26.2707,Medium
+5242,124%,56%,0.19123,27.5725,32,Brand 32,0.11%,9%,141,South Indian Filter Coffee,42,Vitamin_Rich,Malai Milk,0.101,2.3961,404,65.5,223,18.6826,Medium
+5243,61%,36%,0.07789,26.0578,65,Brand 32,25.60%,8%,60,Nimbu Pani & Shikanji,10,Low_Fat,Full Cream Buffalo Milk,355.272,0.6616,295,36.3,20,24.5597,Medium
+5244,12%,5%,0.01199,12.0895,5,Brand 21,0.11%,9%,45,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.0,127,11.5,536,5.9018,Medium
+5245,52%,31%,0.11193,25.8317,96,Brand 12,16.99%,9%,94,Special Spiced Chai,26,Low_Fat,Badam Milk,0.101,0.7746,246,53.3,227,32.7164,Medium
+5246,57%,55%,0.07908,26.5533,32,Brand 24,0.11%,14%,163,Special Spiced Chai,55,Low_Fat,Malai Milk,241.893,1.0601,669,143.0,60,18.6655,High
+5247,110%,51%,0.04055,15.7422,27,Brand 14,0.11%,10%,9,Masala Chai,10,Low_Fat,Badam Milk,0.101,2.1622,249,20.0,127,4.9379,Medium
+5248,104%,52%,0.09272,30.0906,69,Brand 25,0.11%,14%,164,Masala Chai,16,Vitamin_Rich,Kesar Doodh,0.101,3.3391,538,89.0,44,15.0598,Medium
+5249,10%,0%,0.02149,5.778,17,Brand 20,0.11%,10%,22,Nimbu Pani & Shikanji,10,Low_Fat,Badam Milk,4.161,0.0,0,3.0,36,11.3047,Low
+5250,69%,47%,0.10447,29.0365,64,Brand 32,22.95%,5%,171,Cold Coffee,16,Vitamin_Rich,Full Cream Buffalo Milk,0.101,3.5958,437,51.5,143,24.5593,Medium
+5251,64%,43%,0.0199,21.7977,31,Brand 24,40.14%,12%,187,Cold Coffee,10,Vitamin_Rich,Badam Milk,0.101,0.7138,118,94.9,151,16.288,High
+5252,35%,30%,0.08537,33.8735,81,Brand 11,31.66%,11%,76,Special Spiced Chai,48,Vitamin_Rich,Malai Milk,0.101,4.2448,563,31.8,30,42.8517,High
+5253,108%,50%,0.03258,30.5937,32,Brand 8,21.55%,10%,198,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,0.6165,138,44.9,230,13.6688,Medium
+5254,133%,57%,0.22569,36.744,47,Brand 9,50.33%,14%,58,Special Spiced Chai,51,Vitamin_Rich,Malai Milk,8.839,2.3977,676,143.0,236,43.2836,High
+5255,24%,37%,0.03827,22.0176,32,Brand 14,0.11%,8%,160,Masala Chai,17,Vitamin_Rich,Elaichi Doodh,0.101,2.4826,220,31.9,145,14.9885,Medium
+5256,10%,0%,0.02765,0.0,0,Brand 19,0.11%,9%,2,Masala Chai,10,Low_Fat,Large Kulhad,0.101,0.0,0,3.0,134,3.3381,Low
+5257,109%,50%,0.03939,32.1114,26,Brand 2,25.07%,7%,89,South Indian Filter Coffee,17,Low_Fat,Elaichi Doodh,0.101,2.5289,1254,106.6,250,17.8273,Medium
+5258,54%,29%,0.08372,26.1642,62,Brand 1,14.07%,46%,61,Lassi Blends,10,Vitamin_Rich,Full Cream Buffalo Milk,206.687,1.0266,224,44.6,36,28.936,Medium
+5259,62%,31%,0.0317,25.71,44,Brand 21,0.11%,9%,26,South Indian Filter Coffee,10,Low_Fat,Full Cream Buffalo Milk,0.101,1.3913,185,29.4,151,9.8003,Medium
+5260,10%,2%,0.0278,10.178,9,Brand 12,0.11%,10%,92,Special Spiced Chai,11,Low_Fat,Large Kulhad,0.101,0.0345,1,3.0,392,10.4493,Low
+5261,10%,0%,0.02479,21.5755,18,Brand 13,0.11%,11%,151,Masala Chai,11,Low_Fat,Malai Milk,0.651,0.6413,193,43.9,145,14.4908,Medium
+5262,40%,33%,0.08068,26.5363,31,Brand 25,0.11%,5%,40,South Indian Filter Coffee,26,Low_Fat,Rose Milk,2.472,1.5407,565,51.8,141,23.1804,Medium
+5263,55%,52%,0.01759,25.6731,9,Brand 31,12.02%,9%,48,Masala Chai,16,Vitamin_Rich,Elaichi Doodh,1.763,1.1792,467,40.5,157,17.6996,Medium
+5264,48%,25%,0.1027,25.393,15,Brand 25,20.27%,5%,158,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,2.777,0.897,359,47.7,129,17.1815,Medium
+5265,144%,41%,0.01101,26.174,36,Brand 24,1.42%,10%,29,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,4.0398,693,97.9,42,11.26,High
+5266,44%,42%,0.0328,27.8842,84,Brand 17,21.13%,12%,77,Masala Chai,17,Vitamin_Rich,Kesar Doodh,0.101,3.7779,601,93.5,220,24.0452,Medium
+5267,106%,50%,0.08605,24.2021,71,Brand 14,0.11%,11%,139,Special Spiced Chai,23,Vitamin_Rich,Malai Milk,0.101,2.897,447,60.8,150,28.3332,Medium
+5268,112%,33%,0.08467,33.2043,49,Brand 32,28.39%,7%,129,Special Spiced Chai,24,Low_Fat,Elaichi Doodh,0.101,1.593,400,49.9,28,31.5062,Medium
+5269,152%,38%,0.08884,32.7828,68,Brand 10,19.05%,14%,80,South Indian Filter Coffee,23,Vitamin_Rich,Kesar Doodh,2.284,3.0144,382,127.5,29,32.7736,Medium
+5270,29%,31%,0.01101,19.0493,10,Brand 14,0.11%,10%,2,Special Spiced Chai,11,Low_Fat,Saffron-Infused Milk,1.258,0.2997,37,48.8,58,3.3381,Medium
+5271,44%,5%,0.01101,12.6808,8,Brand 6,2.16%,10%,2,South Indian Filter Coffee,24,Low_Fat,Elaichi Doodh,0.101,0.4073,144,26.5,164,9.9081,Medium
+5272,39%,3%,0.02594,18.2677,19,Brand 21,0.11%,5%,49,Masala Chai,10,Low_Fat,Kesar Doodh,0.101,0.5978,161,13.9,164,17.8814,Medium
+5273,10%,0%,0.02045,18.9892,14,Brand 18,0.45%,8%,30,Nimbu Pani & Shikanji,11,Low_Fat,Medium Glass,1.853,0.0,46,3.0,52,20.4002,Low
+5274,17%,39%,0.02255,0.0,0,Brand 5,0.11%,9%,56,Masala Chai,16,Low_Fat,Saffron-Infused Milk,2.985,1.1711,88,25.2,134,11.3786,Medium
+5275,96%,52%,0.0135,30.1145,34,Brand 10,0.11%,9%,29,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,0.101,0.3732,186,28.3,20,22.8077,Medium
+5276,94%,59%,0.14338,38.565,79,Brand 18,24.22%,10%,127,South Indian Filter Coffee,49,Vitamin_Rich,Malai Milk,0.101,3.0525,688,119.3,61,33.2453,Medium
+5277,37%,49%,0.01147,26.5233,25,Brand 23,0.11%,9%,39,South Indian Filter Coffee,12,Low_Fat,Full Cream Buffalo Milk,0.101,0.4031,645,35.6,229,9.9511,Medium
+5278,46%,0%,0.03061,7.2907,25,Brand 14,0.11%,9%,99,Masala Chai,11,Low_Fat,Large Kulhad,1.143,1.084,47,3.0,224,3.3381,Medium
+5279,65%,47%,0.01942,22.0805,11,Brand 22,0.11%,14%,74,South Indian Filter Coffee,17,Low_Fat,Elaichi Doodh,0.507,3.0215,499,114.5,271,12.1336,Medium
+5280,37%,4%,0.01772,5.6034,2,Brand 27,2.81%,9%,110,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,1.163,0.544,355,43.3,221,3.3381,Medium
+5281,32%,6%,0.0208,10.4899,6,Brand 19,0.11%,5%,44,South Indian Filter Coffee,10,Low_Fat,Malai Milk,0.101,0.4248,138,14.2,201,11.7517,Medium
+5282,50%,0%,0.02243,14.6196,0,Brand 19,0.11%,12%,32,Masala Chai,12,Low_Fat,Badam Milk,0.101,0.6775,0,11.5,123,3.3381,Medium
+5283,96%,56%,0.02179,29.6563,72,Brand 11,26.38%,13%,77,Mango Shake,34,Vitamin_Rich,Malai Milk,5.626,3.5807,675,139.8,61,29.5987,High
+5284,33%,0%,0.02933,10.8325,15,Brand 7,0.11%,12%,14,Masala Chai,12,Low_Fat,Saffron-Infused Milk,0.101,0.0,67,3.0,148,9.5677,Medium
+5285,35%,26%,0.03385,25.1172,17,Brand 4,31.43%,8%,78,Cold Coffee,10,Low_Fat,Badam Milk,4.76,0.6834,134,3.0,234,12.4739,Medium
+5286,51%,22%,0.09918,29.2657,44,Brand 19,41.45%,5%,103,Cold Coffee,11,Vitamin_Rich,Badam Milk,0.101,4.7734,228,42.6,137,26.8371,Medium
+5287,30%,34%,0.0961,29.8774,79,Brand 9,15.68%,5%,118,Lassi Blends,27,Vitamin_Rich,Badam Milk,2.768,3.4436,798,46.2,37,26.4021,Medium
+5288,45%,4%,0.08037,3.8587,1,Brand 6,0.11%,8%,32,South Indian Filter Coffee,10,Low_Fat,Large Kulhad,0.101,0.0,200,28.3,276,3.3381,Medium
+5289,156%,51%,0.1609,39.5974,70,Brand 9,42.53%,15%,74,South Indian Filter Coffee,49,Vitamin_Rich,Malai Milk,4.345,4.2825,445,102.6,272,42.7062,Medium
+5290,121%,37%,0.08023,22.9684,50,Brand 15,27.32%,9%,174,South Indian Filter Coffee,15,Vitamin_Rich,Badam Milk,0.866,3.1054,395,80.3,154,6.4358,High
+5291,105%,45%,0.11045,30.7298,43,Brand 9,0.11%,9%,74,Special Spiced Chai,29,Vitamin_Rich,Elaichi Doodh,0.101,4.2032,107,102.2,138,17.7494,Medium
+5292,70%,33%,0.03859,38.4177,29,Brand 12,15.17%,78%,66,Special Spiced Chai,11,Low_Fat,Medium Glass,0.101,1.2574,22,27.0,177,28.6483,Medium
+5293,30%,0%,0.03069,28.3019,12,Brand 33,1.00%,9%,2,Cold Coffee,10,Low_Fat,Medium Glass,0.101,0.0,45,3.0,224,8.5201,Medium
+5294,46%,29%,0.0973,30.3697,43,Brand 32,14.97%,11%,101,Lassi Blends,17,Low_Fat,Full Cream Buffalo Milk,0.398,1.1796,458,34.6,59,26.3165,High
+5295,36%,4%,0.03386,21.623,55,Brand 14,0.11%,60%,127,Special Spiced Chai,10,Low_Fat,Saffron-Infused Milk,0.101,0.55,214,15.9,131,13.8964,Medium
+5296,67%,31%,0.08272,26.0468,10,Brand 9,41.22%,7%,52,South Indian Filter Coffee,11,Vitamin_Rich,Badam Milk,0.101,4.1186,438,35.7,149,18.6212,Medium
+5297,10%,27%,0.03473,24.7877,43,Brand 12,1.23%,6%,141,Lassi Blends,10,Low_Fat,Rose Milk,1.921,0.0847,308,89.4,26,15.4007,High
+5298,103%,27%,0.09543,28.6923,80,Brand 12,22.91%,5%,99,Cold Coffee,33,Vitamin_Rich,Do Chhoti Pyalya,0.101,3.9973,454,43.3,39,24.448,Medium
+5299,32%,31%,0.08551,32.848,43,Brand 32,18.79%,71%,212,Lassi Blends,15,Vitamin_Rich,Elaichi Doodh,0.101,1.1928,338,44.9,34,25.7433,Medium
+5300,101%,55%,0.0862,32.919,72,Brand 6,0.11%,11%,112,South Indian Filter Coffee,50,Vitamin_Rich,Elaichi Doodh,0.101,0.6816,1053,129.3,276,35.9359,Medium
+5301,67%,44%,0.02209,29.0664,36,Brand 16,0.11%,7%,82,Lassi Blends,18,Low_Fat,Elaichi Doodh,0.101,0.2249,319,63.7,272,11.235,Medium
+5302,31%,34%,0.08456,29.0526,44,Brand 17,0.11%,11%,53,South Indian Filter Coffee,11,Low_Fat,Badam Milk,0.101,0.281,925,52.7,127,20.7598,Medium
+5303,93%,31%,0.10334,31.0145,49,Brand 32,19.68%,8%,53,Masala Chai,11,Vitamin_Rich,Large Kulhad,0.101,0.8257,194,41.0,20,26.2141,Medium
+5304,51%,27%,0.09654,23.9924,36,Brand 9,20.67%,10%,186,Masala Chai,11,Vitamin_Rich,Badam Milk,0.101,4.1437,286,43.5,138,17.7939,Medium
+5305,53%,28%,0.02398,23.9424,52,Brand 4,20.51%,7%,106,Masala Chai,12,Low_Fat,Badam Milk,1.619,1.5874,81,22.3,20,24.4862,Medium
+5306,70%,55%,0.03067,31.9683,21,Brand 4,0.11%,10%,153,Masala Chai,17,Low_Fat,Kesar Doodh,0.101,1.6473,288,76.8,168,10.5861,Medium
+5307,41%,4%,0.09726,19.4045,14,Brand 19,0.11%,10%,17,Masala Chai,11,Low_Fat,Large Kulhad,0.247,0.2779,0,17.4,140,3.3381,Medium
+5308,48%,46%,0.02696,25.142,8,Brand 11,0.11%,7%,89,South Indian Filter Coffee,16,Low_Fat,Rose Milk,4.619,1.1438,353,32.7,138,12.9794,Medium
+5309,94%,49%,0.01101,30.0758,53,Brand 4,59.15%,14%,148,Special Spiced Chai,36,Vitamin_Rich,Kesar Doodh,345.429,3.4452,752,121.3,90,19.6998,High
+5310,89%,33%,0.02157,17.1773,38,Brand 16,0.11%,8%,27,South Indian Filter Coffee,17,Low_Fat,Elaichi Doodh,0.101,1.8042,668,71.2,52,3.748,Medium
+5311,62%,28%,0.01119,24.4281,32,Brand 27,11.31%,12%,41,Masala Chai,10,Vitamin_Rich,Rose Milk,0.38,1.5439,80,34.4,135,22.3266,Medium
+5312,39%,4%,0.04076,21.4004,12,Brand 32,0.11%,6%,69,South Indian Filter Coffee,10,Low_Fat,Badam Milk,0.101,0.8916,153,17.3,420,4.8648,Medium
+5313,46%,44%,0.08728,24.9931,28,Brand 10,29.95%,12%,136,South Indian Filter Coffee,53,Vitamin_Rich,Malai Milk,35.339,3.6004,536,52.2,140,26.2568,Medium
+5314,21%,3%,0.03156,20.977,30,Brand 19,0.11%,9%,35,Masala Chai,11,Low_Fat,Full Cream Buffalo Milk,0.101,0.4945,0,17.3,138,12.0591,Medium
+5315,52%,33%,0.07481,33.7966,79,Brand 10,23.82%,11%,141,South Indian Filter Coffee,26,Vitamin_Rich,Elaichi Doodh,0.101,3.8464,440,100.7,210,34.0675,High
+5316,39%,26%,0.02086,19.8076,20,Brand 11,3.70%,7%,2,Masala Chai,10,Low_Fat,Rose Milk,0.101,0.7219,122,33.0,447,5.2298,Medium
+5317,36%,24%,0.07091,38.2787,50,Brand 24,30.17%,74%,61,Cold Coffee,11,Vitamin_Rich,Badam Milk,2.855,1.2411,434,71.5,20,38.8793,High
+5318,89%,39%,0.08757,39.5392,61,Brand 15,25.73%,7%,136,South Indian Filter Coffee,52,Vitamin_Rich,Malai Milk,0.101,3.6947,982,45.1,238,30.7801,Medium
+5319,10%,0%,0.01101,7.9329,0,Brand 27,0.11%,10%,2,Nimbu Pani & Shikanji,10,Low_Fat,Large Kulhad,4.071,0.0,0,3.0,494,11.7327,Low
+5320,96%,37%,0.1625,29.3007,42,Brand 32,32.75%,9%,205,Special Spiced Chai,17,Vitamin_Rich,Full Cream Buffalo Milk,243.787,3.6291,419,82.3,127,38.5118,High
+5321,22%,30%,0.09207,39.3847,64,Brand 25,31.28%,71%,208,Mango Shake,10,Vitamin_Rich,Malai Milk,0.101,0.5358,482,72.2,20,38.153,High
+5322,29%,29%,0.01101,27.8945,48,Brand 25,0.11%,58%,226,Lassi Blends,10,Low_Fat,Saffron-Infused Milk,4.075,0.8614,151,14.0,20,29.7956,Medium
+5323,94%,42%,0.01825,20.739,29,Brand 17,0.11%,6%,162,Masala Chai,15,Low_Fat,Kesar Doodh,2.476,0.4237,417,21.8,115,11.0525,Medium
+5324,54%,34%,0.03028,30.185,8,Brand 32,26.56%,8%,42,Masala Chai,10,Low_Fat,Saffron-Infused Milk,0.101,0.5464,125,3.0,29,3.3381,Medium
+5325,41%,36%,0.03122,20.7946,47,Brand 3,1.32%,11%,88,Light Buttermilk (Chaas),16,Low_Fat,Elaichi Doodh,4.876,0.7539,340,92.1,257,18.7308,Medium
+5326,19%,28%,0.08517,30.996,56,Brand 10,40.47%,7%,82,Cold Coffee,26,Vitamin_Rich,Badam Milk,0.101,3.1005,358,52.2,124,15.8978,Medium
+5327,141%,44%,0.18497,31.351,41,Brand 4,0.11%,16%,85,Special Spiced Chai,56,Vitamin_Rich,Malai Milk,0.101,2.2336,750,86.9,219,29.5365,Medium
+5328,39%,48%,0.04461,34.2271,34,Brand 11,23.77%,11%,76,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,1.29,0.8371,183,79.5,263,28.6594,Medium
+5329,142%,44%,0.01101,27.7312,0,Brand 2,0.11%,12%,18,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,0.101,0.5714,202,81.1,260,6.7084,Medium
+5330,48%,35%,0.16041,26.4204,63,Brand 32,31.64%,13%,110,Masala Chai,36,Vitamin_Rich,Badam Milk,0.45,5.0562,665,68.6,20,28.6084,Medium
+5331,35%,0%,0.02871,0.0445,8,Brand 12,0.11%,7%,32,Masala Chai,11,Low_Fat,Rose Milk,0.101,0.3278,88,4.8,53,11.593,Medium
+5332,65%,36%,0.02788,35.4428,79,Brand 32,37.17%,7%,51,Lassi Blends,10,Low_Fat,Full Cream Buffalo Milk,2.203,1.6472,624,43.6,25,25.1998,Medium
+5333,32%,27%,0.01101,30.4322,22,Brand 25,18.68%,5%,14,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,0.7743,517,23.8,155,24.9292,Medium
+5334,12%,0%,0.01825,7.3104,17,Brand 17,0.11%,12%,22,Nimbu Pani & Shikanji,11,Low_Fat,Large Kulhad,0.101,0.0,0,3.0,252,3.3381,Low
+5335,101%,53%,0.15151,37.836,74,Brand 4,38.76%,13%,131,Mango Shake,17,Vitamin_Rich,Elaichi Doodh,0.101,3.5543,648,124.3,220,33.9288,Medium
+5336,46%,51%,0.02463,25.4456,9,Brand 13,42.57%,9%,143,South Indian Filter Coffee,16,Low_Fat,Elaichi Doodh,3.354,0.6243,884,54.3,32,12.5655,Medium
+5337,10%,0%,0.01981,31.8658,29,Brand 27,1.79%,8%,29,Cold Coffee,11,Low_Fat,Large Kulhad,0.101,0.6431,86,3.0,518,10.0393,Medium
+5338,46%,0%,0.03211,30.4586,40,Brand 32,0.11%,51%,72,Special Spiced Chai,11,Low_Fat,Full Cream Buffalo Milk,0.101,0.1179,353,97.6,41,16.5205,Medium
+5339,56%,28%,0.01424,31.6314,79,Brand 10,37.35%,5%,60,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,0.101,0.5159,356,21.1,256,17.7647,Medium
+5340,10%,0%,0.0127,0.0,0,Brand 13,0.11%,11%,2,South Indian Filter Coffee,12,Low_Fat,Extra Large Kulhad,0.101,0.0,47,3.0,628,3.3381,Medium
+5341,24%,0%,0.08471,24.0123,30,Brand 21,0.11%,13%,35,South Indian Filter Coffee,10,Low_Fat,Malai Milk,0.101,3.208,84,26.5,232,19.5439,Medium
+5342,114%,60%,0.08465,26.1133,29,Brand 28,27.71%,9%,88,Special Spiced Chai,18,Vitamin_Rich,Malai Milk,1.126,3.4817,471,106.9,169,20.3281,Medium
+5343,55%,40%,0.02365,26.4099,37,Brand 9,2.44%,9%,120,Special Spiced Chai,17,Vitamin_Rich,Saffron-Infused Milk,1.213,3.2797,576,66.6,116,18.7582,Medium
+5344,61%,31%,0.07895,35.6273,93,Brand 9,32.95%,11%,150,Masala Chai,17,Vitamin_Rich,Medium Glass,0.101,1.8778,580,78.7,173,37.025,Medium
+5345,10%,0%,0.01895,12.0649,0,Brand 20,0.93%,10%,103,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.4055,0,3.0,244,3.3381,Low
+5346,28%,0%,0.01823,22.5798,53,Brand 8,0.11%,14%,33,Nimbu Pani & Shikanji,10,Low_Fat,Large Kulhad,0.101,0.3093,0,3.0,24,16.5896,Low
+5347,79%,13%,0.03788,22.9546,14,Brand 19,0.11%,6%,70,Nimbu Pani & Shikanji,11,Low_Fat,Kesar Doodh,0.101,0.6398,38,5.7,54,21.7415,Medium
+5348,33%,27%,0.01101,25.1358,61,Brand 23,0.11%,5%,189,Masala Chai,10,Low_Fat,Rose Milk,0.101,0.4325,212,50.0,20,10.5813,Low
+5349,25%,24%,0.01279,29.1717,26,Brand 9,33.17%,49%,118,Masala Chai,11,Vitamin_Rich,Badam Milk,1.839,0.6671,217,29.0,22,15.5171,Medium
+5350,114%,46%,0.16841,29.7184,21,Brand 15,63.44%,14%,151,Mango Shake,49,Vitamin_Rich,Malai Milk,3.875,3.0294,671,143.0,155,11.5419,High
+5351,16%,0%,0.01187,23.2292,9,Brand 6,1.21%,5%,153,Mango Shake,10,Low_Fat,Elaichi Doodh,3.837,1.3974,575,40.4,140,23.6448,High
+5352,67%,23%,0.02894,36.1624,85,Brand 32,17.64%,5%,167,Masala Chai,11,Low_Fat,Badam Milk,0.101,1.0648,243,20.0,20,22.7876,Medium
+5353,28%,2%,0.02354,11.497,0,Brand 19,0.11%,7%,2,South Indian Filter Coffee,10,Low_Fat,Kesar Doodh,0.101,0.2694,244,8.3,160,13.0164,Medium
+5354,10%,31%,0.02497,21.7129,18,Brand 4,0.11%,5%,124,Special Spiced Chai,11,Low_Fat,Rose Milk,3.425,0.4315,0,16.7,191,5.6841,Medium
+5355,10%,0%,0.01934,13.5317,11,Brand 12,0.11%,12%,75,Nimbu Pani & Shikanji,10,Low_Fat,Saffron-Infused Milk,0.101,0.2208,81,3.0,239,4.6503,Medium
+5356,45%,30%,0.01804,31.6675,29,Brand 15,28.51%,11%,45,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,4.75,1.6524,309,37.0,136,7.9297,High
+5357,101%,45%,0.15128,27.3433,37,Brand 4,43.50%,405%,205,Mango Shake,17,Vitamin_Rich,Elaichi Doodh,179.339,3.1373,684,123.7,38,33.0885,High
+5358,73%,31%,0.08134,31.2276,82,Brand 19,0.11%,6%,56,Lassi Blends,22,Vitamin_Rich,Elaichi Doodh,0.101,1.3693,127,29.4,256,27.157,Medium
+5359,23%,27%,0.03723,20.9046,78,Brand 9,0.86%,12%,187,Cold Coffee,17,Vitamin_Rich,Elaichi Doodh,0.665,2.8981,347,54.4,146,16.8955,Medium
+5360,53%,29%,0.03525,26.939,41,Brand 19,15.65%,10%,149,Masala Chai,17,Vitamin_Rich,Full Cream Buffalo Milk,0.101,0.7295,405,53.9,273,15.72,Medium
+5361,44%,30%,0.02931,23.1249,55,Brand 14,26.07%,9%,30,Masala Chai,10,Vitamin_Rich,Malai Milk,0.101,3.74,69,35.5,126,21.252,Medium
+5362,63%,55%,0.09224,29.3965,88,Brand 14,33.58%,82%,174,Mango Shake,55,Vitamin_Rich,Kesar Doodh,0.101,3.4879,824,143.0,64,34.9861,High
+5363,17%,4%,0.03015,0.0,0,Brand 21,1.10%,10%,2,South Indian Filter Coffee,12,Low_Fat,Rose Milk,0.101,0.5075,185,28.4,562,5.8562,Medium
+5364,38%,1%,0.02456,23.0908,22,Brand 15,0.11%,7%,8,South Indian Filter Coffee,10,Low_Fat,Badam Milk,0.101,0.8324,200,33.2,253,3.5642,Medium
+5365,118%,55%,0.08116,39.3433,59,Brand 1,0.11%,16%,48,South Indian Filter Coffee,25,Vitamin_Rich,Malai Milk,0.407,3.8485,575,140.9,57,42.0413,Medium
+5366,84%,44%,0.0985,27.4664,54,Brand 4,2.45%,87%,172,Special Spiced Chai,16,Vitamin_Rich,Rose Milk,366.742,3.3979,477,143.0,69,22.8365,High
+5367,37%,6%,0.03393,24.3833,14,Brand 12,0.11%,5%,106,Nimbu Pani & Shikanji,11,Low_Fat,Extra Large Kulhad,0.617,1.0125,102,35.4,251,7.5944,Medium
+5368,10%,8%,0.02787,19.8136,6,Brand 33,0.11%,11%,54,Nimbu Pani & Shikanji,12,Low_Fat,Large Kulhad,0.101,0.5896,0,3.7,604,6.2595,Medium
+5369,55%,29%,0.01101,34.6768,39,Brand 3,24.01%,72%,99,Lassi Blends,10,Low_Fat,Badam Milk,0.101,0.8501,423,99.9,70,22.3362,Medium
+5370,42%,36%,0.09842,27.2122,6,Brand 15,12.62%,11%,50,Cold Coffee,22,Vitamin_Rich,Small Glass,0.101,4.289,391,40.9,205,17.7198,Medium
+5371,50%,26%,0.03285,38.375,78,Brand 14,16.05%,10%,95,Cold Coffee,10,Low_Fat,Badam Milk,0.101,1.5414,868,31.6,249,24.7734,Medium
+5372,101%,47%,0.02845,23.1999,9,Brand 32,0.11%,9%,182,Special Spiced Chai,17,Vitamin_Rich,Saffron-Infused Milk,0.136,0.552,453,80.1,44,17.4221,Medium
+5373,10%,30%,0.09059,26.5105,18,Brand 6,0.11%,58%,130,Lassi Blends,10,Low_Fat,Kesar Doodh,2.004,0.887,419,18.8,20,14.2915,Medium
+5374,35%,10%,0.02126,22.814,13,Brand 19,0.11%,9%,53,Nimbu Pani & Shikanji,17,High_Protein,Malai Milk,3.479,0.2794,234,9.1,224,8.6094,Medium
+5375,40%,23%,0.04168,27.6485,58,Brand 32,36.48%,10%,56,Cold Coffee,10,Vitamin_Rich,Badam Milk,0.563,0.3671,294,50.2,26,14.4802,High
+5376,125%,25%,0.08673,35.4159,13,Brand 25,0.11%,8%,89,Cold Coffee,11,Low_Fat,Large Kulhad,0.101,1.441,67,11.3,568,21.8874,Medium
+5377,58%,49%,0.02545,21.8393,16,Brand 14,0.11%,11%,169,South Indian Filter Coffee,15,Low_Fat,Saffron-Infused Milk,0.913,0.4702,525,78.8,267,12.8893,Medium
+5378,20%,26%,0.08635,35.405,47,Brand 32,33.61%,38%,90,Mango Shake,10,Low_Fat,Full Cream Buffalo Milk,273.252,0.8687,423,19.9,20,31.5941,High
+5379,92%,29%,0.09333,34.8084,77,Brand 6,6.89%,9%,148,Cold Coffee,25,Vitamin_Rich,Saffron-Infused Milk,0.101,1.5802,777,41.4,257,22.4912,Medium
+5380,50%,29%,0.10226,27.6868,53,Brand 26,11.78%,8%,127,Light Buttermilk (Chaas),16,Low_Fat,Elaichi Doodh,0.101,1.072,549,33.0,30,21.6249,Medium
+5381,100%,62%,0.03072,28.6072,29,Brand 15,0.11%,6%,156,Special Spiced Chai,47,Vitamin_Rich,Kesar Doodh,0.101,2.6992,550,59.1,32,26.7464,Medium
+5382,44%,30%,0.09419,37.1619,63,Brand 3,23.51%,5%,152,Cold Coffee,24,Vitamin_Rich,Malai Milk,0.101,4.3312,404,40.3,28,22.154,Medium
+5383,60%,30%,0.01942,26.5172,42,Brand 15,23.17%,7%,211,South Indian Filter Coffee,16,Vitamin_Rich,Badam Milk,0.101,1.5347,374,44.8,152,24.3172,Medium
+5384,95%,33%,0.03605,20.4071,30,Brand 10,1.15%,9%,115,South Indian Filter Coffee,11,Vitamin_Rich,Malai Milk,0.101,3.561,331,72.2,140,11.6564,Medium
+5385,32%,34%,0.03308,23.6364,42,Brand 8,0.11%,10%,89,Special Spiced Chai,10,Low_Fat,Rose Milk,0.101,1.056,320,50.1,237,16.5423,Medium
+5386,39%,45%,0.0161,22.1422,21,Brand 9,25.33%,8%,110,South Indian Filter Coffee,16,Vitamin_Rich,Badam Milk,6.125,1.0392,238,30.3,160,15.159,Medium
+5387,10%,0%,0.02168,0.6848,12,Brand 19,0.16%,13%,2,South Indian Filter Coffee,11,Low_Fat,Full Cream Buffalo Milk,0.101,0.7238,0,3.0,253,7.8738,Medium
+5388,96%,0%,0.0133,28.1845,21,Brand 14,0.11%,7%,13,South Indian Filter Coffee,11,Low_Fat,Medium Glass,0.101,0.1782,75,10.2,20,5.0634,Medium
+5389,31%,47%,0.03835,16.7659,33,Brand 2,0.11%,9%,120,South Indian Filter Coffee,17,Vitamin_Rich,Malai Milk,0.101,0.7328,423,47.6,144,15.9045,Medium
+5390,34%,59%,0.02565,23.1636,10,Brand 15,1.54%,14%,57,Masala Chai,11,Vitamin_Rich,Malai Milk,4.188,1.5799,200,28.8,155,11.6305,High
+5391,41%,35%,0.07607,40.8874,75,Brand 10,27.70%,8%,151,Cold Coffee,27,Vitamin_Rich,Malai Milk,0.101,3.5974,607,76.6,149,34.5059,Medium
+5392,52%,28%,0.0971,27.1035,32,Brand 19,27.50%,6%,171,Light Buttermilk (Chaas),11,Vitamin_Rich,Badam Milk,0.101,1.184,237,90.1,204,16.4981,Medium
+5393,93%,39%,0.13261,34.1429,55,Brand 33,41.37%,15%,142,Special Spiced Chai,40,Vitamin_Rich,Badam Milk,295.073,3.8197,539,133.5,67,24.4981,High
+5394,133%,54%,0.07997,36.6921,55,Brand 28,40.23%,13%,65,Mango Shake,45,Vitamin_Rich,Malai Milk,6.446,3.8637,385,105.3,251,31.0324,Medium
+5395,111%,55%,0.09073,23.0838,18,Brand 9,0.11%,13%,194,South Indian Filter Coffee,39,Low_Fat,Malai Milk,0.101,3.2967,653,100.2,225,14.5312,Medium
+5396,18%,8%,0.02523,4.3624,0,Brand 20,0.11%,15%,71,Nimbu Pani & Shikanji,11,Low_Fat,Large Kulhad,4.792,0.1313,0,17.6,207,3.3381,Medium
+5397,10%,0%,0.01271,15.53,0,Brand 13,0.11%,11%,2,Nimbu Pani & Shikanji,10,Low_Fat,Extra Large Kulhad,1.669,0.0,111,3.0,401,3.3381,Low
+5398,16%,5%,0.01235,0.0,16,Brand 16,0.11%,7%,7,South Indian Filter Coffee,10,Low_Fat,Badam Milk,0.101,0.0,160,9.9,172,3.8436,Medium
+5399,65%,32%,0.02976,22.4842,28,Brand 32,32.11%,6%,89,Special Spiced Chai,10,Vitamin_Rich,Badam Milk,6.196,0.8623,0,34.7,37,12.0104,Medium
+5400,39%,28%,0.08784,24.1168,27,Brand 32,0.11%,5%,4,South Indian Filter Coffee,10,Vitamin_Rich,Malai Milk,1.635,3.4728,131,34.4,148,16.1139,Medium
+5401,51%,31%,0.09257,10.4928,21,Brand 8,0.11%,10%,26,South Indian Filter Coffee,11,Low_Fat,Malai Milk,0.101,1.1145,6,37.2,234,15.1369,Medium
+5402,57%,45%,0.10246,29.3641,40,Brand 4,1.44%,5%,80,Masala Chai,49,Vitamin_Rich,Malai Milk,0.101,3.1578,504,37.2,255,24.6275,Medium
+5403,50%,33%,0.09079,37.9417,51,Brand 26,8.99%,7%,122,Cold Coffee,12,Vitamin_Rich,Badam Milk,1.719,0.9924,402,40.1,38,29.6762,Medium
+5404,49%,37%,0.0974,34.5976,72,Brand 32,15.26%,6%,174,Lassi Blends,51,Vitamin_Rich,Malai Milk,1.054,3.9257,1051,74.5,37,26.5947,Medium
+5405,29%,46%,0.03089,12.9047,20,Brand 10,0.11%,6%,70,South Indian Filter Coffee,12,Low_Fat,Malai Milk,1.085,0.9831,210,60.1,294,9.6684,Medium
+5406,84%,29%,0.02836,25.7341,43,Brand 28,35.88%,6%,77,Masala Chai,11,Vitamin_Rich,Badam Milk,1.243,0.9956,192,64.2,31,24.0626,Medium
+5407,138%,34%,0.18461,20.2833,21,Brand 16,21.52%,10%,146,Masala Chai,25,Low_Fat,Malai Milk,0.101,2.9069,537,93.2,234,12.2206,Medium
+5408,10%,6%,0.02106,4.4973,0,Brand 13,0.11%,14%,42,Nimbu Pani & Shikanji,11,Low_Fat,Malai Milk,0.101,0.5645,0,3.0,520,3.3381,Medium
+5409,27%,31%,0.03159,26.9716,24,Brand 29,0.99%,7%,149,Masala Chai,12,Low_Fat,Malai Milk,0.101,2.5935,130,37.6,44,9.3631,Medium
+5410,31%,6%,0.02212,26.2315,7,Brand 12,23.35%,7%,101,Special Spiced Chai,17,Low_Fat,Rose Milk,4.023,1.5309,88,32.7,238,12.9275,Medium
+5411,98%,31%,0.08821,33.3224,108,Brand 32,5.53%,8%,62,Masala Chai,27,Low_Fat,Elaichi Doodh,0.101,1.4754,1131,50.1,20,41.3335,Medium
+5412,42%,32%,0.09507,15.5217,0,Brand 18,0.11%,8%,38,South Indian Filter Coffee,35,Vitamin_Rich,Rose Milk,0.101,0.7109,266,62.2,149,5.5953,Medium
+5413,53%,29%,0.09672,34.1318,24,Brand 32,21.90%,7%,100,South Indian Filter Coffee,45,Vitamin_Rich,Malai Milk,1.128,3.1693,297,49.3,229,24.5262,Medium
+5414,63%,30%,0.10407,31.3267,46,Brand 32,26.28%,9%,227,Lassi Blends,11,Vitamin_Rich,Badam Milk,1.404,1.4641,566,44.3,225,17.3846,Medium
+5415,24%,4%,0.02016,6.9096,24,Brand 19,0.11%,6%,131,South Indian Filter Coffee,11,Low_Fat,Badam Milk,0.101,0.441,182,48.2,225,3.5174,Medium
+5416,49%,36%,0.09308,34.2822,68,Brand 26,33.79%,10%,163,Cold Coffee,24,Vitamin_Rich,Malai Milk,1.859,3.8088,1254,35.2,145,38.9247,Medium
+5417,75%,0%,0.02955,23.1438,58,Brand 32,0.11%,10%,45,South Indian Filter Coffee,11,Low_Fat,Badam Milk,0.101,0.5051,987,37.2,45,10.7409,Medium
+5418,60%,32%,0.09113,31.6695,38,Brand 4,27.75%,5%,45,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,1.1023,289,28.6,130,12.5345,Medium
+5419,41%,27%,0.08686,35.7762,50,Brand 2,11.01%,44%,105,Lassi Blends,23,Low_Fat,Saffron-Infused Milk,3.498,0.9077,488,26.1,20,34.0419,Medium
+5420,27%,0%,0.01904,24.1419,14,Brand 4,0.11%,13%,61,Lassi Blends,11,Low_Fat,Saffron-Infused Milk,2.043,0.9294,207,3.0,129,8.965,Medium
+5421,74%,34%,0.09587,23.261,49,Brand 19,23.78%,7%,46,South Indian Filter Coffee,10,Vitamin_Rich,Elaichi Doodh,1.005,1.2551,283,30.8,151,15.325,Medium
+5422,64%,25%,0.02342,26.5875,37,Brand 9,23.11%,5%,105,Cold Coffee,17,Vitamin_Rich,Badam Milk,0.101,3.1488,344,30.0,151,18.655,Medium
+5423,51%,31%,0.01101,22.0903,21,Brand 21,0.11%,11%,69,South Indian Filter Coffee,10,Vitamin_Rich,Elaichi Doodh,7.55,1.1516,499,76.2,162,10.3878,Medium
+5424,66%,8%,0.0247,21.8896,0,Brand 32,0.11%,5%,2,South Indian Filter Coffee,10,Low_Fat,Extra Large Kulhad,0.654,0.5655,98,5.2,136,4.6896,Medium
+5425,65%,51%,0.02678,21.4434,22,Brand 26,0.11%,9%,103,South Indian Filter Coffee,28,Vitamin_Rich,Elaichi Doodh,0.687,0.6587,385,63.1,147,16.4091,Medium
+5426,76%,51%,0.08459,32.3516,64,Brand 32,2.64%,8%,199,Masala Chai,18,Vitamin_Rich,Malai Milk,0.101,3.1494,594,37.9,149,26.7767,Medium
+5427,38%,38%,0.09393,34.3238,71,Brand 31,1.18%,56%,37,Masala Chai,11,Vitamin_Rich,Badam Milk,0.991,0.9087,476,50.3,230,27.6089,Medium
+5428,81%,58%,0.14674,34.7461,31,Brand 11,0.11%,19%,24,South Indian Filter Coffee,49,Vitamin_Rich,Malai Milk,1.52,4.6591,530,143.0,273,33.8719,Medium
+5429,10%,30%,0.02539,21.9802,0,Brand 30,0.11%,9%,25,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,1.723,0.2994,71,3.0,161,7.9989,Medium
+5430,109%,24%,0.0331,24.7261,2,Brand 11,36.20%,9%,152,South Indian Filter Coffee,10,Low_Fat,Malai Milk,2.949,0.8254,194,96.0,249,11.9432,High
+5431,51%,26%,0.08055,31.7443,62,Brand 14,37.28%,94%,138,Lassi Blends,35,Vitamin_Rich,Malai Milk,0.101,2.4219,477,109.8,215,36.7908,High
+5432,47%,30%,0.01821,36.6084,71,Brand 21,19.81%,7%,175,Cold Coffee,11,Low_Fat,Malai Milk,4.077,1.1257,305,36.3,20,33.3779,Medium
+5433,42%,27%,0.10013,24.3463,23,Brand 32,0.11%,9%,86,Masala Chai,11,Low_Fat,Badam Milk,1.234,2.2625,170,24.6,150,3.9619,Medium
+5434,55%,29%,0.09804,30.1951,34,Brand 10,20.92%,7%,159,Masala Chai,11,Vitamin_Rich,Malai Milk,0.101,3.7521,334,47.9,141,18.6966,Medium
+5435,10%,1%,0.01101,6.8777,6,Brand 19,0.11%,14%,19,Nimbu Pani & Shikanji,11,Low_Fat,Large Kulhad,0.101,0.7677,91,3.0,243,3.3381,Low
+5436,46%,39%,0.09854,28.724,50,Brand 32,7.59%,59%,198,Masala Chai,11,Vitamin_Rich,Rose Milk,4.188,0.8677,339,42.7,20,13.1873,Medium
+5437,10%,4%,0.02206,18.7979,30,Brand 16,0.11%,9%,46,Kadak Chai,11,Low_Fat,Large Kulhad,1.866,0.2297,388,4.4,62,4.0431,Low
+5438,75%,29%,0.01101,25.4386,51,Brand 32,39.36%,5%,120,Cold Coffee,11,Vitamin_Rich,Badam Milk,3.51,1.6871,222,24.0,47,22.8082,Medium
+5439,90%,44%,0.18027,27.1442,30,Brand 11,44.92%,10%,172,Masala Chai,18,Vitamin_Rich,Full Cream Buffalo Milk,347.406,3.1426,744,58.4,206,16.0084,High
+5440,25%,4%,0.02029,20.1372,47,Brand 10,0.11%,7%,87,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,3.356,1.2896,660,37.4,236,5.1505,Medium
+5441,92%,54%,0.02895,39.6902,22,Brand 17,0.11%,12%,128,South Indian Filter Coffee,19,Low_Fat,Elaichi Doodh,2.616,0.8814,748,71.7,278,23.5105,Medium
+5442,60%,36%,0.01193,23.2226,27,Brand 20,22.27%,7%,153,Lassi Blends,10,Vitamin_Rich,Malai Milk,4.876,1.0777,434,39.8,135,15.5958,Medium
+5443,16%,0%,0.01372,12.0712,0,Brand 7,1.52%,5%,20,South Indian Filter Coffee,10,Low_Fat,Large Kulhad,0.35,0.0,39,3.0,503,3.3381,Medium
+5444,36%,4%,0.02612,5.18,21,Brand 12,0.11%,9%,154,South Indian Filter Coffee,10,Low_Fat,Extra Large Kulhad,0.863,0.4907,92,6.9,261,13.9662,Low
+5445,59%,31%,0.07873,30.2361,75,Brand 17,0.56%,6%,36,Cold Coffee,23,Low_Fat,Elaichi Doodh,1.748,0.6837,204,18.9,148,30.8508,Medium
+5446,40%,28%,0.01281,23.1378,10,Brand 19,23.90%,6%,142,South Indian Filter Coffee,16,High_Protein,Elaichi Doodh,3.792,1.0833,422,17.0,217,6.5405,Medium
+5447,30%,23%,0.10535,23.6205,42,Brand 14,22.58%,5%,164,Lassi Blends,11,Vitamin_Rich,Malai Milk,0.101,3.9411,317,41.7,265,12.4484,Medium
+5448,52%,20%,0.10858,28.494,27,Brand 12,1.31%,8%,142,South Indian Filter Coffee,10,Low_Fat,Saffron-Infused Milk,0.101,1.0931,139,18.1,223,10.1359,Medium
+5449,47%,54%,0.10147,31.1585,73,Brand 25,14.81%,8%,70,Lassi Blends,11,Low_Fat,Elaichi Doodh,0.101,0.8856,411,45.9,45,34.5525,Medium
+5450,111%,43%,0.02446,21.0333,6,Brand 16,0.11%,10%,84,Masala Chai,16,Vitamin_Rich,Extra Large Kulhad,0.203,0.6256,460,67.3,144,18.571,Medium
+5451,40%,29%,0.01658,32.6449,30,Brand 1,1.79%,8%,61,South Indian Filter Coffee,10,Low_Fat,Saffron-Infused Milk,0.476,0.0,307,3.0,227,14.0292,Medium
+5452,38%,11%,0.01806,14.5793,11,Brand 13,0.11%,6%,2,South Indian Filter Coffee,10,High_Protein,Kesar Doodh,0.101,0.8291,349,41.6,156,11.0481,Medium
+5453,24%,57%,0.01101,29.4234,21,Brand 23,1.36%,10%,122,Cold Coffee,18,Vitamin_Rich,Saffron-Infused Milk,5.848,1.348,403,44.0,180,14.7936,Medium
+5454,60%,32%,0.1064,30.7091,37,Brand 3,0.16%,7%,20,Lassi Blends,10,Vitamin_Rich,Badam Milk,0.101,2.3051,156,39.0,138,16.9309,Medium
+5455,98%,55%,0.03796,22.0388,15,Brand 32,0.11%,7%,139,South Indian Filter Coffee,10,Vitamin_Rich,Rose Milk,0.294,0.554,370,110.3,268,15.42,Medium
+5456,38%,29%,0.01797,28.5886,37,Brand 33,16.81%,5%,30,Masala Chai,12,Vitamin_Rich,Rose Milk,0.101,1.2964,181,23.8,43,33.1612,Medium
+5457,41%,35%,0.0326,21.9011,39,Brand 3,1.69%,7%,138,South Indian Filter Coffee,16,Low_Fat,Saffron-Infused Milk,0.101,1.592,630,40.1,139,15.7258,Medium
+5458,87%,28%,0.08674,32.882,75,Brand 11,26.85%,5%,145,Masala Chai,31,Low_Fat,Elaichi Doodh,0.941,1.0288,297,23.5,20,22.5282,Medium
+5459,35%,32%,0.09052,28.8805,25,Brand 31,19.19%,8%,162,South Indian Filter Coffee,21,Low_Fat,Saffron-Infused Milk,0.101,1.0864,437,49.4,166,18.9535,Medium
+5460,104%,51%,0.01939,23.1934,10,Brand 25,0.11%,8%,44,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.5496,187,29.5,251,6.8862,Medium
+5461,19%,38%,0.0208,21.5205,18,Brand 26,0.11%,5%,142,Light Buttermilk (Chaas),16,Low_Fat,Kesar Doodh,0.101,0.2935,618,34.4,152,12.2478,Medium
+5462,27%,53%,0.01245,22.3549,28,Brand 25,0.11%,14%,166,Masala Chai,17,Low_Fat,Kesar Doodh,2.988,0.5818,674,35.7,141,15.3903,Medium
+5463,115%,29%,0.08611,34.1111,53,Brand 10,30.63%,10%,160,Cold Coffee,27,Low_Fat,Elaichi Doodh,2.087,2.9499,235,52.2,200,35.9932,Medium
+5464,77%,42%,0.01313,25.9223,23,Brand 33,1.67%,10%,26,South Indian Filter Coffee,12,Low_Fat,Elaichi Doodh,0.101,0.7552,198,36.7,290,8.3224,Medium
+5465,110%,59%,0.17322,22.8737,26,Brand 6,0.11%,12%,111,South Indian Filter Coffee,16,Vitamin_Rich,Malai Milk,0.101,4.3641,593,127.7,54,19.157,Medium
+5466,54%,29%,0.08557,29.9047,82,Brand 32,20.30%,31%,165,Lassi Blends,10,Low_Fat,Badam Milk,0.101,0.9944,157,13.6,24,11.3007,Medium
+5467,31%,34%,0.10157,26.9443,48,Brand 32,0.11%,8%,46,Masala Chai,11,Vitamin_Rich,Elaichi Doodh,3.607,1.4621,380,39.9,43,23.8528,Medium
+5468,12%,3%,0.02308,22.4909,11,Brand 27,0.11%,7%,117,Light Buttermilk (Chaas),10,Low_Fat,Saffron-Infused Milk,2.673,0.2564,342,17.5,134,19.6728,Medium
+5469,41%,2%,0.01101,21.1198,7,Brand 4,0.11%,10%,18,Masala Chai,11,Low_Fat,Elaichi Doodh,2.129,0.7641,137,29.0,155,8.8151,Medium
+5470,31%,6%,0.02799,1.268,8,Brand 28,0.11%,9%,2,South Indian Filter Coffee,10,Low_Fat,Extra Large Kulhad,0.101,0.5554,149,6.6,157,6.231,Medium
+5471,36%,6%,0.0225,12.2325,36,Brand 31,0.11%,13%,22,Nimbu Pani & Shikanji,11,Low_Fat,Large Kulhad,0.807,0.3641,0,20.3,140,12.4536,Low
+5472,147%,49%,0.15068,26.4426,66,Brand 32,26.08%,11%,166,South Indian Filter Coffee,28,Vitamin_Rich,Elaichi Doodh,0.101,4.7099,551,108.5,268,40.3325,Medium
+5473,20%,9%,0.02724,8.0044,21,Brand 4,0.11%,7%,66,Masala Chai,11,Low_Fat,Large Kulhad,0.101,0.3937,119,22.5,507,9.0832,Medium
+5474,116%,51%,0.09636,25.6931,52,Brand 26,0.11%,10%,72,Special Spiced Chai,27,Vitamin_Rich,Ek Chhoti Pyali,0.101,2.9102,166,89.8,132,19.9011,Medium
+5475,64%,25%,0.01101,22.5757,6,Brand 32,0.11%,13%,34,Special Spiced Chai,11,Vitamin_Rich,Badam Milk,0.101,0.7215,143,38.1,35,10.5358,Medium
+5476,26%,31%,0.02041,33.1255,15,Brand 5,0.11%,6%,32,South Indian Filter Coffee,12,Low_Fat,Large Kulhad,0.101,0.1315,10,11.1,22,10.8637,Low
+5477,10%,4%,0.023,11.044,0,Brand 1,0.11%,13%,36,Masala Chai,11,Low_Fat,Medium Glass,0.101,0.0,110,3.0,317,3.3381,Low
+5478,38%,22%,0.02096,25.852,21,Brand 9,2.09%,5%,73,South Indian Filter Coffee,11,Low_Fat,Badam Milk,1.027,0.9512,5,32.4,43,10.0898,Medium
+5479,11%,0%,0.02123,25.9724,28,Brand 25,0.11%,6%,75,Nimbu Pani & Shikanji,11,Low_Fat,Kesar Doodh,0.101,0.0,168,50.3,239,17.1954,Low
+5480,47%,30%,0.04472,20.6162,28,Brand 17,0.11%,5%,169,Masala Chai,10,Low_Fat,Saffron-Infused Milk,0.101,0.4987,139,31.9,229,6.6387,Medium
+5481,69%,33%,0.09521,37.3235,61,Brand 9,43.41%,7%,139,Cold Coffee,17,Vitamin_Rich,Elaichi Doodh,1.069,4.7414,978,38.9,241,22.3869,Medium
+5482,43%,28%,0.11111,18.2784,17,Brand 3,0.11%,7%,55,Masala Chai,10,Vitamin_Rich,Malai Milk,0.101,1.4068,254,43.9,24,8.2946,Medium
+5483,47%,23%,0.03041,23.7157,35,Brand 27,25.04%,8%,159,Lassi Blends,11,Low_Fat,Badam Milk,1.587,0.9947,199,20.4,26,24.6599,Medium
+5484,148%,35%,0.09387,28.8371,32,Brand 4,26.09%,7%,75,South Indian Filter Coffee,25,Vitamin_Rich,Malai Milk,0.101,4.5905,287,41.1,131,20.8094,Medium
+5485,10%,0%,0.04013,17.7282,0,Brand 16,0.11%,9%,17,Light Buttermilk (Chaas),10,Low_Fat,Medium Glass,0.479,0.0,0,3.0,418,3.4577,Medium
+5486,69%,36%,0.11127,31.7728,29,Brand 32,33.57%,7%,190,Masala Chai,11,Vitamin_Rich,Malai Milk,1.815,1.72,54,52.9,201,17.973,Medium
+5487,15%,21%,0.09444,28.1248,47,Brand 5,0.11%,9%,77,Cold Coffee,10,Low_Fat,Extra Large Kulhad,0.101,0.5081,924,25.6,242,24.5205,Medium
+5488,39%,31%,0.07285,33.0179,67,Brand 14,22.32%,10%,168,Lassi Blends,16,Vitamin_Rich,Full Cream Buffalo Milk,247.45,2.0554,417,33.4,34,29.0503,Medium
+5489,62%,37%,0.09092,28.3032,71,Brand 14,0.11%,84%,134,Masala Chai,27,Low_Fat,Saffron-Infused Milk,0.101,0.5597,157,30.8,205,19.1109,High
+5490,35%,28%,0.01101,22.5354,32,Brand 19,0.11%,5%,163,Masala Chai,11,Low_Fat,Elaichi Doodh,3.895,0.2723,388,21.2,20,15.6554,Medium
+5491,62%,52%,0.09221,28.0844,63,Brand 2,0.11%,12%,164,South Indian Filter Coffee,29,Vitamin_Rich,Malai Milk,0.101,1.6628,306,41.5,287,22.9361,Medium
+5492,98%,34%,0.03059,28.7764,47,Brand 26,23.24%,11%,112,Light Buttermilk (Chaas),10,Low_Fat,Badam Milk,4.9,1.5528,1155,59.8,238,16.7738,Medium
+5493,39%,24%,0.01456,28.162,9,Brand 19,0.11%,10%,78,Masala Chai,11,Low_Fat,Large Kulhad,0.101,1.312,44,3.0,253,5.341,Medium
+5494,10%,43%,0.02737,29.492,23,Brand 23,15.68%,5%,67,Masala Chai,17,Low_Fat,Elaichi Doodh,0.211,0.8577,264,20.7,243,9.1324,Medium
+5495,81%,50%,0.02645,36.4713,60,Brand 15,0.28%,10%,143,Special Spiced Chai,24,Low_Fat,Saffron-Infused Milk,0.82,0.2213,899,36.9,59,25.9838,Medium
+5496,41%,5%,0.07224,36.1404,39,Brand 1,0.11%,10%,45,Special Spiced Chai,12,Low_Fat,Large Kulhad,0.101,0.3639,973,72.5,39,18.845,Low
+5497,54%,29%,0.02904,24.9403,15,Brand 29,22.34%,10%,93,Masala Chai,11,Low_Fat,Badam Milk,0.136,1.5473,498,46.7,245,16.6434,Medium
+5498,26%,31%,0.07861,41.6536,56,Brand 10,22.19%,346%,54,Lassi Blends,28,Vitamin_Rich,Malai Milk,3.277,5.0375,1014,58.7,20,46.6198,Medium
+5499,36%,28%,0.10063,27.9335,26,Brand 27,0.11%,9%,24,Masala Chai,27,Vitamin_Rich,Ek Chhoti Pyali,4.375,1.1378,177,48.7,195,26.7783,Medium
+5500,37%,35%,0.08212,26.3503,70,Brand 12,29.49%,11%,88,Special Spiced Chai,12,Low_Fat,Malai Milk,0.101,0.9033,392,31.2,20,24.1866,High
+5501,42%,33%,0.01101,27.5382,24,Brand 3,1.48%,5%,38,South Indian Filter Coffee,16,Low_Fat,Badam Milk,0.916,2.6812,379,59.1,62,19.8153,Medium
+5502,33%,0%,0.02048,21.5129,28,Brand 21,0.11%,11%,20,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.1731,175,23.9,49,13.7231,Medium
+5503,58%,29%,0.04055,16.284,17,Brand 21,0.11%,5%,22,South Indian Filter Coffee,10,Low_Fat,Badam Milk,0.101,0.1689,18,11.6,146,9.2679,Medium
+5504,102%,30%,0.02884,19.0781,7,Brand 32,25.35%,13%,69,South Indian Filter Coffee,10,Vitamin_Rich,Rose Milk,2.226,1.3367,266,34.2,51,3.5895,Medium
+5505,12%,51%,0.02961,26.7249,21,Brand 14,11.73%,9%,78,Nimbu Pani & Shikanji,17,Low_Fat,Full Cream Buffalo Milk,0.101,1.1444,175,35.8,248,18.4162,Medium
+5506,50%,38%,0.08752,34.9454,76,Brand 19,28.19%,13%,182,Special Spiced Chai,26,Vitamin_Rich,Malai Milk,2.117,4.1551,482,58.9,53,25.6555,Medium
+5507,19%,4%,0.01101,15.9929,0,Brand 19,0.11%,8%,14,Light Buttermilk (Chaas),11,Low_Fat,Large Kulhad,0.101,0.0,234,3.0,500,3.3381,Low
+5508,41%,32%,0.09185,29.4184,20,Brand 4,0.58%,11%,39,South Indian Filter Coffee,11,Low_Fat,Badam Milk,0.101,0.0,333,98.0,249,15.2486,Medium
+5509,79%,33%,0.02537,29.9616,28,Brand 14,0.11%,5%,83,South Indian Filter Coffee,16,Low_Fat,Kesar Doodh,2.102,0.2641,668,24.4,246,11.6589,Medium
+5510,40%,0%,0.01396,19.9062,5,Brand 5,0.11%,11%,26,South Indian Filter Coffee,10,Low_Fat,Rose Milk,0.101,0.8095,186,3.0,20,10.326,Medium
+5511,20%,2%,0.02987,21.0646,13,Brand 19,0.11%,7%,128,South Indian Filter Coffee,11,Low_Fat,Rose Milk,0.101,0.6841,220,14.4,584,7.1219,Medium
+5512,34%,33%,0.07198,32.3805,69,Brand 25,16.02%,62%,195,Lassi Blends,15,Vitamin_Rich,Full Cream Buffalo Milk,0.245,2.6442,424,41.4,89,16.9423,Medium
+5513,10%,6%,0.01101,4.1286,2,Brand 21,1.31%,8%,13,Masala Chai,10,Low_Fat,Large Kulhad,5.597,0.0,0,3.0,158,3.3381,Low
+5514,104%,47%,0.02685,29.6116,39,Brand 31,0.11%,9%,180,Light Buttermilk (Chaas),10,High_Protein,Malai Milk,0.101,0.9236,436,28.7,126,30.8029,Medium
+5515,10%,27%,0.06939,27.7217,59,Brand 1,26.91%,85%,146,Lassi Blends,26,Vitamin_Rich,Elaichi Doodh,1.866,3.6298,466,55.8,34,31.9073,High
+5516,21%,0%,0.02393,23.3896,26,Brand 17,0.92%,7%,86,South Indian Filter Coffee,10,Low_Fat,Kesar Doodh,0.101,0.1984,159,28.1,634,10.0301,Medium
+5517,37%,0%,0.0271,35.4941,19,Brand 19,14.80%,8%,88,Cold Coffee,11,Low_Fat,Badam Milk,0.101,0.7201,91,15.0,47,27.4431,Low
+5518,49%,25%,0.10642,25.2055,68,Brand 32,26.24%,5%,171,Lassi Blends,15,Vitamin_Rich,Badam Milk,0.101,3.2117,344,40.4,155,16.1289,Medium
+5519,74%,52%,0.01101,27.6765,75,Brand 33,26.74%,10%,206,Masala Chai,10,Vitamin_Rich,Badam Milk,6.501,1.6072,598,50.9,116,27.3857,High
+5520,45%,32%,0.02884,26.4341,38,Brand 10,0.55%,11%,11,Masala Chai,12,Low_Fat,Elaichi Doodh,0.101,0.7187,115,12.9,37,8.2206,Medium
+5521,10%,5%,0.03028,19.8298,13,Brand 18,0.11%,10%,2,Nimbu Pani & Shikanji,10,Low_Fat,Rose Milk,0.101,0.0,323,3.0,267,8.4825,Medium
+5522,80%,50%,0.03097,28.9451,60,Brand 33,0.13%,8%,35,Masala Chai,11,Low_Fat,Elaichi Doodh,6.773,2.4766,385,107.2,50,17.0003,High
+5523,46%,3%,0.02037,19.7897,16,Brand 11,42.92%,9%,51,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,2.43,0.7665,145,14.6,157,8.4112,Medium
+5524,82%,50%,0.07625,39.2343,93,Brand 10,18.60%,14%,50,Special Spiced Chai,50,Vitamin_Rich,Malai Milk,0.101,3.4101,578,138.4,227,43.5108,High
+5525,23%,24%,0.01101,29.9476,76,Brand 4,31.61%,43%,81,Cold Coffee,10,Vitamin_Rich,Badam Milk,259.172,1.3214,491,42.4,20,37.2727,Medium
+5526,78%,48%,0.20909,25.8531,20,Brand 22,0.11%,9%,36,South Indian Filter Coffee,43,Vitamin_Rich,Malai Milk,0.101,3.9623,379,114.1,149,24.4837,Medium
+5527,149%,63%,0.18655,27.4254,73,Brand 10,19.67%,12%,31,South Indian Filter Coffee,45,Vitamin_Rich,Malai Milk,1.223,3.8282,545,81.4,157,28.8451,Medium
+5528,83%,33%,0.10554,23.2464,30,Brand 14,15.41%,5%,100,South Indian Filter Coffee,10,Vitamin_Rich,Full Cream Buffalo Milk,0.334,1.4623,313,51.2,158,12.1564,Medium
+5529,10%,32%,0.04175,14.9343,33,Brand 19,0.11%,7%,192,Nimbu Pani & Shikanji,16,Low_Fat,Full Cream Buffalo Milk,1.382,1.1141,437,15.3,141,3.3381,Medium
+5530,115%,46%,0.0893,22.7102,15,Brand 9,1.61%,9%,131,South Indian Filter Coffee,25,Vitamin_Rich,Elaichi Doodh,0.236,3.47,475,44.0,130,15.1674,Medium
+5531,76%,33%,0.08252,26.6475,37,Brand 28,31.76%,8%,51,South Indian Filter Coffee,11,Vitamin_Rich,Elaichi Doodh,0.101,3.639,181,58.1,54,24.1025,Medium
+5532,10%,5%,0.01976,0.0,0,Brand 18,0.11%,12%,2,Masala Chai,10,Low_Fat,Kesar Doodh,0.101,0.3364,65,3.0,137,6.1168,Medium
+5533,129%,29%,0.0257,38.123,34,Brand 32,28.03%,7%,76,Masala Chai,10,Vitamin_Rich,Badam Milk,4.583,0.9241,506,65.7,20,18.6954,Medium
+5534,100%,59%,0.08617,25.9179,37,Brand 9,43.83%,11%,115,South Indian Filter Coffee,48,Vitamin_Rich,Malai Milk,4.774,3.7392,490,119.5,208,22.0967,Medium
+5535,51%,32%,0.06776,33.0954,35,Brand 17,33.58%,55%,68,Masala Chai,23,Vitamin_Rich,Malai Milk,0.101,1.5319,563,42.6,42,37.7585,Medium
+5536,12%,0%,0.03328,36.2058,23,Brand 27,0.11%,5%,132,Lassi Blends,11,Low_Fat,Saffron-Infused Milk,1.032,0.5856,218,23.0,235,14.2673,Medium
+5537,62%,51%,0.02629,20.4213,4,Brand 2,0.11%,6%,137,South Indian Filter Coffee,21,Vitamin_Rich,Full Cream Buffalo Milk,0.101,2.2063,134,34.1,156,8.7189,Medium
+5538,99%,49%,0.09708,21.9149,54,Brand 3,23.25%,7%,94,South Indian Filter Coffee,27,Vitamin_Rich,Malai Milk,0.101,4.1466,243,65.6,235,24.1089,Medium
+5539,131%,53%,0.09311,16.1592,0,Brand 10,0.11%,13%,62,South Indian Filter Coffee,10,Vitamin_Rich,Malai Milk,0.431,3.458,192,46.0,120,15.5725,Medium
+5540,114%,56%,0.09819,38.7689,85,Brand 28,32.97%,74%,106,Special Spiced Chai,11,Vitamin_Rich,Malai Milk,3.066,1.5337,666,73.9,207,45.9163,Medium
+5541,28%,11%,0.10492,23.2112,20,Brand 19,0.11%,10%,81,Special Spiced Chai,12,Low_Fat,Malai Milk,0.101,1.4365,54,16.2,250,13.8961,Medium
+5542,27%,25%,0.08838,31.0594,56,Brand 8,39.38%,58%,178,South Indian Filter Coffee,23,Low_Fat,Malai Milk,4.187,1.1218,500,50.6,245,35.3536,Medium
+5543,18%,25%,0.01537,24.9004,21,Brand 13,0.11%,6%,84,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.7866,59,23.7,229,4.5782,Medium
+5544,43%,44%,0.02553,24.645,27,Brand 32,24.02%,10%,123,South Indian Filter Coffee,17,Vitamin_Rich,Malai Milk,3.446,2.7357,232,39.4,142,9.1155,Medium
+5545,20%,0%,0.02655,25.2726,45,Brand 19,0.75%,7%,47,Cold Coffee,10,Low_Fat,Saffron-Infused Milk,0.101,0.0326,997,3.0,451,21.9799,Medium
+5546,52%,66%,0.01101,28.5703,23,Brand 2,3.09%,6%,75,South Indian Filter Coffee,18,Low_Fat,Kesar Doodh,1.302,0.0867,870,74.8,226,17.3155,Medium
+5547,62%,25%,0.08249,38.0863,71,Brand 32,26.63%,51%,117,Lassi Blends,12,Vitamin_Rich,Elaichi Doodh,0.101,1.2913,421,48.4,28,33.3632,Medium
+5548,66%,31%,0.09163,28.6552,48,Brand 33,0.11%,67%,165,Masala Chai,16,Low_Fat,Kesar Doodh,0.101,0.3179,251,39.9,44,20.2687,Medium
+5549,85%,40%,0.20465,23.1616,29,Brand 10,0.11%,11%,177,South Indian Filter Coffee,17,Vitamin_Rich,Malai Milk,0.101,3.8207,477,36.2,136,19.0423,Medium
+5550,25%,0%,0.03017,10.8905,22,Brand 8,0.64%,14%,82,Cold Coffee,10,Low_Fat,Saffron-Infused Milk,2.805,0.0,98,3.0,136,5.9571,Medium
+5551,65%,28%,0.02471,34.7859,34,Brand 17,32.51%,6%,131,Masala Chai,11,Low_Fat,Badam Milk,2.21,1.5175,103,16.4,247,17.0785,Medium
+5552,54%,32%,0.01912,21.7523,22,Brand 19,0.11%,7%,119,South Indian Filter Coffee,15,Vitamin_Rich,Badam Milk,0.101,2.8059,450,26.8,166,8.6883,Medium
+5553,129%,42%,0.08863,26.6723,55,Brand 4,0.11%,14%,62,Special Spiced Chai,28,Vitamin_Rich,Malai Milk,0.101,2.4526,366,81.6,20,21.7777,High
+5554,52%,35%,0.08285,20.4235,17,Brand 16,0.11%,5%,137,South Indian Filter Coffee,24,Vitamin_Rich,Malai Milk,0.101,4.0746,308,67.2,127,16.6352,Medium
+5555,87%,58%,0.0843,26.789,42,Brand 27,31.57%,12%,113,Cold Coffee,51,Low_Fat,Malai Milk,5.533,0.862,850,55.0,202,32.0658,Medium
+5556,82%,45%,0.03973,27.5835,29,Brand 2,29.72%,10%,94,South Indian Filter Coffee,16,Vitamin_Rich,Rose Milk,3.424,3.6338,526,98.6,220,18.9584,Medium
+5557,110%,46%,0.08195,37.0004,69,Brand 4,2.01%,13%,145,Special Spiced Chai,34,Vitamin_Rich,Malai Milk,0.101,3.3289,413,81.1,205,31.9893,High
+5558,42%,24%,0.0185,27.2829,27,Brand 9,14.72%,8%,165,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,0.807,130,51.3,149,17.0665,Medium
+5559,82%,52%,0.07637,31.8503,63,Brand 12,19.01%,11%,163,Special Spiced Chai,36,Vitamin_Rich,Malai Milk,0.101,4.9912,566,61.9,277,29.1699,High
+5560,107%,45%,0.17731,23.433,10,Brand 11,30.24%,9%,116,Masala Chai,10,Vitamin_Rich,Malai Milk,3.004,1.4826,160,52.2,21,13.6097,Medium
+5561,46%,52%,0.07947,36.6904,74,Brand 10,26.06%,73%,131,Cold Coffee,42,Low_Fat,Malai Milk,1.538,4.5511,439,67.7,25,36.6628,High
+5562,10%,29%,0.02081,27.751,54,Brand 1,17.12%,58%,82,Cold Coffee,10,Low_Fat,Elaichi Doodh,1.06,0.7539,386,21.2,146,24.2589,Medium
+5563,95%,55%,0.07976,31.9872,22,Brand 17,46.78%,12%,82,South Indian Filter Coffee,35,Low_Fat,Malai Milk,0.825,4.3046,251,121.2,202,15.8786,Medium
+5564,56%,0%,0.04327,19.7674,17,Brand 19,1.48%,8%,2,Masala Chai,10,Vitamin_Rich,Badam Milk,0.142,1.4475,19,29.5,153,10.5726,Medium
+5565,58%,30%,0.02179,33.6872,14,Brand 18,0.11%,6%,71,Masala Chai,12,Low_Fat,Elaichi Doodh,2.568,0.7954,68,34.2,31,16.5649,Medium
+5566,47%,4%,0.02696,15.7071,35,Brand 9,0.27%,5%,53,Masala Chai,11,Low_Fat,Small Glass,1.616,0.9814,157,10.9,143,6.2406,Medium
+5567,107%,60%,0.08118,34.428,58,Brand 10,22.85%,16%,43,Mango Shake,46,Vitamin_Rich,Malai Milk,0.101,3.4356,700,133.1,247,32.0894,Medium
+5568,116%,31%,0.0782,40.283,53,Brand 32,19.55%,62%,74,Special Spiced Chai,11,Low_Fat,Elaichi Doodh,2.522,1.5912,1122,89.3,31,29.4063,High
+5569,122%,35%,0.03595,27.0011,28,Brand 18,0.11%,5%,88,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,2.6816,157,19.2,243,6.7582,Medium
+5570,117%,52%,0.02213,23.5044,17,Brand 3,0.11%,9%,47,South Indian Filter Coffee,15,Vitamin_Rich,Rose Milk,0.101,1.1374,406,107.0,43,12.8263,Medium
+5571,76%,43%,0.01101,25.4862,30,Brand 4,2.35%,7%,145,Masala Chai,10,Vitamin_Rich,Extra Large Kulhad,0.101,0.6596,564,121.4,32,16.0535,High
+5572,82%,49%,0.17373,28.4915,48,Brand 4,41.40%,11%,148,Masala Chai,16,Vitamin_Rich,Kesar Doodh,0.46,2.1957,541,73.5,61,21.0701,High
+5573,71%,53%,0.15089,36.0305,87,Brand 9,28.03%,13%,72,Special Spiced Chai,55,Vitamin_Rich,Malai Milk,56.149,3.3614,679,90.3,231,28.7958,Medium
+5574,84%,43%,0.01101,32.8323,33,Brand 30,0.11%,13%,117,Masala Chai,27,Vitamin_Rich,Malai Milk,1.521,0.9476,495,99.2,20,15.751,Medium
+5575,50%,37%,0.01865,22.6613,20,Brand 27,0.11%,9%,34,South Indian Filter Coffee,16,Vitamin_Rich,Elaichi Doodh,0.101,0.7661,266,32.9,156,13.9322,Medium
+5576,35%,34%,0.07726,37.5915,81,Brand 28,18.14%,8%,168,Cold Coffee,30,Vitamin_Rich,Elaichi Doodh,0.101,4.0415,457,102.4,198,48.1,Medium
+5577,111%,62%,0.18406,33.9285,31,Brand 3,50.86%,13%,165,Mango Shake,40,Vitamin_Rich,Malai Milk,30.91,2.8,718,143.0,232,35.1578,High
+5578,109%,48%,0.09676,24.038,70,Brand 10,42.72%,6%,97,Special Spiced Chai,25,Low_Fat,Saffron-Infused Milk,0.101,3.3789,413,42.0,28,21.6068,Medium
+5579,23%,1%,0.08773,29.6919,20,Brand 27,0.11%,10%,42,Cold Coffee,11,Low_Fat,Large Kulhad,0.141,0.3802,388,23.6,140,14.6116,Medium
+5580,47%,23%,0.0215,22.6521,4,Brand 13,0.11%,12%,2,South Indian Filter Coffee,10,Vitamin_Rich,Extra Large Kulhad,0.101,1.2979,148,12.1,113,3.3381,Medium
+5581,10%,7%,0.01894,0.0,25,Brand 15,0.11%,8%,2,Special Spiced Chai,11,Low_Fat,Elaichi Doodh,0.101,0.7569,129,24.0,491,10.8347,Medium
+5582,57%,31%,0.01101,25.7446,76,Brand 9,17.11%,73%,71,Kadak Chai,11,Vitamin_Rich,Saffron-Infused Milk,0.101,0.5168,431,65.2,20,20.6402,Medium
+5583,50%,32%,0.09631,20.3531,37,Brand 29,44.36%,6%,172,South Indian Filter Coffee,28,Vitamin_Rich,Malai Milk,0.101,3.9131,560,28.4,128,19.9932,Medium
+5584,31%,27%,0.04287,20.312,30,Brand 27,0.11%,5%,38,Cold Coffee,10,Low_Fat,Badam Milk,0.101,0.5444,134,3.0,32,5.9851,Medium
+5585,128%,54%,0.0266,27.1673,19,Brand 26,14.10%,10%,61,Special Spiced Chai,18,Vitamin_Rich,Malai Milk,0.101,4.6581,1213,71.9,237,25.6934,Medium
+5586,36%,24%,0.10461,20.9748,40,Brand 17,0.11%,11%,48,Cold Coffee,10,Vitamin_Rich,Full Cream Buffalo Milk,0.101,0.9009,59,23.2,127,10.5233,Medium
+5587,93%,34%,0.08199,30.8817,81,Brand 2,0.11%,10%,61,South Indian Filter Coffee,22,Vitamin_Rich,Malai Milk,6.127,2.9564,461,116.4,20,28.4822,Medium
+5588,75%,50%,0.1037,29.0491,16,Brand 25,0.11%,7%,168,Masala Chai,17,Low_Fat,Elaichi Doodh,0.101,0.712,506,34.2,140,24.5224,Medium
+5589,17%,0%,0.01857,23.2137,1,Brand 24,0.11%,14%,2,Nimbu Pani & Shikanji,11,Low_Fat,Saffron-Infused Milk,1.102,0.6558,0,3.0,151,3.3381,Medium
+5590,74%,33%,0.01844,36.0344,73,Brand 10,21.57%,12%,111,Masala Chai,26,Low_Fat,Elaichi Doodh,2.683,1.4196,283,25.6,196,36.0119,Medium
+5591,68%,44%,0.09658,27.3364,13,Brand 17,0.42%,48%,120,South Indian Filter Coffee,16,Low_Fat,Kesar Doodh,146.55,0.0,501,97.6,20,24.7249,Medium
+5592,57%,14%,0.02001,12.5273,8,Brand 2,0.11%,8%,22,South Indian Filter Coffee,10,Low_Fat,Extra Large Kulhad,0.101,0.6729,221,47.2,126,7.7527,Medium
+5593,30%,21%,0.08734,39.2007,99,Brand 32,13.72%,52%,175,Cold Coffee,28,Low_Fat,Full Cream Buffalo Milk,0.101,1.4703,928,7.8,20,38.4049,Medium
+5594,139%,34%,0.19696,25.8435,50,Brand 12,23.61%,9%,127,Special Spiced Chai,49,Vitamin_Rich,Elaichi Doodh,4.106,4.9099,1113,52.4,232,39.136,Medium
+5595,10%,7%,0.04022,22.9415,7,Brand 20,0.11%,13%,133,Special Spiced Chai,11,Low_Fat,Medium Glass,0.101,0.0,207,3.0,235,11.9605,Medium
+5596,20%,6%,0.02282,21.9147,34,Brand 9,1.47%,5%,153,South Indian Filter Coffee,26,Low_Fat,Kesar Doodh,0.101,0.2607,315,52.2,211,9.2918,Medium
+5597,38%,33%,0.01101,23.5828,33,Brand 18,43.97%,7%,77,South Indian Filter Coffee,16,Vitamin_Rich,Elaichi Doodh,0.64,1.4053,578,50.0,130,14.288,Medium
+5598,60%,44%,0.09196,28.2017,36,Brand 6,0.11%,7%,162,South Indian Filter Coffee,44,High_Protein,Malai Milk,0.101,1.1359,571,57.7,251,21.4023,Medium
+5599,54%,4%,0.01488,19.4161,7,Brand 25,0.11%,6%,65,Masala Chai,10,Low_Fat,Kesar Doodh,0.544,0.1006,384,15.0,62,8.4122,Medium
+5600,24%,6%,0.02916,18.9373,16,Brand 19,0.11%,8%,2,Special Spiced Chai,10,Low_Fat,Extra Large Kulhad,0.101,0.5646,101,13.1,143,3.3381,Low
+5601,19%,0%,0.01101,25.5467,17,Brand 21,0.11%,11%,24,Masala Chai,11,Low_Fat,Saffron-Infused Milk,0.101,0.0,182,6.6,26,12.1207,Medium
+5602,71%,4%,0.03026,14.8546,16,Brand 27,0.11%,8%,68,Nimbu Pani & Shikanji,10,Low_Fat,Rose Milk,0.101,0.0604,153,45.8,255,13.4955,Medium
+5603,87%,55%,0.01804,28.6846,39,Brand 6,18.31%,7%,89,Masala Chai,15,Low_Fat,Saffron-Infused Milk,1.283,0.9308,618,75.3,237,13.2663,Medium
+5604,43%,34%,0.07942,33.4861,44,Brand 26,0.11%,10%,164,Nimbu Pani & Shikanji,26,Vitamin_Rich,Malai Milk,0.101,3.6485,576,129.4,248,35.5635,Medium
+5605,51%,27%,0.10043,25.6382,22,Brand 19,0.11%,9%,155,South Indian Filter Coffee,11,Vitamin_Rich,Badam Milk,0.101,0.9396,464,20.9,250,18.8753,Medium
+5606,35%,30%,0.08293,36.5133,82,Brand 5,7.35%,85%,142,Lassi Blends,25,Low_Fat,Elaichi Doodh,0.101,0.8669,737,18.8,197,42.1026,Medium
+5607,53%,29%,0.08235,24.9704,71,Brand 19,17.25%,11%,122,Kadak Chai,10,Low_Fat,Kesar Doodh,0.101,0.9897,1121,25.7,243,11.462,Medium
+5608,41%,60%,0.07561,30.0873,56,Brand 16,28.14%,12%,189,Special Spiced Chai,53,Vitamin_Rich,Malai Milk,2.778,3.6201,530,117.9,141,20.9248,Medium
+5609,30%,25%,0.02858,21.7998,23,Brand 29,1.07%,8%,168,Masala Chai,17,Low_Fat,Rose Milk,0.101,1.0205,224,13.3,132,10.4367,Medium
+5610,35%,29%,0.04548,20.3398,23,Brand 14,0.11%,12%,103,Masala Chai,18,Vitamin_Rich,Saffron-Infused Milk,0.101,1.1979,249,27.3,131,11.1537,Medium
+5611,62%,35%,0.02294,25.0538,45,Brand 19,17.57%,8%,81,South Indian Filter Coffee,11,Vitamin_Rich,Badam Milk,0.101,1.236,258,32.2,221,13.1213,Medium
+5612,36%,44%,0.09942,26.2054,36,Brand 9,33.39%,5%,205,Masala Chai,16,Vitamin_Rich,Malai Milk,2.219,2.7152,426,66.3,134,16.935,Medium
+5613,35%,0%,0.03289,23.1618,37,Brand 32,0.11%,9%,13,Masala Chai,10,Low_Fat,Rose Milk,0.101,1.3705,33,24.7,134,12.6702,Medium
+5614,25%,55%,0.07959,16.3456,36,Brand 25,0.11%,7%,79,South Indian Filter Coffee,17,Vitamin_Rich,Elaichi Doodh,0.101,3.1146,614,53.5,69,19.0156,Medium
+5615,82%,0%,0.02994,2.7871,16,Brand 3,0.11%,10%,15,South Indian Filter Coffee,16,Low_Fat,Rose Milk,0.101,0.2069,210,41.3,231,3.3381,Medium
+5616,53%,30%,0.02904,28.6261,47,Brand 19,0.84%,6%,188,Nimbu Pani & Shikanji,10,Vitamin_Rich,Badam Milk,0.101,0.8321,281,28.9,36,11.9939,High
+5617,95%,57%,0.03401,28.28,31,Brand 29,0.53%,9%,79,South Indian Filter Coffee,10,Low_Fat,Malai Milk,0.101,0.7152,222,52.4,238,25.2283,Medium
+5618,34%,41%,0.02427,23.6959,43,Brand 19,0.19%,9%,147,South Indian Filter Coffee,10,Low_Fat,Full Cream Buffalo Milk,0.101,1.0623,95,17.2,252,4.1227,Medium
+5619,30%,34%,0.02285,27.3193,34,Brand 25,0.11%,10%,21,Nimbu Pani & Shikanji,11,Low_Fat,Kesar Doodh,0.213,0.1403,463,26.7,90,9.559,Medium
+5620,97%,37%,0.08238,34.2332,85,Brand 4,0.11%,9%,58,Masala Chai,26,Vitamin_Rich,Elaichi Doodh,1.085,1.178,464,63.0,20,36.589,Medium
+5621,57%,36%,0.01101,23.8126,20,Brand 4,2.27%,11%,111,South Indian Filter Coffee,49,Vitamin_Rich,Malai Milk,0.497,2.8079,586,84.5,228,20.1461,Low
+5622,35%,33%,0.02306,19.2207,18,Brand 14,0.11%,8%,170,Masala Chai,17,Low_Fat,Full Cream Buffalo Milk,0.101,0.3749,233,24.8,225,3.6179,Medium
+5623,61%,24%,0.09194,29.9741,55,Brand 4,33.94%,5%,102,Masala Chai,10,Low_Fat,Badam Milk,0.452,0.6937,279,39.9,38,34.0293,Medium
+5624,115%,57%,0.01101,33.1489,48,Brand 9,0.11%,14%,132,South Indian Filter Coffee,19,Low_Fat,Elaichi Doodh,0.101,0.2847,713,88.0,69,29.5827,Medium
+5625,23%,5%,0.01577,9.5165,2,Brand 21,1.81%,7%,94,Nimbu Pani & Shikanji,11,Low_Fat,Kesar Doodh,0.101,0.3121,137,5.7,513,3.637,Medium
+5626,62%,32%,0.08941,30.7134,95,Brand 11,47.05%,9%,167,Light Buttermilk (Chaas),11,Vitamin_Rich,Elaichi Doodh,3.038,3.2143,919,68.4,247,20.8067,High
+5627,11%,8%,0.02594,19.6286,13,Brand 31,0.11%,83%,58,Light Buttermilk (Chaas),11,Low_Fat,Medium Glass,1.052,0.0496,0,3.0,65,4.3977,Low
+5628,102%,4%,0.03053,33.6282,24,Brand 19,2.34%,5%,108,Masala Chai,11,Low_Fat,Kesar Doodh,5.423,0.9146,138,27.3,227,23.8502,Medium
+5629,30%,34%,0.02233,22.2512,34,Brand 9,24.52%,5%,194,Special Spiced Chai,18,Vitamin_Rich,Badam Milk,1.523,2.0963,243,39.0,140,11.6051,Medium
+5630,60%,46%,0.15805,28.7178,64,Brand 32,0.11%,66%,49,Special Spiced Chai,15,Vitamin_Rich,Elaichi Doodh,1.778,0.9277,901,38.2,134,24.508,Medium
+5631,34%,28%,0.035,30.9952,11,Brand 2,0.11%,6%,104,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,0.416,466,44.1,200,13.064,Medium
+5632,75%,43%,0.08103,35.8503,59,Brand 11,31.27%,106%,218,Mango Shake,43,Vitamin_Rich,Malai Milk,281.665,4.4433,689,143.0,24,41.9844,High
+5633,78%,27%,0.07302,34.7531,83,Brand 28,36.23%,73%,130,Special Spiced Chai,27,Vitamin_Rich,Badam Milk,0.101,3.0516,539,59.1,55,44.7682,Medium
+5634,81%,4%,0.01599,8.78,24,Brand 13,0.11%,11%,2,South Indian Filter Coffee,11,Low_Fat,Large Kulhad,0.101,0.2547,50,15.1,442,16.9696,Medium
+5635,43%,0%,0.03043,21.9118,52,Brand 13,0.11%,9%,107,Nimbu Pani & Shikanji,10,Low_Fat,Elaichi Doodh,0.101,0.9077,140,28.8,145,19.4988,Medium
+5636,25%,7%,0.02545,28.7871,73,Brand 19,0.46%,7%,62,Mango Shake,10,Low_Fat,Kesar Doodh,0.101,0.376,190,30.7,507,26.1583,Medium
+5637,139%,51%,0.171,27.8539,22,Brand 17,0.11%,8%,24,South Indian Filter Coffee,24,Vitamin_Rich,Malai Milk,0.101,3.7983,494,46.3,143,12.7342,Medium
+5638,64%,27%,0.10503,29.0975,64,Brand 32,14.49%,42%,81,Special Spiced Chai,11,Low_Fat,Badam Milk,0.101,0.9465,198,45.1,30,35.4208,Medium
+5639,23%,26%,0.02225,27.3525,53,Brand 17,18.60%,6%,188,Lassi Blends,25,Low_Fat,Kesar Doodh,1.514,0.9655,105,31.2,137,17.1219,Medium
+5640,40%,50%,0.02501,29.1794,18,Brand 5,0.11%,50%,68,Cold Coffee,10,Low_Fat,Saffron-Infused Milk,2.506,0.2777,485,20.6,20,15.8457,Medium
+5641,44%,36%,0.01721,21.7502,31,Brand 17,18.44%,11%,124,South Indian Filter Coffee,17,Low_Fat,Elaichi Doodh,4.873,1.4329,324,69.1,259,6.6944,Medium
+5642,62%,53%,0.0278,25.056,21,Brand 14,0.11%,9%,54,Special Spiced Chai,10,Low_Fat,Medium Glass,1.644,0.4786,159,66.6,49,21.1806,Medium
+5643,60%,13%,0.02746,16.8901,7,Brand 9,0.11%,9%,2,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,0.1979,276,24.4,138,3.9508,Medium
+5644,13%,8%,0.03128,5.9788,0,Brand 1,0.11%,11%,24,Nimbu Pani & Shikanji,11,Low_Fat,Medium Glass,0.101,0.508,160,9.8,250,16.6078,Medium
+5645,27%,29%,0.03428,32.7824,2,Brand 9,0.11%,9%,58,Special Spiced Chai,10,Low_Fat,Elaichi Doodh,0.101,0.7285,565,37.0,206,11.1344,Medium
+5646,10%,1%,0.01101,10.4668,0,Brand 1,0.11%,11%,2,Nimbu Pani & Shikanji,12,Low_Fat,Large Kulhad,0.101,0.0,66,3.0,441,3.3381,Low
+5647,46%,34%,0.02349,27.5552,39,Brand 9,28.29%,51%,107,Special Spiced Chai,11,Vitamin_Rich,Full Cream Buffalo Milk,3.913,0.967,431,39.4,32,21.9819,Medium
+5648,52%,34%,0.01101,34.2722,84,Brand 22,0.11%,72%,101,Nimbu Pani & Shikanji,16,Low_Fat,Elaichi Doodh,0.101,1.2693,374,12.1,26,30.7679,Medium
+5649,25%,34%,0.02353,19.5036,66,Brand 25,11.73%,62%,205,Nimbu Pani & Shikanji,16,Low_Fat,Kesar Doodh,0.101,1.0789,419,32.1,57,26.5895,Medium
+5650,42%,27%,0.02389,25.1913,79,Brand 17,0.11%,60%,48,Masala Chai,11,Low_Fat,Kesar Doodh,1.296,0.6929,196,14.6,36,16.0334,Medium
+5651,48%,28%,0.0846,41.6536,58,Brand 10,11.00%,10%,77,Lassi Blends,27,Vitamin_Rich,Malai Milk,0.101,4.6521,413,58.5,20,41.0254,Medium
+5652,115%,52%,0.17847,31.8776,79,Brand 10,0.29%,12%,106,Masala Chai,27,Vitamin_Rich,Malai Milk,1.433,2.6326,498,113.3,254,32.1801,Medium
+5653,43%,0%,0.03186,24.5539,16,Brand 23,0.11%,8%,57,Special Spiced Chai,10,Low_Fat,Rose Milk,0.101,1.3633,327,25.8,230,9.8563,Medium
+5654,38%,56%,0.0952,20.1473,33,Brand 3,0.11%,11%,47,Nimbu Pani & Shikanji,10,Vitamin_Rich,Malai Milk,280.231,0.9551,295,57.2,69,6.4083,Medium
+5655,37%,32%,0.01724,29.1494,56,Brand 22,23.08%,6%,171,Special Spiced Chai,10,Vitamin_Rich,Elaichi Doodh,1.953,1.7849,771,38.6,213,23.1038,High
+5656,63%,36%,0.08113,35.3168,45,Brand 21,36.70%,7%,124,South Indian Filter Coffee,33,Vitamin_Rich,Malai Milk,0.101,3.2929,306,21.3,171,31.2767,Medium
+5657,48%,53%,0.02616,12.582,43,Brand 25,0.11%,7%,43,South Indian Filter Coffee,16,Low_Fat,Kesar Doodh,0.101,0.0,270,33.5,250,5.9965,Medium
+5658,76%,50%,0.02178,27.8684,27,Brand 12,36.39%,9%,152,Special Spiced Chai,17,Vitamin_Rich,Malai Milk,3.798,0.9821,147,38.5,244,10.9491,Medium
+5659,31%,45%,0.02887,22.1682,14,Brand 14,0.11%,13%,108,Special Spiced Chai,17,Low_Fat,Large Kulhad,1.506,0.5737,210,58.9,259,9.8581,Medium
+5660,10%,2%,0.03867,8.9142,13,Brand 19,9.65%,7%,100,Masala Chai,10,Low_Fat,Rose Milk,0.101,0.761,145,12.0,146,3.3381,Medium
+5661,76%,26%,0.01875,32.4485,77,Brand 32,18.72%,10%,72,Masala Chai,11,Vitamin_Rich,Extra Large Kulhad,4.216,1.3469,11,31.1,123,22.9005,Medium
+5662,139%,54%,0.09139,27.1633,39,Brand 11,1.05%,11%,188,Special Spiced Chai,15,Vitamin_Rich,Malai Milk,5.305,2.8123,511,81.4,66,19.2988,Medium
+5663,103%,54%,0.10012,25.3186,70,Brand 9,26.46%,11%,178,Special Spiced Chai,46,Vitamin_Rich,Saffron-Infused Milk,272.093,3.8494,282,33.7,228,30.2143,Medium
+5664,92%,25%,0.02933,24.7469,14,Brand 6,28.42%,5%,80,Cold Coffee,10,Vitamin_Rich,Badam Milk,0.101,1.2634,147,18.1,137,24.4639,Medium
+5665,37%,53%,0.01973,17.6428,5,Brand 9,0.11%,12%,31,Masala Chai,11,Vitamin_Rich,Malai Milk,2.512,1.3593,60,16.2,137,10.3163,Medium
+5666,26%,23%,0.02598,31.4476,37,Brand 31,0.11%,6%,144,Special Spiced Chai,10,Vitamin_Rich,Elaichi Doodh,0.101,0.5664,196,34.1,36,28.1258,Medium
+5667,88%,48%,0.15286,27.5875,48,Brand 10,0.54%,10%,84,South Indian Filter Coffee,41,Vitamin_Rich,Malai Milk,0.101,4.8992,427,74.7,207,37.7943,Medium
+5668,26%,28%,0.08832,36.3365,64,Brand 32,14.40%,57%,108,Lassi Blends,11,Low_Fat,Malai Milk,0.101,1.6466,329,47.9,20,37.059,Medium
+5669,70%,56%,0.03492,20.4414,13,Brand 25,0.11%,6%,80,Lassi Blends,16,Low_Fat,Small Glass,0.101,0.6858,216,40.4,211,11.0247,Medium
+5670,92%,33%,0.09907,26.0453,32,Brand 14,20.85%,51%,145,South Indian Filter Coffee,18,Low_Fat,Full Cream Buffalo Milk,0.876,0.9183,252,22.7,43,15.321,Medium
+5671,45%,29%,0.08869,35.692,78,Brand 4,37.60%,8%,127,Nimbu Pani & Shikanji,24,Vitamin_Rich,Elaichi Doodh,0.101,1.4465,673,23.9,239,26.0281,Medium
+5672,28%,34%,0.09263,34.1677,89,Brand 6,11.58%,8%,74,Lassi Blends,28,Vitamin_Rich,Malai Milk,1.296,1.5771,506,61.8,227,33.7143,Medium
+5673,88%,6%,0.02492,28.044,16,Brand 25,0.11%,12%,42,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,1.163,1.1419,76,40.6,223,11.1722,Medium
+5674,83%,6%,0.01486,23.2401,48,Brand 31,0.11%,12%,43,Masala Chai,11,Low_Fat,Kesar Doodh,0.101,1.2482,114,7.9,52,20.3007,Medium
+5675,14%,4%,0.02153,15.8317,14,Brand 25,0.11%,11%,78,Cold Coffee,10,Low_Fat,Kesar Doodh,3.62,0.9947,826,9.8,265,17.1809,Medium
+5676,42%,57%,0.09171,33.3808,27,Brand 9,19.14%,8%,68,Special Spiced Chai,24,Vitamin_Rich,Kesar Doodh,0.101,3.1791,467,117.6,260,17.0635,Medium
+5677,43%,31%,0.02687,26.8377,23,Brand 16,21.55%,7%,36,South Indian Filter Coffee,11,Low_Fat,Badam Milk,3.32,0.8772,271,31.2,141,18.4532,Medium
+5678,143%,37%,0.08908,33.0684,29,Brand 3,39.91%,8%,122,South Indian Filter Coffee,27,Vitamin_Rich,Malai Milk,7.195,4.9766,486,72.5,156,17.8506,Medium
+5679,10%,1%,0.03319,8.0516,11,Brand 19,0.11%,13%,14,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.457,95,3.0,621,3.3381,Medium
+5680,98%,33%,0.08037,32.9616,80,Brand 11,48.90%,91%,80,Mango Shake,43,Vitamin_Rich,Malai Milk,28.52,2.5091,644,143.0,20,28.0006,High
+5681,44%,24%,0.01101,24.9628,15,Brand 21,0.11%,9%,153,South Indian Filter Coffee,10,Low_Fat,Large Kulhad,0.876,1.1531,479,34.4,353,11.216,Medium
+5682,28%,31%,0.08581,31.1554,74,Brand 16,27.42%,12%,221,Special Spiced Chai,27,Vitamin_Rich,Malai Milk,0.997,3.1588,715,49.6,135,38.559,High
+5683,40%,6%,0.03851,20.9876,18,Brand 27,0.11%,14%,172,Masala Chai,11,Low_Fat,Saffron-Infused Milk,0.101,0.2519,414,35.1,133,3.5648,Medium
+5684,98%,30%,0.01101,27.1454,88,Brand 9,22.78%,56%,85,Masala Chai,11,Vitamin_Rich,Malai Milk,0.101,2.4177,596,44.9,138,25.887,High
+5685,28%,65%,0.11159,23.0771,15,Brand 7,1.54%,6%,32,Nimbu Pani & Shikanji,10,Vitamin_Rich,Badam Milk,0.101,0.9146,96,25.3,35,6.9211,Medium
+5686,66%,26%,0.01644,28.1371,27,Brand 27,10.04%,11%,113,Cold Coffee,17,Vitamin_Rich,Kesar Doodh,0.965,1.8355,419,94.9,160,18.1162,Medium
+5687,10%,0%,0.01491,3.1345,0,Brand 13,0.11%,11%,2,Nimbu Pani & Shikanji,12,Low_Fat,Large Kulhad,0.101,0.0,53,3.0,560,3.3381,Low
+5688,72%,0%,0.01725,19.1413,13,Brand 1,0.11%,6%,13,Masala Chai,10,Low_Fat,Rose Milk,0.101,0.5644,284,17.5,139,7.1053,Medium
+5689,63%,35%,0.09205,34.9866,60,Brand 9,21.09%,6%,101,Masala Chai,21,Vitamin_Rich,Malai Milk,0.101,1.552,261,51.5,134,26.8888,Medium
+5690,10%,0%,0.01101,4.961,0,Brand 13,0.63%,16%,2,Masala Chai,11,Low_Fat,Large Kulhad,0.101,0.0,28,3.0,156,3.3381,Low
+5691,37%,30%,0.09604,32.5111,62,Brand 6,34.59%,6%,158,Cold Coffee,25,Vitamin_Rich,Malai Milk,4.58,3.0297,292,62.7,35,29.2646,Medium
+5692,19%,10%,0.03017,0.3383,0,Brand 19,0.11%,9%,40,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.278,0.6308,84,26.7,263,3.3381,Medium
+5693,155%,54%,0.01355,29.2126,22,Brand 10,0.11%,11%,50,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,2.103,3.8526,481,59.8,249,7.865,Medium
+5694,47%,30%,0.01753,23.8516,55,Brand 27,42.48%,51%,185,Special Spiced Chai,10,Vitamin_Rich,Kesar Doodh,8.005,0.6803,564,58.0,48,28.0866,High
+5695,46%,4%,0.01101,0.0,0,Brand 19,0.11%,18%,2,Nimbu Pani & Shikanji,11,Low_Fat,Rose Milk,0.101,0.0761,0,3.0,458,3.3381,Low
+5696,39%,31%,0.02491,30.8699,67,Brand 25,18.81%,7%,80,Nimbu Pani & Shikanji,10,Vitamin_Rich,Rose Milk,0.101,1.5762,366,23.0,124,23.5024,Medium
+5697,10%,33%,0.01101,26.1162,23,Brand 25,0.30%,8%,206,Light Buttermilk (Chaas),11,Low_Fat,Extra Large Kulhad,0.101,0.3722,219,16.5,54,5.5497,Medium
+5698,23%,31%,0.08292,32.1473,60,Brand 32,22.07%,261%,134,Lassi Blends,26,Vitamin_Rich,Malai Milk,22.55,3.2706,350,69.3,128,34.4655,Medium
+5699,83%,51%,0.02235,27.2776,12,Brand 10,0.11%,12%,66,South Indian Filter Coffee,18,Low_Fat,Elaichi Doodh,0.101,0.7026,605,78.4,258,16.6378,Medium
+5700,92%,50%,0.10517,38.9274,86,Brand 10,0.11%,11%,93,Special Spiced Chai,26,Vitamin_Rich,Malai Milk,0.101,0.8896,877,66.8,46,43.9728,Medium
+5701,18%,0%,0.01673,18.2557,10,Brand 27,0.11%,10%,8,Kadak Chai,10,Low_Fat,Malai Milk,0.101,0.2215,480,11.4,248,8.7132,Medium
+5702,66%,47%,0.02562,32.574,34,Brand 17,26.24%,6%,177,South Indian Filter Coffee,17,Vitamin_Rich,Badam Milk,0.108,4.0788,664,114.1,263,12.062,Medium
+5703,120%,41%,0.13716,24.5409,43,Brand 27,3.30%,7%,147,South Indian Filter Coffee,17,Vitamin_Rich,Kesar Doodh,0.101,3.9223,632,74.4,143,15.099,High
+5704,77%,58%,0.02541,30.1847,25,Brand 28,38.68%,9%,135,South Indian Filter Coffee,17,Vitamin_Rich,Elaichi Doodh,0.101,1.2817,214,77.0,58,19.9371,Medium
+5705,39%,2%,0.01101,4.2513,4,Brand 19,0.11%,8%,46,South Indian Filter Coffee,10,Low_Fat,Large Kulhad,0.101,0.0,183,3.3,238,19.9806,Low
+5706,96%,31%,0.09832,24.5332,13,Brand 14,0.11%,6%,50,Special Spiced Chai,10,Vitamin_Rich,Elaichi Doodh,0.101,0.9111,209,11.4,150,23.9748,Medium
+5707,101%,31%,0.02913,30.1118,26,Brand 17,0.11%,8%,97,South Indian Filter Coffee,10,Low_Fat,Saffron-Infused Milk,0.318,1.1029,353,17.2,59,21.7107,Medium
+5708,75%,46%,0.20112,32.803,92,Brand 33,43.96%,14%,150,South Indian Filter Coffee,49,Vitamin_Rich,Malai Milk,5.737,4.0486,485,143.0,245,28.6361,High
+5709,89%,73%,0.02773,7.0579,18,Brand 3,0.11%,9%,68,South Indian Filter Coffee,16,Low_Fat,Malai Milk,2.567,1.4746,526,25.8,332,15.4408,Medium
+5710,40%,24%,0.08516,30.0256,73,Brand 24,30.60%,36%,96,Masala Chai,11,Vitamin_Rich,Badam Milk,8.488,1.406,1238,44.9,20,33.3814,Medium
+5711,35%,0%,0.03226,29.7348,47,Brand 18,0.50%,11%,65,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,0.8729,78,22.8,136,6.054,Medium
+5712,51%,27%,0.01761,29.9645,64,Brand 10,12.49%,8%,83,Masala Chai,10,Vitamin_Rich,Badam Milk,0.683,1.369,156,40.4,20,18.2404,Medium
+5713,10%,1%,0.04123,26.1729,22,Brand 20,0.11%,11%,67,Nimbu Pani & Shikanji,17,Low_Fat,Malai Milk,0.101,1.3662,203,16.1,255,22.2896,Medium
+5714,128%,30%,0.0898,26.752,11,Brand 11,0.11%,12%,62,South Indian Filter Coffee,27,Vitamin_Rich,Malai Milk,0.101,1.0684,250,104.1,233,14.1779,Medium
+5715,58%,29%,0.01101,27.4527,15,Brand 3,14.74%,8%,129,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,0.9607,194,24.8,210,13.611,Medium
+5716,28%,28%,0.03179,17.157,0,Brand 6,0.11%,7%,143,Masala Chai,16,Low_Fat,Large Kulhad,0.101,0.5178,229,40.1,38,10.2715,Medium
+5717,67%,31%,0.09771,33.3795,66,Brand 6,36.38%,12%,143,Cold Coffee,24,Vitamin_Rich,Full Cream Buffalo Milk,22.054,3.7105,388,74.2,212,31.1706,Medium
+5718,52%,30%,0.02488,30.7919,17,Brand 17,32.52%,6%,145,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,1.643,1.2682,563,58.3,264,13.9838,Medium
+5719,114%,60%,0.21617,22.4369,26,Brand 2,0.11%,6%,34,South Indian Filter Coffee,39,Vitamin_Rich,Elaichi Doodh,0.786,0.8945,503,63.9,156,8.7013,Medium
+5720,60%,41%,0.02094,27.894,14,Brand 31,1.76%,10%,109,South Indian Filter Coffee,17,Low_Fat,Small Glass,1.182,0.776,419,89.8,134,29.2104,Medium
+5721,55%,23%,0.08343,24.7832,28,Brand 26,34.36%,8%,31,Cold Coffee,11,Vitamin_Rich,Full Cream Buffalo Milk,0.101,1.4987,745,25.1,131,13.3904,Medium
+5722,24%,25%,0.08702,28.1502,34,Brand 6,19.40%,8%,180,Lassi Blends,26,Vitamin_Rich,Full Cream Buffalo Milk,4.476,2.9629,129,45.8,61,14.1554,Medium
+5723,56%,40%,0.01101,27.5045,28,Brand 18,0.33%,8%,188,Masala Chai,16,Low_Fat,Elaichi Doodh,2.521,2.7131,566,48.3,153,13.5219,Medium
+5724,39%,31%,0.07868,26.889,70,Brand 17,0.11%,60%,78,Lassi Blends,27,Low_Fat,Malai Milk,0.101,0.685,447,27.1,20,18.8356,High
+5725,91%,47%,0.01793,30.2887,16,Brand 21,0.72%,56%,101,South Indian Filter Coffee,17,Low_Fat,Elaichi Doodh,0.101,0.2939,593,131.2,20,6.8215,High
+5726,111%,61%,0.15597,30.4901,18,Brand 3,11.54%,14%,106,South Indian Filter Coffee,16,Vitamin_Rich,Kesar Doodh,3.29,4.1578,596,143.0,235,18.3919,Medium
+5727,43%,8%,0.08598,24.309,21,Brand 14,0.11%,5%,82,South Indian Filter Coffee,11,Low_Fat,Large Kulhad,0.101,0.7802,211,48.6,421,5.5015,Medium
+5728,34%,1%,0.10328,30.3547,19,Brand 19,0.11%,15%,109,Masala Chai,10,Low_Fat,Full Cream Buffalo Milk,0.101,0.8016,182,26.5,234,18.5129,Medium
+5729,10%,0%,0.01896,9.0068,0,Brand 19,0.11%,11%,2,South Indian Filter Coffee,10,Low_Fat,Extra Large Kulhad,0.101,0.0,141,3.0,309,4.3065,Medium
+5730,17%,33%,0.03454,20.8068,36,Brand 10,0.33%,7%,170,Special Spiced Chai,17,Vitamin_Rich,Kesar Doodh,0.101,0.8039,476,33.6,133,11.4252,Medium
+5731,57%,46%,0.02095,8.2348,25,Brand 13,0.11%,5%,65,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,1.2207,183,27.1,252,13.1414,Medium
+5732,62%,35%,0.10148,37.8282,90,Brand 11,37.07%,9%,52,Light Buttermilk (Chaas),54,Vitamin_Rich,Malai Milk,3.983,4.8481,977,35.1,219,47.797,Medium
+5733,57%,31%,0.01502,33.7166,66,Brand 6,19.70%,6%,77,Special Spiced Chai,17,Low_Fat,Elaichi Doodh,0.101,1.7361,657,95.1,229,41.9331,Medium
+5734,47%,33%,0.01975,17.8691,20,Brand 21,2.57%,11%,2,South Indian Filter Coffee,10,Low_Fat,Extra Large Kulhad,3.336,0.1895,221,69.2,367,11.247,Medium
+5735,80%,61%,0.03537,38.8877,28,Brand 11,44.72%,118%,57,Mango Shake,43,Vitamin_Rich,Malai Milk,343.39,2.4074,805,143.0,46,46.93,High
+5736,30%,28%,0.03686,26.0705,60,Brand 32,24.47%,6%,184,Masala Chai,11,Vitamin_Rich,Badam Milk,1.262,1.6327,480,57.1,136,17.3217,High
+5737,39%,21%,0.1088,33.2311,56,Brand 32,38.67%,5%,84,Cold Coffee,10,Vitamin_Rich,Badam Milk,0.101,1.193,220,22.9,141,21.136,Medium
+5738,47%,47%,0.08235,26.8774,72,Brand 17,31.59%,10%,149,Masala Chai,17,Vitamin_Rich,Malai Milk,0.101,3.4718,515,121.6,31,28.7586,Medium
+5739,41%,35%,0.17265,39.9298,90,Brand 26,34.90%,7%,41,Masala Chai,29,Vitamin_Rich,Kesar Doodh,1.426,2.5716,637,34.9,249,29.6544,Medium
+5740,113%,47%,0.10283,29.9004,55,Brand 17,42.32%,10%,62,South Indian Filter Coffee,40,Vitamin_Rich,Badam Milk,0.101,4.1131,925,99.7,275,28.4181,High
+5741,24%,47%,0.02587,20.3518,15,Brand 17,0.12%,7%,180,South Indian Filter Coffee,35,Vitamin_Rich,Saffron-Infused Milk,1.692,1.9634,163,77.0,143,24.1681,Medium
+5742,28%,43%,0.01764,27.1134,67,Brand 16,0.11%,72%,166,Nimbu Pani & Shikanji,11,Low_Fat,Kesar Doodh,2.967,0.136,120,55.6,51,27.6619,High
+5743,51%,7%,0.01162,0.0,0,Brand 21,0.11%,12%,2,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,0.101,0.1446,55,11.3,145,5.8798,Medium
+5744,38%,55%,0.09289,28.0844,59,Brand 27,0.86%,5%,158,Masala Chai,11,Vitamin_Rich,Badam Milk,0.793,0.8377,1159,27.5,136,22.7585,Medium
+5745,28%,43%,0.01798,27.017,20,Brand 19,0.11%,5%,149,Masala Chai,10,Vitamin_Rich,Full Cream Buffalo Milk,0.208,1.3717,237,14.0,146,19.6345,Medium
+5746,15%,29%,0.01101,25.9182,31,Brand 25,26.34%,58%,74,Nimbu Pani & Shikanji,11,Low_Fat,Kesar Doodh,330.234,0.0,430,55.4,77,13.2119,High
+5747,99%,53%,0.0916,22.5064,19,Brand 9,0.11%,5%,148,South Indian Filter Coffee,25,Vitamin_Rich,Elaichi Doodh,0.44,4.2546,600,55.1,274,19.1115,Medium
+5748,100%,47%,0.10341,29.2567,44,Brand 4,0.11%,9%,71,Special Spiced Chai,17,Low_Fat,Malai Milk,0.101,2.9004,228,51.0,38,16.7091,Medium
+5749,64%,27%,0.02748,30.6902,18,Brand 33,0.11%,6%,93,Masala Chai,10,Low_Fat,Saffron-Infused Milk,0.101,1.001,149,32.0,20,19.9115,Medium
+5750,10%,1%,0.03244,27.6133,16,Brand 18,0.11%,5%,113,South Indian Filter Coffee,10,Low_Fat,Medium Glass,0.101,0.0,55,3.0,30,3.3381,Medium
+5751,118%,16%,0.02151,20.9035,19,Brand 31,0.11%,11%,127,Special Spiced Chai,11,Vitamin_Rich,Malai Milk,0.101,4.1848,243,46.3,227,6.0703,Medium
+5752,97%,36%,0.0836,37.5844,89,Brand 3,23.98%,10%,110,South Indian Filter Coffee,29,Vitamin_Rich,Malai Milk,0.101,3.7733,846,67.8,33,43.3025,High
+5753,50%,37%,0.02218,28.9861,0,Brand 9,0.15%,13%,17,South Indian Filter Coffee,10,Low_Fat,Full Cream Buffalo Milk,2.157,0.4091,193,103.3,20,15.4156,High
+5754,39%,50%,0.03032,29.7051,21,Brand 12,19.82%,8%,131,Masala Chai,17,Low_Fat,Elaichi Doodh,0.101,0.1264,360,44.2,237,19.1552,Medium
+5755,28%,4%,0.029,21.5283,25,Brand 25,0.11%,12%,54,Lassi Blends,10,Low_Fat,Saffron-Infused Milk,0.101,0.3094,67,3.0,373,8.577,Medium
+5756,78%,5%,0.02428,31.5553,24,Brand 6,0.11%,5%,124,South Indian Filter Coffee,16,Low_Fat,Elaichi Doodh,0.101,0.1234,247,27.2,442,14.6817,Medium
+5757,65%,32%,0.09549,33.2163,85,Brand 17,0.11%,14%,85,Special Spiced Chai,11,Low_Fat,Elaichi Doodh,0.101,1.0776,371,44.4,20,24.4047,Medium
+5758,89%,55%,0.02345,15.2667,23,Brand 25,1.50%,10%,161,Mango Shake,18,Low_Fat,Kesar Doodh,0.101,0.721,516,91.1,141,6.7037,Medium
+5759,10%,10%,0.01866,4.6728,16,Brand 19,0.11%,9%,2,Nimbu Pani & Shikanji,13,Low_Fat,Small Glass,0.101,0.5976,0,3.0,599,3.8012,Medium
+5760,59%,28%,0.09075,30.2574,27,Brand 10,24.27%,9%,57,South Indian Filter Coffee,10,Vitamin_Rich,Malai Milk,1.098,0.6966,165,25.2,20,23.7865,Medium
+5761,10%,0%,0.01101,4.3893,0,Brand 13,0.11%,9%,9,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.0,202,3.0,74,3.3381,Medium
+5762,30%,31%,0.09012,18.4281,14,Brand 2,0.11%,7%,61,Nimbu Pani & Shikanji,10,Low_Fat,Extra Large Kulhad,0.101,0.1483,73,24.3,56,17.551,Medium
+5763,105%,45%,0.13993,27.051,78,Brand 3,42.51%,14%,200,Special Spiced Chai,48,Vitamin_Rich,Malai Milk,179.687,3.9115,602,129.0,250,33.0645,High
+5764,43%,29%,0.02947,21.0959,30,Brand 32,20.73%,5%,93,Cold Coffee,11,Vitamin_Rich,Badam Milk,2.423,1.443,38,40.4,137,19.2203,Medium
+5765,50%,30%,0.08814,30.6431,52,Brand 26,0.11%,14%,45,Cold Coffee,40,Low_Fat,Malai Milk,0.101,2.7264,860,47.8,126,29.7269,Medium
+5766,73%,48%,0.03373,12.7375,0,Brand 3,42.03%,11%,36,South Indian Filter Coffee,11,Vitamin_Rich,Elaichi Doodh,0.101,4.2148,472,60.5,135,7.9378,Medium
+5767,20%,1%,0.01956,5.5856,0,Brand 16,0.11%,9%,4,South Indian Filter Coffee,11,Low_Fat,Large Kulhad,0.101,0.0,166,3.0,306,5.3693,Medium
+5768,97%,39%,0.10732,30.5173,22,Brand 4,0.72%,16%,87,South Indian Filter Coffee,51,Vitamin_Rich,Elaichi Doodh,0.101,3.4712,597,90.3,220,20.8168,Medium
+5769,119%,48%,0.09456,31.6141,23,Brand 14,46.12%,12%,162,South Indian Filter Coffee,47,Vitamin_Rich,Malai Milk,0.101,2.9782,242,52.9,149,37.856,Medium
+5770,10%,0%,0.01558,1.5534,0,Brand 18,0.11%,7%,45,Masala Chai,12,Low_Fat,Large Kulhad,0.101,0.1461,56,3.0,635,3.3381,Medium
+5771,69%,55%,0.02479,22.691,21,Brand 14,0.59%,7%,20,Masala Chai,12,Low_Fat,Kesar Doodh,0.101,0.0615,311,105.2,533,14.9193,Medium
+5772,88%,29%,0.01517,32.2833,36,Brand 3,31.49%,41%,44,Lassi Blends,10,Low_Fat,Saffron-Infused Milk,2.67,0.7045,320,52.9,49,28.1145,Low
+5773,53%,33%,0.0326,28.9778,27,Brand 31,40.59%,6%,85,South Indian Filter Coffee,11,Vitamin_Rich,Malai Milk,0.101,3.5386,375,103.6,249,16.0512,Medium
+5774,55%,46%,0.01814,23.1287,4,Brand 27,0.11%,7%,55,South Indian Filter Coffee,10,Vitamin_Rich,Extra Large Kulhad,0.101,0.644,379,37.0,35,9.9309,Medium
+5775,49%,33%,0.01672,23.5397,20,Brand 19,0.11%,14%,27,Lassi Blends,10,Low_Fat,Badam Milk,0.202,0.8271,286,33.0,28,14.2601,Medium
+5776,27%,32%,0.0114,33.0996,50,Brand 32,1.15%,6%,24,Masala Chai,10,Vitamin_Rich,Badam Milk,6.27,0.583,408,43.0,121,13.1805,High
+5777,91%,33%,0.0193,22.1708,0,Brand 14,0.11%,9%,23,South Indian Filter Coffee,18,Low_Fat,Rose Milk,0.101,0.6795,162,57.1,140,3.8423,Medium
+5778,75%,29%,0.10005,26.8621,65,Brand 15,19.66%,12%,95,Cold Coffee,10,Low_Fat,Badam Milk,0.101,1.346,14,70.8,20,23.6026,Medium
+5779,32%,5%,0.01731,2.5113,12,Brand 21,0.11%,11%,20,Masala Chai,10,Low_Fat,Kesar Doodh,0.101,0.0,137,3.0,159,12.6747,Low
+5780,36%,56%,0.0221,27.2043,5,Brand 21,16.04%,9%,77,South Indian Filter Coffee,11,Low_Fat,Kesar Doodh,2.3,0.9502,278,38.2,297,17.8571,Medium
+5781,22%,0%,0.02216,10.464,34,Brand 27,0.11%,9%,54,Masala Chai,11,Low_Fat,Extra Large Kulhad,4.847,0.1481,284,12.6,59,13.3832,High
+5782,35%,30%,0.03052,23.0124,49,Brand 14,0.11%,9%,28,Lassi Blends,10,Low_Fat,Medium Glass,0.101,0.3562,313,41.1,141,10.2194,Medium
+5783,48%,47%,0.10403,23.2739,45,Brand 19,0.78%,5%,132,South Indian Filter Coffee,28,Vitamin_Rich,Full Cream Buffalo Milk,0.101,1.8167,99,38.0,152,12.0493,Medium
+5784,44%,27%,0.08288,39.3487,93,Brand 15,41.54%,12%,133,Lassi Blends,10,Vitamin_Rich,Full Cream Buffalo Milk,5.521,1.0457,675,63.4,20,35.3419,Medium
+5785,51%,38%,0.08959,35.9904,63,Brand 15,27.85%,8%,133,Special Spiced Chai,25,Vitamin_Rich,Malai Milk,0.546,5.0816,326,41.7,208,25.005,Medium
+5786,10%,27%,0.02976,13.5106,40,Brand 21,14.53%,10%,13,Cold Coffee,11,Low_Fat,Malai Milk,0.101,0.9616,942,12.4,112,14.2037,Medium
+5787,63%,47%,0.02616,28.9703,21,Brand 17,18.27%,12%,105,Nimbu Pani & Shikanji,17,Vitamin_Rich,Saffron-Infused Milk,0.101,1.22,401,115.6,274,15.2472,Medium
+5788,77%,84%,0.12948,33.2417,70,Brand 8,0.11%,11%,227,Special Spiced Chai,51,Vitamin_Rich,Malai Milk,0.101,4.5146,416,51.1,42,29.3535,Medium
+5789,39%,34%,0.0873,23.1693,67,Brand 14,27.24%,10%,76,Cold Coffee,20,Vitamin_Rich,Elaichi Doodh,5.174,1.208,391,9.6,24,26.6188,Medium
+5790,11%,0%,0.08992,5.0805,0,Brand 12,1.67%,12%,66,Special Spiced Chai,11,Low_Fat,Malai Milk,0.101,0.5834,94,24.6,142,12.7066,Medium
+5791,65%,46%,0.10079,18.8296,0,Brand 4,25.03%,11%,68,Special Spiced Chai,17,Vitamin_Rich,Malai Milk,5.601,4.3013,216,55.1,227,19.894,Medium
+5792,35%,28%,0.08754,39.1422,96,Brand 23,22.26%,11%,70,Cold Coffee,23,Vitamin_Rich,Full Cream Buffalo Milk,3.139,2.2079,583,19.3,135,48.1,Medium
+5793,51%,55%,0.02675,32.9483,21,Brand 6,0.11%,10%,88,South Indian Filter Coffee,42,Low_Fat,Elaichi Doodh,1.581,0.8875,687,131.0,248,11.958,Medium
+5794,53%,47%,0.0176,21.4819,34,Brand 16,0.11%,10%,137,South Indian Filter Coffee,16,Low_Fat,Badam Milk,1.308,2.903,570,40.5,144,12.2995,Medium
+5795,21%,30%,0.03035,20.8029,50,Brand 32,18.73%,8%,128,Masala Chai,11,Low_Fat,Rose Milk,1.74,0.8544,261,58.6,32,9.6279,Medium
+5796,21%,0%,0.02597,16.9291,11,Brand 1,0.11%,11%,145,Kadak Chai,11,Low_Fat,Malai Milk,0.101,1.2268,0,3.0,114,6.0044,Medium
+5797,70%,84%,0.02465,24.1462,51,Brand 26,0.11%,11%,130,Light Buttermilk (Chaas),17,Low_Fat,Extra Large Kulhad,1.924,0.0,166,33.5,83,25.657,Medium
+5798,13%,4%,0.0166,0.0,1,Brand 7,0.93%,9%,23,South Indian Filter Coffee,12,Low_Fat,Kesar Doodh,0.101,1.1415,192,40.3,284,15.0636,Medium
+5799,44%,39%,0.02804,19.1161,18,Brand 11,35.44%,7%,98,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,0.6937,222,49.5,118,7.2,Medium
+5800,10%,1%,0.01894,10.8311,0,Brand 14,0.11%,14%,13,Nimbu Pani & Shikanji,12,Low_Fat,Medium Glass,0.101,0.0,47,3.0,251,3.3381,Low
+5801,96%,49%,0.09881,27.5331,19,Brand 10,0.16%,8%,72,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,0.101,0.8311,114,47.5,268,18.0408,Medium
+5802,10%,1%,0.02946,3.9948,2,Brand 1,0.11%,9%,40,Masala Chai,17,Low_Fat,Elaichi Doodh,1.35,0.0,305,13.0,389,5.258,Medium
+5803,14%,0%,0.09827,21.8876,8,Brand 7,0.11%,10%,136,Light Buttermilk (Chaas),26,Low_Fat,Medium Glass,0.101,1.0997,131,9.1,57,14.0211,Medium
+5804,49%,26%,0.02304,24.4825,11,Brand 32,41.60%,12%,215,Masala Chai,10,Vitamin_Rich,Rose Milk,1.592,1.3007,203,46.2,150,7.7907,Medium
+5805,58%,36%,0.02798,19.811,25,Brand 14,15.49%,7%,171,Masala Chai,11,Low_Fat,Extra Large Kulhad,0.101,0.9589,338,27.8,142,17.1098,Medium
+5806,10%,2%,0.02553,9.4918,13,Brand 21,0.11%,11%,2,Masala Chai,10,Low_Fat,Medium Glass,0.101,0.5174,101,3.8,224,3.3381,Low
+5807,109%,29%,0.02232,22.4366,8,Brand 3,30.04%,6%,130,South Indian Filter Coffee,11,Low_Fat,Large Kulhad,0.101,1.1924,154,31.7,269,6.7097,Medium
+5808,48%,28%,0.02652,28.8477,69,Brand 3,23.05%,42%,98,Cold Coffee,10,Vitamin_Rich,Saffron-Infused Milk,0.138,0.3743,18,19.5,20,17.4266,Medium
+5809,15%,34%,0.10761,30.8368,43,Brand 4,23.56%,5%,185,Masala Chai,18,Vitamin_Rich,Saffron-Infused Milk,0.101,0.967,113,32.5,20,26.4375,Medium
+5810,11%,29%,0.01153,22.3351,13,Brand 33,47.29%,5%,92,Nimbu Pani & Shikanji,10,Low_Fat,Saffron-Infused Milk,2.472,0.705,2,3.0,235,8.2777,Low
+5811,150%,39%,0.08944,20.2896,8,Brand 7,0.11%,9%,13,South Indian Filter Coffee,10,Low_Fat,Badam Milk,1.484,0.8149,443,83.5,145,11.9241,Medium
+5812,118%,48%,0.07703,32.8519,65,Brand 24,23.72%,17%,45,Mango Shake,47,Vitamin_Rich,Malai Milk,0.101,3.2269,679,142.7,80,31.5011,High
+5813,10%,3%,0.02589,3.1035,0,Brand 13,0.11%,12%,2,Nimbu Pani & Shikanji,10,Low_Fat,Extra Large Kulhad,0.101,0.0,39,3.0,419,3.3381,Low
+5814,98%,32%,0.10869,31.3718,19,Brand 3,0.11%,8%,178,Masala Chai,41,Vitamin_Rich,Malai Milk,0.101,2.4709,466,30.1,191,17.3788,Medium
+5815,73%,54%,0.01137,25.5983,26,Brand 2,26.74%,5%,19,South Indian Filter Coffee,43,Vitamin_Rich,Elaichi Doodh,0.101,2.2713,277,61.5,260,15.3412,Medium
+5816,41%,38%,0.08856,29.4321,7,Brand 11,0.11%,5%,111,South Indian Filter Coffee,26,Vitamin_Rich,Malai Milk,0.101,1.8345,377,31.5,220,14.6031,Medium
+5817,39%,33%,0.02468,21.4459,37,Brand 2,38.11%,5%,213,Mango Shake,16,Vitamin_Rich,Kesar Doodh,1.976,0.4444,558,63.4,38,11.7979,Medium
+5818,46%,28%,0.07871,34.1927,62,Brand 9,38.62%,76%,218,Masala Chai,10,Vitamin_Rich,Elaichi Doodh,388.995,2.4053,242,113.5,35,23.8333,High
+5819,19%,5%,0.02326,31.6693,27,Brand 32,0.11%,5%,115,Nimbu Pani & Shikanji,11,Low_Fat,Elaichi Doodh,2.486,0.7593,56,62.9,252,33.1344,Low
+5820,67%,32%,0.11658,29.2153,18,Brand 10,37.07%,11%,116,South Indian Filter Coffee,40,Vitamin_Rich,Elaichi Doodh,0.101,3.0815,352,57.5,203,21.0026,Medium
+5821,23%,6%,0.01744,20.7184,35,Brand 25,0.16%,6%,52,Masala Chai,17,Low_Fat,Elaichi Doodh,0.901,0.3571,203,26.2,61,6.4515,Medium
+5822,36%,47%,0.02258,33.5722,44,Brand 14,25.08%,6%,134,South Indian Filter Coffee,16,Vitamin_Rich,Elaichi Doodh,7.45,0.9041,414,72.6,266,21.1379,Medium
+5823,149%,35%,0.07181,41.1583,46,Brand 11,44.10%,405%,144,Mango Shake,45,Vitamin_Rich,Malai Milk,473.712,4.559,665,143.0,53,41.0533,High
+5824,66%,51%,0.09881,29.8224,30,Brand 3,0.11%,10%,92,Masala Chai,46,Vitamin_Rich,Malai Milk,0.101,3.3706,365,124.7,35,32.4324,Medium
+5825,25%,32%,0.09508,27.543,59,Brand 10,23.60%,10%,37,Cold Coffee,10,Vitamin_Rich,Malai Milk,2.299,0.7252,73,30.4,44,28.112,Medium
+5826,39%,42%,0.09317,25.3766,40,Brand 10,21.35%,5%,153,South Indian Filter Coffee,10,Vitamin_Rich,Malai Milk,0.101,1.1,272,21.3,261,16.8267,Medium
+5827,26%,36%,0.07962,31.0614,58,Brand 23,23.83%,75%,189,Special Spiced Chai,25,Vitamin_Rich,Full Cream Buffalo Milk,2.683,3.1301,568,48.2,34,27.5219,Medium
+5828,34%,31%,0.07874,34.2091,47,Brand 32,7.28%,12%,50,Masala Chai,42,Vitamin_Rich,Malai Milk,0.101,1.0333,505,44.0,20,37.7286,Medium
+5829,50%,31%,0.03615,23.149,49,Brand 8,11.05%,5%,187,Nimbu Pani & Shikanji,11,Low_Fat,Badam Milk,0.101,1.0449,161,11.8,235,19.6376,Medium
+5830,56%,37%,0.09188,28.0494,64,Brand 19,15.08%,13%,71,Mango Shake,10,Vitamin_Rich,Rose Milk,0.472,1.3713,390,63.7,134,25.9931,Medium
+5831,48%,28%,0.02682,33.0859,37,Brand 6,0.11%,7%,70,Nimbu Pani & Shikanji,10,Low_Fat,Kesar Doodh,0.133,0.6552,98,3.0,52,20.7948,Medium
+5832,10%,1%,0.01929,8.0784,9,Brand 12,0.11%,14%,84,Nimbu Pani & Shikanji,10,Low_Fat,Medium Glass,3.152,0.0,35,3.0,635,3.3381,Medium
+5833,74%,25%,0.03245,35.2833,88,Brand 25,20.33%,5%,101,Cold Coffee,10,Low_Fat,Badam Milk,0.101,1.6183,146,61.3,226,18.3898,Medium
+5834,23%,22%,0.01627,30.9867,35,Brand 9,0.11%,54%,186,Light Buttermilk (Chaas),10,Low_Fat,Rose Milk,0.764,0.0112,233,3.0,25,10.4875,Low
+5835,46%,31%,0.08577,16.1352,14,Brand 11,0.11%,9%,25,Lassi Blends,10,Vitamin_Rich,Ek Chhoti Pyali,1.063,3.1951,38,10.2,127,13.1856,Medium
+5836,47%,28%,0.02409,23.7782,41,Brand 4,1.53%,9%,73,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,3.108,1.494,382,36.0,26,26.4212,Medium
+5837,29%,54%,0.01553,27.7394,5,Brand 4,0.11%,13%,69,Special Spiced Chai,17,Low_Fat,Saffron-Infused Milk,3.987,0.9159,112,80.2,146,11.7605,Medium
+5838,74%,50%,0.03604,27.7332,28,Brand 9,23.52%,7%,79,Masala Chai,27,Vitamin_Rich,Elaichi Doodh,0.101,1.745,271,40.6,136,16.6545,Medium
+5839,83%,40%,0.13957,32.4747,67,Brand 16,0.11%,10%,68,Masala Chai,17,Low_Fat,Elaichi Doodh,0.916,2.7806,527,76.5,78,22.2568,High
+5840,24%,45%,0.08409,32.2497,54,Brand 10,37.10%,6%,86,Special Spiced Chai,27,Vitamin_Rich,Elaichi Doodh,2.898,3.2038,708,65.6,40,28.5887,Medium
+5841,105%,35%,0.10462,30.5464,28,Brand 26,2.06%,10%,123,South Indian Filter Coffee,17,Vitamin_Rich,Malai Milk,0.299,3.7001,497,113.7,38,32.4366,Medium
+5842,10%,6%,0.01752,5.3119,1,Brand 30,0.11%,7%,20,Masala Chai,11,Low_Fat,Large Kulhad,0.101,0.2957,0,3.0,360,3.3381,Low
+5843,101%,57%,0.1116,36.7061,76,Brand 30,37.07%,13%,141,Special Spiced Chai,40,Vitamin_Rich,Malai Milk,4.822,3.2095,455,143.0,40,45.4735,High
+5844,34%,30%,0.06857,27.4471,67,Brand 25,13.21%,70%,124,Lassi Blends,12,Vitamin_Rich,Elaichi Doodh,2.752,1.1492,383,62.2,20,20.8544,Medium
+5845,37%,19%,0.02989,40.0536,67,Brand 25,31.37%,5%,52,Masala Chai,10,Vitamin_Rich,Badam Milk,1.042,0.8831,780,30.9,228,30.9361,Medium
+5846,10%,47%,0.02275,24.2671,20,Brand 21,0.11%,6%,44,South Indian Filter Coffee,17,Low_Fat,Elaichi Doodh,0.101,0.3333,240,12.8,266,14.1478,Medium
+5847,47%,33%,0.07626,37.0367,65,Brand 24,30.23%,8%,93,Lassi Blends,23,Vitamin_Rich,Elaichi Doodh,0.101,3.8502,423,62.2,30,34.3258,High
+5848,65%,33%,0.13962,28.8909,73,Brand 15,25.50%,9%,181,Cold Coffee,16,Vitamin_Rich,Badam Milk,0.101,5.084,339,46.9,237,32.4954,Medium
+5849,72%,34%,0.09695,34.8084,49,Brand 17,11.78%,10%,113,Special Spiced Chai,10,Vitamin_Rich,Badam Milk,1.057,2.155,295,45.9,33,20.172,Medium
+5850,53%,6%,0.02198,26.8238,18,Brand 33,1.27%,11%,83,Masala Chai,11,Low_Fat,Elaichi Doodh,0.101,0.0,55,9.8,67,16.8307,Medium
+5851,50%,32%,0.01981,27.184,35,Brand 18,30.73%,9%,125,Lassi Blends,10,Low_Fat,Badam Milk,0.972,1.6485,736,37.7,241,9.948,Medium
+5852,45%,30%,0.01101,22.0038,9,Brand 18,0.66%,14%,77,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.6231,30,22.6,217,6.9856,Medium
+5853,56%,6%,0.02671,22.8816,64,Brand 6,0.11%,10%,147,Mango Shake,10,Low_Fat,Rose Milk,1.734,0.3248,585,50.0,23,28.2174,Medium
+5854,107%,30%,0.0219,27.5558,39,Brand 6,0.11%,5%,75,South Indian Filter Coffee,17,Vitamin_Rich,Badam Milk,0.101,3.8451,492,69.4,215,15.3227,Medium
+5855,101%,56%,0.16513,35.2549,88,Brand 32,36.09%,10%,167,Mango Shake,48,Vitamin_Rich,Kesar Doodh,4.144,1.8857,1254,74.9,33,42.0355,High
+5856,20%,45%,0.01726,30.6358,12,Brand 23,0.11%,8%,156,Nimbu Pani & Shikanji,16,Low_Fat,Elaichi Doodh,0.101,0.0,608,47.0,54,25.8161,Medium
+5857,89%,33%,0.08828,29.5108,49,Brand 7,35.89%,5%,102,Masala Chai,29,Vitamin_Rich,Malai Milk,1.062,3.0337,160,42.5,31,25.4362,Medium
+5858,64%,57%,0.01409,31.7653,61,Brand 16,45.70%,10%,98,Special Spiced Chai,10,Vitamin_Rich,Malai Milk,401.929,2.169,904,56.0,45,33.7234,High
+5859,103%,0%,0.02439,22.5682,34,Brand 10,0.17%,7%,126,Masala Chai,12,Low_Fat,Elaichi Doodh,0.914,1.0761,242,13.1,212,15.9694,Medium
+5860,10%,47%,0.07505,32.404,43,Brand 17,0.11%,73%,112,Cold Coffee,16,Low_Fat,Elaichi Doodh,0.101,1.5414,522,47.4,36,25.5495,Medium
+5861,44%,28%,0.08324,29.8568,53,Brand 32,16.28%,11%,76,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,1.3882,130,26.8,20,16.9295,Medium
+5862,78%,23%,0.03243,28.8126,31,Brand 13,0.11%,8%,152,Masala Chai,16,Vitamin_Rich,Malai Milk,0.992,1.045,485,17.3,125,27.3984,Medium
+5863,96%,34%,0.09691,34.6898,54,Brand 10,23.15%,15%,81,Masala Chai,44,Vitamin_Rich,Malai Milk,2.178,4.4242,590,136.3,215,37.7822,Medium
+5864,35%,23%,0.09762,27.3567,86,Brand 32,25.88%,61%,89,Lassi Blends,11,Low_Fat,Badam Milk,0.101,0.9998,463,63.0,34,22.001,Medium
+5865,38%,42%,0.024,31.2936,12,Brand 9,0.11%,9%,167,Mango Shake,16,Low_Fat,Elaichi Doodh,0.101,0.769,556,38.9,192,8.4658,Medium
+5866,67%,51%,0.14712,37.9336,47,Brand 10,37.76%,13%,142,Cold Coffee,58,Vitamin_Rich,Malai Milk,0.101,4.1373,614,87.8,219,31.1942,Medium
+5867,66%,37%,0.03122,23.1689,20,Brand 1,0.11%,21%,123,Special Spiced Chai,10,Low_Fat,Medium Glass,2.923,0.9796,70,42.3,43,13.5645,Medium
+5868,30%,56%,0.02644,24.4248,12,Brand 8,15.48%,5%,163,Mango Shake,17,Low_Fat,Small Glass,8.248,1.1176,243,44.2,214,16.1136,Medium
+5869,51%,28%,0.02998,21.4352,13,Brand 21,0.48%,14%,116,South Indian Filter Coffee,11,Low_Fat,Badam Milk,0.101,1.2444,252,25.8,297,3.3381,Medium
+5870,147%,43%,0.18718,38.5288,95,Brand 28,25.52%,13%,52,Masala Chai,27,Vitamin_Rich,Malai Milk,2.035,3.5496,550,101.2,126,30.4807,Medium
+5871,39%,30%,0.10351,29.4942,59,Brand 32,10.12%,5%,73,Lassi Blends,11,Vitamin_Rich,Badam Milk,0.101,1.1158,171,36.8,20,42.9648,Medium
+5872,19%,30%,0.02921,28.5809,67,Brand 8,19.38%,5%,48,Lassi Blends,12,Low_Fat,Ek Chhoti Pyali,0.208,0.8705,384,11.0,21,29.8826,Medium
+5873,10%,5%,0.01859,14.8873,24,Brand 21,0.11%,8%,2,South Indian Filter Coffee,12,Low_Fat,Extra Large Kulhad,1.295,0.2256,125,16.6,300,10.1227,Medium
+5874,60%,49%,0.01509,34.5966,72,Brand 29,19.19%,45%,176,Lassi Blends,11,Vitamin_Rich,Kesar Doodh,2.206,1.0891,512,43.7,32,33.2691,Medium
+5875,56%,32%,0.09197,26.4229,23,Brand 8,0.11%,6%,74,Masala Chai,45,Low_Fat,Malai Milk,0.101,0.9123,498,62.4,25,13.488,Medium
+5876,52%,31%,0.02473,31.7387,37,Brand 14,0.11%,12%,2,Masala Chai,10,Vitamin_Rich,Malai Milk,0.123,1.5316,362,56.1,137,15.0819,Medium
+5877,34%,25%,0.0273,27.2028,48,Brand 10,18.46%,7%,61,South Indian Filter Coffee,10,Low_Fat,Kesar Doodh,7.989,1.1103,192,23.9,45,12.9821,Medium
+5878,61%,33%,0.09773,22.8072,13,Brand 7,0.22%,12%,37,South Indian Filter Coffee,11,Vitamin_Rich,Badam Milk,0.101,3.0675,373,46.7,221,16.5711,Medium
+5879,38%,2%,0.02314,12.1092,2,Brand 19,0.11%,5%,69,Masala Chai,11,Low_Fat,Kesar Doodh,4.635,1.205,150,36.2,121,3.6971,Medium
+5880,60%,35%,0.03452,20.2098,36,Brand 19,1.08%,6%,111,Special Spiced Chai,11,Vitamin_Rich,Badam Milk,2.948,1.259,691,40.1,252,20.7785,Medium
+5881,89%,55%,0.17286,20.9808,13,Brand 9,0.11%,15%,15,Kadak Chai,30,Vitamin_Rich,Malai Milk,0.101,4.1019,649,121.2,132,34.7881,Medium
+5882,10%,0%,0.01101,24.4226,5,Brand 4,0.11%,10%,80,South Indian Filter Coffee,12,Low_Fat,Malai Milk,0.101,0.8525,188,12.6,367,9.5755,Medium
+5883,99%,56%,0.03293,18.196,30,Brand 11,11.81%,11%,96,Masala Chai,11,Low_Fat,Rose Milk,190.303,1.3711,111,47.0,135,10.5973,Medium
+5884,107%,35%,0.01101,33.3901,22,Brand 12,1.12%,12%,121,South Indian Filter Coffee,27,Vitamin_Rich,Rose Milk,2.109,0.9396,387,73.2,119,18.5267,Medium
+5885,54%,0%,0.03711,22.4528,1,Brand 21,0.11%,13%,14,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,0.101,0.0,204,7.5,478,4.617,Medium
+5886,76%,53%,0.02004,29.0142,58,Brand 8,12.92%,390%,156,Masala Chai,17,Low_Fat,Malai Milk,234.492,0.8001,472,99.1,50,15.6695,Medium
+5887,36%,28%,0.09541,28.1001,20,Brand 21,2.37%,5%,25,Masala Chai,11,Low_Fat,Elaichi Doodh,2.959,0.8553,378,15.8,43,8.796,Medium
+5888,40%,51%,0.02013,24.19,20,Brand 27,0.11%,5%,54,South Indian Filter Coffee,18,Low_Fat,Rose Milk,1.388,0.3344,258,47.3,293,18.7838,Medium
+5889,77%,58%,0.08028,25.376,10,Brand 15,0.11%,15%,27,Special Spiced Chai,18,Vitamin_Rich,Malai Milk,3.791,2.144,497,117.7,154,12.9151,Medium
+5890,29%,29%,0.08746,36.0638,59,Brand 9,20.75%,9%,76,Cold Coffee,26,Vitamin_Rich,Malai Milk,0.101,3.5819,714,50.9,22,43.0477,Medium
+5891,20%,6%,0.03088,27.766,24,Brand 9,0.11%,10%,42,Nimbu Pani & Shikanji,10,Low_Fat,Rose Milk,0.101,0.6321,120,33.1,285,10.4187,Medium
+5892,99%,27%,0.09312,24.9138,21,Brand 13,0.11%,11%,57,Special Spiced Chai,10,Low_Fat,Rose Milk,0.101,0.7072,406,78.3,23,25.2753,Medium
+5893,10%,2%,0.01927,31.207,25,Brand 32,0.11%,9%,53,Special Spiced Chai,11,Low_Fat,Large Kulhad,0.101,0.0035,85,3.0,20,17.4594,Medium
+5894,80%,31%,0.10554,33.5358,70,Brand 12,16.83%,6%,81,Cold Coffee,17,Vitamin_Rich,Badam Milk,0.653,1.7087,259,32.7,219,31.896,Medium
+5895,35%,32%,0.02544,24.0681,14,Brand 24,25.58%,5%,171,South Indian Filter Coffee,10,Vitamin_Rich,Medium Glass,5.444,2.1262,121,48.6,159,16.5879,High
+5896,46%,0%,0.0204,10.4242,38,Brand 10,0.11%,12%,97,South Indian Filter Coffee,11,Low_Fat,Full Cream Buffalo Milk,0.101,0.5489,184,26.4,266,14.894,Medium
+5897,53%,34%,0.10789,31.1665,19,Brand 31,0.11%,8%,173,Cold Coffee,10,Vitamin_Rich,Extra Large Kulhad,0.101,1.3276,140,12.3,245,14.0186,Medium
+5898,33%,35%,0.10902,25.0873,39,Brand 32,13.10%,5%,195,Lassi Blends,17,Vitamin_Rich,Rose Milk,0.633,2.5244,304,23.5,206,18.1568,Medium
+5899,48%,34%,0.04139,19.2416,14,Brand 17,39.61%,8%,38,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,1.068,528,40.1,37,14.163,Medium
+5900,36%,0%,0.02932,26.6779,32,Brand 26,30.75%,5%,94,South Indian Filter Coffee,11,Low_Fat,Badam Milk,0.101,0.5994,196,16.6,52,9.5446,Medium
+5901,41%,34%,0.07777,39.6493,89,Brand 27,30.11%,9%,168,Cold Coffee,27,Vitamin_Rich,Full Cream Buffalo Milk,20.621,3.0621,965,54.6,219,34.5214,Medium
+5902,44%,29%,0.09738,29.1639,56,Brand 15,18.45%,8%,84,South Indian Filter Coffee,45,Vitamin_Rich,Full Cream Buffalo Milk,0.101,2.7169,855,64.3,38,19.0007,Medium
+5903,66%,36%,0.08646,32.6044,78,Brand 31,53.46%,381%,178,Lassi Blends,16,Vitamin_Rich,Badam Milk,298.707,3.3239,410,116.8,62,37.4914,High
+5904,159%,57%,0.18125,30.1318,49,Brand 10,1.28%,13%,193,Cold Coffee,49,Vitamin_Rich,Badam Milk,271.24,3.903,560,100.5,263,20.979,Medium
+5905,32%,31%,0.09969,34.7678,56,Brand 9,0.11%,6%,162,Masala Chai,29,Vitamin_Rich,Full Cream Buffalo Milk,0.101,3.601,421,21.9,121,31.3773,Medium
+5906,64%,52%,0.0978,26.9204,22,Brand 29,0.11%,8%,94,South Indian Filter Coffee,26,Vitamin_Rich,Malai Milk,0.101,3.6993,256,120.2,207,21.7367,Medium
+5907,10%,0%,0.025,19.1562,35,Brand 19,0.11%,10%,18,Nimbu Pani & Shikanji,10,Low_Fat,Medium Glass,0.607,0.0,34,3.0,50,10.8754,Low
+5908,10%,0%,0.0294,23.39,23,Brand 19,0.11%,9%,172,South Indian Filter Coffee,10,Low_Fat,Full Cream Buffalo Milk,0.101,1.4717,108,14.0,250,13.8689,Medium
+5909,114%,31%,0.10275,26.3354,25,Brand 9,0.11%,5%,38,South Indian Filter Coffee,42,Vitamin_Rich,Malai Milk,0.101,3.0682,414,53.7,217,23.1627,Medium
+5910,27%,39%,0.01202,26.886,23,Brand 14,25.93%,10%,155,Nimbu Pani & Shikanji,10,Low_Fat,Kesar Doodh,1.87,0.4785,229,3.1,147,14.2956,Medium
+5911,86%,31%,0.0869,37.2791,83,Brand 14,0.11%,65%,101,Masala Chai,27,Low_Fat,Kesar Doodh,0.101,1.143,982,50.4,252,29.4763,Medium
+5912,16%,1%,0.0207,24.1477,8,Brand 9,0.11%,5%,2,Nimbu Pani & Shikanji,10,Low_Fat,Medium Glass,0.101,0.2267,542,34.5,26,14.5619,Medium
+5913,43%,25%,0.06621,41.6536,75,Brand 11,27.35%,7%,77,Cold Coffee,46,Vitamin_Rich,Malai Milk,0.325,2.8472,1077,21.4,20,47.9133,High
+5914,41%,0%,0.01216,19.9351,28,Brand 27,1.27%,11%,25,Masala Chai,10,Low_Fat,Kesar Doodh,2.994,1.0597,189,21.9,130,18.647,Medium
+5915,126%,27%,0.09449,36.1194,53,Brand 26,37.67%,11%,104,South Indian Filter Coffee,45,Vitamin_Rich,Malai Milk,2.433,4.2756,319,95.6,266,22.1784,Medium
+5916,10%,0%,0.02787,10.5164,15,Brand 2,0.11%,9%,24,Special Spiced Chai,10,Low_Fat,Kesar Doodh,4.652,0.5133,237,3.6,246,7.1823,Medium
+5917,126%,73%,0.02093,28.3939,39,Brand 8,1.31%,9%,39,Lassi Blends,10,Low_Fat,Malai Milk,0.101,1.0837,435,52.6,129,17.6331,Medium
+5918,64%,27%,0.09694,37.3892,30,Brand 32,22.47%,7%,85,Special Spiced Chai,10,Vitamin_Rich,Badam Milk,0.167,4.8225,156,44.7,229,23.1598,Medium
+5919,34%,53%,0.03199,34.6499,30,Brand 9,36.80%,11%,33,Masala Chai,10,Low_Fat,Malai Milk,7.625,0.8836,467,91.0,252,34.7269,High
+5920,132%,35%,0.08378,28.7067,27,Brand 32,14.31%,71%,41,South Indian Filter Coffee,16,Low_Fat,Malai Milk,17.952,0.4363,488,118.9,20,12.5529,High
+5921,10%,47%,0.0251,16.5415,12,Brand 10,0.11%,9%,37,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,1.143,0.2036,157,64.8,254,5.3034,Medium
+5922,68%,34%,0.03615,35.1876,26,Brand 19,34.02%,15%,53,Special Spiced Chai,10,Low_Fat,Elaichi Doodh,6.603,1.542,601,91.7,287,32.3507,Medium
+5923,45%,54%,0.01853,27.1483,30,Brand 6,0.11%,8%,126,Special Spiced Chai,16,Vitamin_Rich,Kesar Doodh,2.387,0.2826,519,56.9,161,15.8518,High
+5924,156%,33%,0.08793,37.5398,78,Brand 15,29.86%,12%,103,Masala Chai,11,Vitamin_Rich,Badam Milk,0.101,1.6398,614,62.6,235,28.7499,Medium
+5925,30%,28%,0.10462,29.8923,55,Brand 29,0.11%,8%,74,Light Buttermilk (Chaas),10,Low_Fat,Rose Milk,0.101,0.5006,68,26.7,26,26.1833,Medium
+5926,10%,2%,0.02798,12.7578,2,Brand 21,0.11%,12%,20,South Indian Filter Coffee,11,Low_Fat,Large Kulhad,0.101,0.0,396,16.3,492,4.2359,Medium
+5927,10%,0%,0.01101,3.1797,0,Brand 20,0.11%,13%,2,Masala Chai,10,Low_Fat,Rose Milk,0.839,0.2032,131,3.0,269,3.3381,Medium
+5928,38%,36%,0.02673,31.0447,12,Brand 21,0.11%,77%,86,South Indian Filter Coffee,11,Low_Fat,Elaichi Doodh,0.782,0.8451,971,50.0,241,20.8491,High
+5929,38%,0%,0.02858,11.6922,36,Brand 19,0.80%,8%,2,Masala Chai,10,Low_Fat,Badam Milk,3.399,0.6616,90,27.3,85,6.3722,Low
+5930,86%,30%,0.02507,21.0505,28,Brand 11,0.11%,10%,121,Special Spiced Chai,11,Vitamin_Rich,Kesar Doodh,0.15,1.0803,121,23.0,366,8.0823,Medium
+5931,42%,51%,0.01205,31.8377,28,Brand 25,40.07%,11%,132,Mango Shake,25,Low_Fat,Kesar Doodh,2.672,0.6144,266,58.5,140,26.9339,Medium
+5932,97%,33%,0.08282,29.9713,60,Brand 25,33.71%,80%,85,Lassi Blends,26,Low_Fat,Full Cream Buffalo Milk,1.358,0.4862,1109,33.9,20,29.6652,Medium
+5933,21%,42%,0.05865,41.6536,60,Brand 23,26.97%,81%,88,Cold Coffee,45,Low_Fat,Malai Milk,48.677,1.1756,544,136.5,20,37.0126,High
+5934,44%,30%,0.02472,23.1405,20,Brand 32,2.13%,5%,154,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,0.5967,418,20.5,126,11.1517,Medium
+5935,10%,2%,0.01101,4.8777,2,Brand 23,0.11%,9%,2,Masala Chai,10,Low_Fat,Extra Large Kulhad,0.101,0.0,63,3.0,519,3.3381,Low
+5936,36%,28%,0.08732,34.1407,37,Brand 15,20.61%,10%,123,Masala Chai,41,Vitamin_Rich,Badam Milk,0.101,4.073,280,61.0,26,14.0256,Medium
+5937,10%,3%,0.01494,23.882,1,Brand 13,0.11%,10%,91,Nimbu Pani & Shikanji,11,Low_Fat,Medium Glass,0.101,0.0,123,3.0,258,6.2246,Medium
+5938,16%,28%,0.02777,22.9858,60,Brand 27,0.11%,6%,162,Cold Coffee,16,Vitamin_Rich,Full Cream Buffalo Milk,0.101,0.4616,331,36.0,60,18.6966,Medium
+5939,114%,53%,0.01101,23.8049,28,Brand 14,0.43%,11%,171,Masala Chai,42,Vitamin_Rich,Malai Milk,3.07,3.6056,610,131.7,151,15.5091,Medium
+5940,88%,39%,0.19046,32.3077,25,Brand 6,2.24%,9%,97,Cold Coffee,10,Low_Fat,Malai Milk,0.101,0.046,573,57.3,227,30.3339,Medium
+5941,97%,34%,0.01101,30.4099,46,Brand 32,20.82%,9%,24,South Indian Filter Coffee,10,Vitamin_Rich,Saffron-Infused Milk,7.881,1.0677,747,40.6,20,29.3583,Medium
+5942,48%,28%,0.0298,25.7385,84,Brand 14,29.96%,13%,119,Light Buttermilk (Chaas),10,Low_Fat,Full Cream Buffalo Milk,1.382,0.7168,488,29.9,27,17.2403,Medium
+5943,131%,31%,0.01887,2.6081,20,Brand 4,1.46%,12%,3,Masala Chai,10,Low_Fat,Badam Milk,3.121,0.693,43,14.1,137,4.9336,Medium
+5944,35%,43%,0.04203,26.1706,9,Brand 13,0.18%,5%,87,South Indian Filter Coffee,10,Low_Fat,Medium Glass,0.101,0.0,110,13.1,40,3.3381,Medium
+5945,25%,29%,0.0183,26.1422,16,Brand 5,0.11%,7%,20,South Indian Filter Coffee,12,Vitamin_Rich,Elaichi Doodh,0.101,1.5317,91,4.8,128,9.67,Medium
+5946,57%,28%,0.09551,37.2538,78,Brand 32,42.63%,9%,240,Cold Coffee,11,Vitamin_Rich,Elaichi Doodh,2.412,1.9005,438,68.1,20,26.0805,Medium
+5947,31%,24%,0.0852,35.2312,82,Brand 6,20.35%,11%,198,Special Spiced Chai,10,Vitamin_Rich,Badam Milk,0.101,3.9741,711,27.0,22,25.3053,Medium
+5948,13%,30%,0.01925,30.3083,12,Brand 15,1.87%,5%,54,South Indian Filter Coffee,15,Low_Fat,Saffron-Infused Milk,0.49,0.9206,325,21.6,31,10.0156,Medium
+5949,60%,28%,0.09158,25.8665,14,Brand 17,0.11%,11%,63,South Indian Filter Coffee,11,Low_Fat,Rose Milk,0.101,0.3759,172,35.2,256,6.9218,Medium
+5950,55%,35%,0.07072,38.8073,37,Brand 17,15.89%,8%,184,Cold Coffee,27,Vitamin_Rich,Malai Milk,275.418,3.9982,414,109.3,129,48.1,Medium
+5951,45%,26%,0.01101,19.2709,27,Brand 9,12.75%,8%,57,Masala Chai,10,Vitamin_Rich,Badam Milk,1.404,0.9691,190,36.1,149,10.2648,Medium
+5952,137%,52%,0.21801,30.6474,70,Brand 10,0.11%,11%,66,Masala Chai,42,Low_Fat,Elaichi Doodh,0.101,0.8543,389,131.2,240,29.9569,Medium
+5953,66%,41%,0.09732,31.0104,76,Brand 11,28.48%,10%,118,Light Buttermilk (Chaas),17,Vitamin_Rich,Elaichi Doodh,2.579,3.7433,440,110.3,43,33.7435,Medium
+5954,32%,29%,0.02787,21.0399,24,Brand 32,12.18%,8%,29,Masala Chai,12,Low_Fat,Saffron-Infused Milk,0.101,0.4778,18,19.3,228,8.1214,Medium
+5955,46%,37%,0.103,24.8344,21,Brand 8,0.11%,9%,111,South Indian Filter Coffee,10,Vitamin_Rich,Malai Milk,0.101,2.2835,170,35.5,133,24.8173,Medium
+5956,27%,6%,0.01333,3.9789,0,Brand 2,1.04%,12%,2,Masala Chai,11,Low_Fat,Large Kulhad,1.97,0.9459,0,3.0,540,3.3381,Low
+5957,19%,32%,0.02703,13.0385,11,Brand 19,0.11%,10%,71,Nimbu Pani & Shikanji,11,Low_Fat,Small Glass,0.101,1.2618,234,24.6,257,9.2437,Medium
+5958,64%,29%,0.03245,23.1371,56,Brand 27,0.11%,11%,223,Cold Coffee,11,Vitamin_Rich,Badam Milk,0.101,1.2219,188,33.0,133,10.257,Medium
+5959,123%,62%,0.08538,33.5388,78,Brand 32,47.40%,16%,143,Mango Shake,49,Vitamin_Rich,Malai Milk,44.669,3.1503,532,123.3,138,31.599,Medium
+5960,143%,44%,0.01432,19.474,35,Brand 2,0.11%,8%,174,South Indian Filter Coffee,40,Low_Fat,Malai Milk,1.269,2.9548,475,60.9,140,9.3269,Medium
+5961,64%,4%,0.02781,17.7618,34,Brand 8,0.11%,11%,208,Lassi Blends,23,Low_Fat,Elaichi Doodh,0.101,0.2861,574,40.2,126,23.7832,Medium
+5962,39%,33%,0.02937,27.3509,67,Brand 31,0.11%,9%,32,Mango Shake,10,Low_Fat,Elaichi Doodh,0.101,0.8721,445,39.2,222,15.3032,Medium
+5963,83%,35%,0.07877,34.749,46,Brand 11,49.12%,74%,156,Lassi Blends,37,Vitamin_Rich,Malai Milk,61.55,2.8351,508,142.4,20,31.4908,High
+5964,104%,37%,0.0912,27.9108,34,Brand 4,0.11%,10%,93,Special Spiced Chai,17,Low_Fat,Elaichi Doodh,0.101,3.7421,276,60.0,213,33.5923,Medium
+5965,60%,31%,0.0142,25.5035,27,Brand 6,15.16%,10%,82,Masala Chai,18,High_Protein,Elaichi Doodh,1.588,1.063,576,43.3,48,19.3773,Medium
+5966,10%,0%,0.03526,4.5076,9,Brand 1,0.11%,11%,2,Mango Shake,10,Low_Fat,Large Kulhad,0.101,0.0,55,3.0,530,3.3381,Low
+5967,144%,30%,0.02132,29.2301,50,Brand 9,0.11%,8%,85,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,0.8514,388,143.0,215,13.5558,Medium
+5968,27%,54%,0.01692,23.5196,32,Brand 31,0.11%,13%,147,Nimbu Pani & Shikanji,22,Low_Fat,Kesar Doodh,0.101,0.7963,393,31.3,152,8.7385,Medium
+5969,149%,53%,0.08617,34.361,39,Brand 10,0.11%,13%,57,Masala Chai,29,Vitamin_Rich,Malai Milk,0.328,1.0374,437,96.6,38,32.1289,Medium
+5970,26%,0%,0.02408,14.5251,18,Brand 6,2.24%,12%,40,Nimbu Pani & Shikanji,11,Low_Fat,Saffron-Infused Milk,0.685,0.0,239,19.2,260,10.8045,High
+5971,10%,24%,0.02975,27.9964,51,Brand 9,4.20%,8%,6,Lassi Blends,10,Low_Fat,Medium Glass,4.141,0.1266,216,12.5,20,20.1575,Low
+5972,111%,66%,0.16094,26.0299,55,Brand 10,40.75%,10%,146,Masala Chai,29,Vitamin_Rich,Kesar Doodh,2.577,3.9784,628,132.2,154,20.8416,Medium
+5973,44%,30%,0.09645,15.7339,36,Brand 9,0.11%,9%,74,Masala Chai,10,Low_Fat,Small Glass,0.101,1.228,21,27.5,53,21.7103,Medium
+5974,43%,34%,0.01966,25.3582,14,Brand 14,0.11%,5%,171,Masala Chai,16,Vitamin_Rich,Kesar Doodh,1.167,0.3982,246,107.9,124,12.9403,Medium
+5975,41%,29%,0.08997,33.8763,17,Brand 10,14.01%,7%,121,Cold Coffee,11,Vitamin_Rich,Malai Milk,0.101,3.9265,163,44.2,269,17.211,Medium
+5976,53%,26%,0.03507,12.0756,21,Brand 32,0.11%,5%,127,Masala Chai,10,Low_Fat,Saffron-Infused Milk,0.101,0.8072,64,29.7,453,6.3591,Medium
+5977,111%,39%,0.15676,29.6803,13,Brand 6,0.77%,9%,93,Special Spiced Chai,45,Vitamin_Rich,Malai Milk,0.101,3.2893,508,124.7,250,33.3077,Medium
+5978,28%,27%,0.01101,39.3246,47,Brand 32,9.56%,54%,122,Nimbu Pani & Shikanji,11,Low_Fat,Elaichi Doodh,0.101,0.6793,307,15.9,44,27.4279,Low
+5979,64%,25%,0.03793,26.9089,9,Brand 4,17.73%,7%,47,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,0.6131,0,18.9,48,10.8693,Medium
+5980,80%,2%,0.02102,28.8483,33,Brand 32,0.11%,13%,33,Masala Chai,10,Low_Fat,Elaichi Doodh,0.837,0.2612,496,3.0,30,27.9791,Medium
+5981,150%,57%,0.14892,25.8256,61,Brand 10,0.11%,14%,78,Masala Chai,43,Vitamin_Rich,Elaichi Doodh,0.101,1.4732,450,143.0,133,33.5893,Medium
+5982,15%,0%,0.01101,10.4047,21,Brand 33,0.11%,5%,18,Masala Chai,12,Low_Fat,Large Kulhad,0.101,1.1227,71,14.3,336,10.0581,Low
+5983,94%,31%,0.14882,31.0371,62,Brand 11,18.84%,70%,96,Masala Chai,11,Vitamin_Rich,Kesar Doodh,1.495,1.1031,590,38.8,239,20.0452,Medium
+5984,63%,24%,0.03707,24.0655,30,Brand 14,15.35%,5%,92,Special Spiced Chai,11,Vitamin_Rich,Badam Milk,0.101,1.5297,152,57.5,209,4.8478,Medium
+5985,124%,53%,0.02625,24.9652,2,Brand 7,21.18%,6%,102,South Indian Filter Coffee,17,Vitamin_Rich,Elaichi Doodh,0.101,0.7539,160,39.4,256,9.9655,Medium
+5986,71%,61%,0.13136,32.3376,24,Brand 25,16.34%,9%,146,South Indian Filter Coffee,29,Vitamin_Rich,Malai Milk,210.131,4.5423,444,41.5,267,17.1197,Medium
+5987,58%,25%,0.0944,31.4294,57,Brand 14,31.61%,6%,83,South Indian Filter Coffee,10,Vitamin_Rich,Malai Milk,0.101,1.5562,693,32.6,23,21.9161,Medium
+5988,93%,46%,0.02536,11.2257,12,Brand 6,0.11%,12%,96,South Indian Filter Coffee,16,Low_Fat,Elaichi Doodh,2.309,0.7919,514,115.8,270,18.3318,Medium
+5989,188%,57%,0.16122,33.5834,67,Brand 3,0.11%,15%,69,Masala Chai,50,Vitamin_Rich,Elaichi Doodh,1.058,4.5799,498,73.8,233,31.7433,Medium
+5990,93%,30%,0.04298,27.9839,24,Brand 9,3.84%,5%,141,South Indian Filter Coffee,25,Vitamin_Rich,Saffron-Infused Milk,0.101,0.7785,242,31.3,212,18.59,Medium
+5991,50%,30%,0.09238,23.2778,57,Brand 32,18.70%,7%,80,Masala Chai,10,Vitamin_Rich,Badam Milk,0.101,1.2116,474,62.4,115,13.7108,Medium
+5992,123%,70%,0.01101,30.9575,20,Brand 15,25.78%,9%,75,Masala Chai,17,Vitamin_Rich,Extra Large Kulhad,2.408,0.9962,327,52.1,219,11.6664,Medium
+5993,63%,32%,0.09621,30.9237,72,Brand 10,32.49%,10%,92,Kadak Chai,18,Vitamin_Rich,Malai Milk,1.923,4.3369,581,58.4,268,31.9203,Medium
+5994,22%,6%,0.03931,0.0,7,Brand 19,0.11%,8%,96,Special Spiced Chai,11,Vitamin_Rich,Large Kulhad,0.101,1.1807,115,11.4,388,3.3381,Medium
+5995,91%,53%,0.10052,32.1467,23,Brand 8,0.11%,11%,27,South Indian Filter Coffee,29,Vitamin_Rich,Small Glass,0.101,1.5939,146,51.8,242,23.4651,Medium
+5996,23%,27%,0.03491,31.1978,62,Brand 23,21.91%,9%,121,Cold Coffee,10,Low_Fat,Large Kulhad,0.101,1.0981,480,31.1,252,19.6827,Medium
+5997,10%,7%,0.02072,6.1857,6,Brand 12,0.11%,12%,61,South Indian Filter Coffee,11,Low_Fat,Small Glass,0.101,0.0,111,3.0,383,5.172,Medium
+5998,26%,23%,0.06674,40.4622,79,Brand 32,17.32%,78%,174,Lassi Blends,25,Vitamin_Rich,Full Cream Buffalo Milk,0.101,3.559,1167,22.4,20,36.139,Medium
+5999,45%,29%,0.02992,26.6144,24,Brand 17,0.11%,7%,63,Masala Chai,10,Vitamin_Rich,Large Kulhad,0.101,1.3786,220,25.7,40,8.7607,Medium
+6000,33%,2%,0.09873,23.9452,10,Brand 19,0.65%,13%,2,Lassi Blends,10,Low_Fat,Elaichi Doodh,4.626,0.7609,0,19.0,131,14.2532,Medium
+6001,48%,33%,0.09697,29.386,43,Brand 7,13.45%,12%,16,South Indian Filter Coffee,10,Low_Fat,Elaichi Doodh,0.101,1.0121,613,44.6,266,36.7159,Medium
+6002,41%,4%,0.01101,31.221,2,Brand 25,0.11%,8%,140,Nimbu Pani & Shikanji,11,Low_Fat,Extra Large Kulhad,0.101,0.072,110,3.9,149,8.8542,Medium
+6003,54%,28%,0.01144,35.1644,65,Brand 4,29.62%,7%,54,Mango Shake,11,Vitamin_Rich,Badam Milk,6.781,0.8126,237,108.3,140,15.6558,High
+6004,21%,9%,0.03566,10.5926,16,Brand 2,0.11%,9%,47,Masala Chai,10,Low_Fat,Kesar Doodh,1.212,0.6596,305,33.4,260,11.2937,Medium
+6005,52%,28%,0.01853,30.5895,65,Brand 25,19.45%,65%,166,Nimbu Pani & Shikanji,10,Low_Fat,Saffron-Infused Milk,4.641,0.8439,798,14.8,272,19.5482,High
+6006,50%,55%,0.09086,25.9485,34,Brand 26,0.11%,9%,35,South Indian Filter Coffee,41,Vitamin_Rich,Malai Milk,0.101,1.9548,125,51.8,131,14.1132,Medium
+6007,47%,32%,0.02818,34.6006,74,Brand 15,38.63%,45%,190,Masala Chai,11,Vitamin_Rich,Badam Milk,6.011,1.3347,613,51.2,136,27.8096,Medium
+6008,124%,54%,0.10101,22.5988,35,Brand 25,27.65%,8%,76,Mango Shake,32,Vitamin_Rich,Malai Milk,0.253,2.8553,282,35.6,30,11.0894,Medium
+6009,124%,41%,0.10819,5.6702,14,Brand 2,0.11%,14%,42,Special Spiced Chai,10,Vitamin_Rich,Malai Milk,0.101,2.981,97,49.3,269,23.3969,Medium
+6010,15%,4%,0.02609,9.9947,19,Brand 5,0.11%,13%,2,Masala Chai,10,Low_Fat,Extra Large Kulhad,0.101,0.8762,53,3.0,463,3.4666,Medium
+6011,10%,3%,0.02246,23.96,20,Brand 25,0.11%,5%,99,Nimbu Pani & Shikanji,11,Low_Fat,Large Kulhad,0.101,0.6913,164,3.0,515,3.9801,Medium
+6012,37%,26%,0.03568,31.3921,32,Brand 17,0.11%,8%,89,Cold Coffee,11,Low_Fat,Badam Milk,0.101,0.9173,252,19.0,243,12.9598,Medium
+6013,42%,33%,0.0371,17.3614,18,Brand 14,3.09%,6%,145,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,0.101,0.9053,0,26.4,20,8.907,Medium
+6014,26%,24%,0.10278,38.1116,65,Brand 32,17.61%,50%,101,Lassi Blends,11,Low_Fat,Badam Milk,0.101,1.2071,413,37.0,20,37.7893,Medium
+6015,76%,0%,0.02786,26.807,41,Brand 12,2.07%,7%,106,Cold Coffee,11,Low_Fat,Badam Milk,0.101,0.7085,72,102.7,239,11.7457,Medium
+6016,117%,53%,0.15515,35.2914,71,Brand 23,32.25%,10%,69,Mango Shake,40,Vitamin_Rich,Malai Milk,26.59,3.937,604,61.5,194,36.6189,Medium
+6017,14%,4%,0.02553,16.2302,8,Brand 19,0.11%,14%,2,Masala Chai,11,High_Protein,Malai Milk,1.445,0.7883,0,9.3,635,8.1038,Medium
+6018,51%,28%,0.01751,24.9241,24,Brand 4,21.96%,6%,90,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,1.471,1.3754,202,28.1,124,19.4263,Medium
+6019,37%,33%,0.09033,30.8248,78,Brand 15,12.95%,12%,218,Special Spiced Chai,23,Vitamin_Rich,Elaichi Doodh,3.469,4.1964,833,40.7,216,34.2992,Medium
+6020,58%,53%,0.12025,21.8824,7,Brand 9,1.47%,11%,170,Masala Chai,15,Low_Fat,Elaichi Doodh,1.09,0.9141,408,102.3,63,9.6765,Medium
+6021,87%,33%,0.08235,22.1403,30,Brand 2,17.75%,5%,56,South Indian Filter Coffee,22,Vitamin_Rich,Malai Milk,0.101,4.1624,367,30.1,32,16.3278,Medium
+6022,46%,37%,0.02022,24.3636,22,Brand 24,1.18%,55%,196,Masala Chai,10,Vitamin_Rich,Kesar Doodh,313.602,0.0,548,117.2,55,12.774,High
+6023,87%,26%,0.09348,34.5549,32,Brand 10,31.84%,8%,76,South Indian Filter Coffee,11,Vitamin_Rich,Malai Milk,0.101,3.6969,424,60.3,126,26.4014,Medium
+6024,57%,27%,0.02511,32.767,23,Brand 18,17.91%,6%,205,Masala Chai,13,Low_Fat,Badam Milk,0.101,0.2296,179,22.1,38,12.6848,Medium
+6025,34%,30%,0.08389,29.8333,37,Brand 32,0.11%,81%,71,Masala Chai,10,Low_Fat,Malai Milk,0.101,1.2922,383,23.6,20,20.1174,Medium
+6026,28%,9%,0.01989,21.6445,27,Brand 19,21.33%,11%,86,South Indian Filter Coffee,12,Vitamin_Rich,Medium Glass,0.101,0.7792,141,30.0,244,9.89,Medium
+6027,60%,31%,0.07979,39.0733,60,Brand 14,28.90%,8%,130,Cold Coffee,10,Low_Fat,Extra Large Kulhad,0.101,0.8913,127,42.2,216,24.387,Medium
+6028,64%,53%,0.04176,23.548,31,Brand 16,9.48%,11%,82,Masala Chai,27,Low_Fat,Saffron-Infused Milk,2.976,0.6534,183,54.3,234,15.0982,Medium
+6029,89%,53%,0.1445,30.1878,71,Brand 11,39.63%,17%,159,South Indian Filter Coffee,52,Vitamin_Rich,Malai Milk,5.702,3.326,689,123.6,252,36.282,Medium
+6030,73%,33%,0.08967,34.7504,76,Brand 32,0.49%,60%,78,Masala Chai,11,Low_Fat,Elaichi Doodh,2.11,1.5407,375,45.1,20,28.7114,Medium
+6031,60%,51%,0.02786,19.4475,16,Brand 21,0.11%,9%,128,Lassi Blends,17,Low_Fat,Elaichi Doodh,1.813,0.7773,693,99.9,25,14.0986,Medium
+6032,14%,7%,0.02435,19.6302,13,Brand 23,0.11%,5%,36,Masala Chai,11,Low_Fat,Extra Large Kulhad,0.201,0.6626,65,3.0,119,13.0768,Medium
+6033,60%,33%,0.02101,23.7265,21,Brand 25,16.76%,10%,125,Masala Chai,16,Low_Fat,Saffron-Infused Milk,0.101,1.1157,149,33.3,274,13.3941,Medium
+6034,82%,28%,0.09024,32.8397,103,Brand 11,31.71%,54%,148,Mango Shake,11,Low_Fat,Badam Milk,2.101,0.7216,480,56.6,20,40.1652,High
+6035,29%,0%,0.01101,11.2442,0,Brand 5,0.11%,12%,17,Nimbu Pani & Shikanji,11,Low_Fat,Saffron-Infused Milk,0.101,0.3162,10,3.0,396,6.6248,Medium
+6036,147%,51%,0.09012,26.6002,75,Brand 25,22.83%,9%,56,Masala Chai,11,Vitamin_Rich,Badam Milk,0.101,1.7222,431,54.9,130,24.5473,Medium
+6037,24%,36%,0.02215,24.2704,18,Brand 22,17.34%,9%,114,Special Spiced Chai,11,Low_Fat,Medium Glass,2.211,0.5761,612,16.5,228,16.9615,Medium
+6038,90%,54%,0.03168,24.1884,14,Brand 2,0.11%,12%,182,Special Spiced Chai,17,Low_Fat,Large Kulhad,0.101,0.332,553,85.9,20,26.2713,Medium
+6039,47%,39%,0.03602,30.0533,21,Brand 31,27.89%,5%,148,Nimbu Pani & Shikanji,10,Low_Fat,Badam Milk,0.101,1.5086,136,33.6,258,18.9308,Medium
+6040,125%,47%,0.03184,27.1396,20,Brand 27,1.67%,11%,45,Masala Chai,10,Low_Fat,Extra Large Kulhad,0.101,0.4961,175,26.4,127,14.2772,Medium
+6041,10%,0%,0.03002,17.5059,0,Brand 29,0.25%,16%,102,Nimbu Pani & Shikanji,17,Low_Fat,Rose Milk,0.101,0.1271,1,9.7,235,4.7053,Medium
+6042,96%,10%,0.02917,17.247,7,Brand 19,0.11%,9%,78,Special Spiced Chai,10,Low_Fat,Elaichi Doodh,3.88,1.0069,332,101.8,112,7.3701,Low
+6043,76%,29%,0.08861,36.512,84,Brand 12,14.26%,9%,26,Masala Chai,27,Low_Fat,Elaichi Doodh,0.101,1.2116,417,45.3,183,26.474,Medium
+6044,21%,8%,0.02276,29.8196,9,Brand 12,0.11%,10%,64,Special Spiced Chai,10,Low_Fat,Malai Milk,0.467,0.0,3,49.3,52,18.2867,Low
+6045,10%,0%,0.01191,9.6952,38,Brand 13,0.11%,38%,2,Nimbu Pani & Shikanji,10,Low_Fat,Large Kulhad,0.101,0.0,0,3.0,31,4.8863,Low
+6046,68%,33%,0.09889,27.559,42,Brand 5,0.11%,12%,217,Cold Coffee,29,Low_Fat,Kesar Doodh,0.101,0.5782,1042,102.1,220,29.5518,Medium
+6047,18%,46%,0.02063,28.2638,30,Brand 5,0.11%,11%,151,Lassi Blends,17,Low_Fat,Saffron-Infused Milk,1.603,0.8433,453,47.9,283,26.8619,Medium
+6048,22%,37%,0.01101,20.6621,0,Brand 23,0.11%,8%,2,South Indian Filter Coffee,10,Low_Fat,Rose Milk,0.101,0.6638,186,8.6,150,7.5146,Medium
+6049,92%,51%,0.09237,24.3182,18,Brand 9,0.11%,10%,187,South Indian Filter Coffee,25,Vitamin_Rich,Elaichi Doodh,0.101,2.9861,455,20.3,147,19.3779,Medium
+6050,37%,5%,0.0156,21.7362,21,Brand 5,0.11%,8%,111,Lassi Blends,10,Low_Fat,Saffron-Infused Milk,0.101,0.1366,0,3.0,44,13.1539,Low
+6051,32%,4%,0.02432,3.9383,17,Brand 4,1.98%,14%,2,Masala Chai,11,Low_Fat,Elaichi Doodh,2.208,0.5098,95,15.3,155,3.4024,Medium
+6052,165%,51%,0.0833,30.5716,22,Brand 2,0.11%,10%,168,Special Spiced Chai,33,Vitamin_Rich,Kesar Doodh,0.101,2.8947,619,86.7,147,23.8345,Medium
+6053,103%,3%,0.03207,25.1904,22,Brand 17,0.11%,7%,54,Masala Chai,10,Low_Fat,Rose Milk,0.101,0.5691,154,19.5,143,10.5581,Medium
+6054,36%,32%,0.02763,18.5446,39,Brand 14,0.11%,8%,48,South Indian Filter Coffee,11,Low_Fat,Extra Large Kulhad,0.101,0.0,126,24.2,136,8.9883,Medium
+6055,44%,30%,0.08615,32.6622,63,Brand 6,22.44%,9%,14,Mango Shake,44,Vitamin_Rich,Elaichi Doodh,0.101,0.5587,583,34.9,20,38.3606,High
+6056,71%,43%,0.08563,23.6577,37,Brand 19,0.11%,13%,121,Nimbu Pani & Shikanji,23,Low_Fat,Saffron-Infused Milk,0.101,0.91,27,37.1,50,16.0054,Medium
+6057,51%,25%,0.02935,22.9236,31,Brand 17,0.11%,5%,83,Masala Chai,11,Low_Fat,Badam Milk,0.101,1.533,303,38.8,249,11.6695,Medium
+6058,59%,47%,0.08485,37.4519,81,Brand 6,0.11%,13%,149,Lassi Blends,17,Vitamin_Rich,Malai Milk,0.101,2.4261,543,82.6,224,28.5448,Medium
+6059,29%,53%,0.01166,27.9081,60,Brand 25,42.07%,53%,82,Masala Chai,11,Low_Fat,Rose Milk,1.139,2.0273,561,48.0,23,14.527,Medium
+6060,24%,5%,0.02634,22.6235,20,Brand 21,0.70%,11%,15,Nimbu Pani & Shikanji,10,Low_Fat,Small Glass,2.15,0.0,103,8.7,404,11.2777,Medium
+6061,53%,31%,0.08861,24.5169,31,Brand 10,19.05%,6%,92,Special Spiced Chai,26,Vitamin_Rich,Elaichi Doodh,0.101,3.6233,360,31.7,231,19.4512,Medium
+6062,40%,53%,0.02521,24.1028,76,Brand 25,22.66%,7%,209,Masala Chai,10,Low_Fat,Badam Milk,0.965,0.6519,527,27.1,48,12.4141,Medium
+6063,84%,33%,0.08489,19.7518,34,Brand 14,41.05%,9%,50,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,2.356,3.7888,412,42.4,135,16.0174,Medium
+6064,30%,45%,0.02336,28.948,16,Brand 19,0.11%,7%,31,Special Spiced Chai,11,Low_Fat,Malai Milk,0.101,0.5339,104,38.3,133,8.6337,Medium
+6065,68%,31%,0.09424,27.9699,37,Brand 16,0.39%,8%,184,South Indian Filter Coffee,17,Low_Fat,Kesar Doodh,1.111,0.9141,550,81.3,20,35.6806,Medium
+6066,85%,54%,0.02957,16.4978,28,Brand 11,0.11%,8%,121,Masala Chai,11,Low_Fat,Saffron-Infused Milk,0.101,0.4419,249,18.6,146,6.8133,Medium
+6067,54%,45%,0.09405,24.0817,14,Brand 9,43.27%,5%,117,Masala Chai,11,Vitamin_Rich,Malai Milk,1.562,1.3217,219,30.6,245,17.5001,Medium
+6068,10%,8%,0.01794,5.5292,0,Brand 19,0.11%,12%,2,Masala Chai,10,Low_Fat,Saffron-Infused Milk,6.044,0.0,0,3.0,517,3.3381,Low
+6069,32%,0%,0.02418,9.685,7,Brand 19,0.11%,10%,3,Masala Chai,11,Low_Fat,Large Kulhad,0.101,0.3723,0,3.0,137,8.8896,Medium
+6070,54%,34%,0.08247,39.5723,60,Brand 10,33.09%,7%,72,Masala Chai,30,Vitamin_Rich,Malai Milk,0.47,3.9435,462,38.5,201,35.2154,Medium
+6071,33%,0%,0.02097,15.9463,42,Brand 19,0.11%,10%,82,Cold Coffee,10,Low_Fat,Elaichi Doodh,0.76,0.5358,765,18.1,284,28.5351,Medium
+6072,113%,55%,0.17104,34.1259,37,Brand 9,28.84%,12%,113,South Indian Filter Coffee,51,Vitamin_Rich,Malai Milk,1.11,3.622,908,51.8,250,25.155,Medium
+6073,146%,47%,0.14746,24.1091,28,Brand 32,31.18%,11%,182,Special Spiced Chai,17,Vitamin_Rich,Badam Milk,5.787,3.4886,595,137.0,136,29.5336,High
+6074,57%,34%,0.01937,30.977,15,Brand 9,22.21%,9%,170,South Indian Filter Coffee,11,Vitamin_Rich,Rose Milk,0.101,1.2877,156,33.1,559,20.34,Medium
+6075,41%,0%,0.01871,23.4068,29,Brand 1,0.11%,7%,71,South Indian Filter Coffee,11,Vitamin_Rich,Do Chhoti Pyalya,0.101,0.9369,234,93.5,40,15.4497,Low
+6076,79%,50%,0.01277,20.4075,25,Brand 14,0.21%,8%,107,Nimbu Pani & Shikanji,12,Vitamin_Rich,Extra Large Kulhad,0.97,0.8707,253,24.5,135,11.4321,Medium
+6077,21%,27%,0.01135,28.0811,103,Brand 16,38.34%,10%,200,Masala Chai,17,Vitamin_Rich,Badam Milk,342.423,2.4435,510,73.4,20,27.6892,Medium
+6078,10%,50%,0.01101,14.2888,6,Brand 21,2.25%,8%,63,South Indian Filter Coffee,12,Low_Fat,Kesar Doodh,5.426,0.0403,285,23.1,253,3.3381,Medium
+6079,65%,1%,0.02574,18.5292,1,Brand 19,0.11%,5%,111,Special Spiced Chai,12,Low_Fat,Medium Glass,0.101,0.9077,40,30.0,53,8.5086,Medium
+6080,51%,51%,0.02625,21.4788,19,Brand 4,0.11%,11%,131,South Indian Filter Coffee,10,Low_Fat,Rose Milk,1.945,0.0547,398,59.3,59,8.1106,Medium
+6081,53%,29%,0.01328,26.6212,74,Brand 33,27.12%,80%,55,Lassi Blends,10,Low_Fat,Elaichi Doodh,2.616,4.0649,670,129.0,42,28.9285,High
+6082,161%,42%,0.01852,36.3934,36,Brand 29,2.71%,6%,165,South Indian Filter Coffee,10,Vitamin_Rich,Badam Milk,2.051,2.8839,653,120.9,161,22.4099,Medium
+6083,27%,28%,0.02249,17.3029,1,Brand 17,0.11%,5%,76,Masala Chai,10,Low_Fat,Rose Milk,0.101,1.184,173,16.2,134,8.2625,Medium
+6084,31%,31%,0.02815,23.7293,20,Brand 31,0.11%,8%,117,South Indian Filter Coffee,26,Vitamin_Rich,Elaichi Doodh,3.277,1.4009,133,44.5,148,12.9225,Medium
+6085,22%,9%,0.01678,18.1768,46,Brand 19,0.11%,11%,57,Special Spiced Chai,11,Low_Fat,Medium Glass,0.101,1.1049,153,23.3,45,21.4194,Medium
+6086,44%,29%,0.08204,31.5163,25,Brand 20,0.11%,5%,62,Special Spiced Chai,10,Low_Fat,Large Kulhad,2.557,0.4787,81,8.3,37,14.7158,Medium
+6087,107%,46%,0.09364,25.248,14,Brand 11,0.11%,11%,75,South Indian Filter Coffee,23,Vitamin_Rich,Malai Milk,1.655,4.8273,585,58.1,187,27.1767,Medium
+6088,95%,48%,0.02205,25.8985,21,Brand 21,25.15%,13%,132,Masala Chai,16,Low_Fat,Elaichi Doodh,0.659,1.3481,149,95.0,273,12.6153,Medium
+6089,14%,29%,0.01851,25.0692,29,Brand 2,0.11%,8%,76,Masala Chai,10,Low_Fat,Extra Large Kulhad,0.461,0.8679,171,37.2,338,14.2252,Medium
+6090,102%,48%,0.0802,26.0985,96,Brand 10,12.02%,11%,202,Masala Chai,24,Vitamin_Rich,Full Cream Buffalo Milk,0.101,1.2769,586,78.3,234,39.4178,Medium
+6091,99%,55%,0.12044,30.7534,108,Brand 23,51.05%,6%,227,Mango Shake,18,Vitamin_Rich,Kesar Doodh,408.031,3.3001,735,140.4,31,35.4534,High
+6092,16%,0%,0.02088,31.3827,37,Brand 32,2.36%,5%,19,Cold Coffee,10,Low_Fat,Rose Milk,0.745,2.148,217,16.3,489,33.6295,Medium
+6093,10%,9%,0.0262,3.9267,0,Brand 1,2.70%,7%,63,Kadak Chai,11,Low_Fat,Saffron-Infused Milk,0.101,0.1473,56,3.0,145,3.3381,Medium
+6094,14%,6%,0.02225,23.3304,0,Brand 31,0.11%,10%,21,Masala Chai,10,Low_Fat,Medium Glass,3.614,0.2026,0,7.2,67,5.0729,Low
+6095,15%,0%,0.03235,9.3322,7,Brand 29,0.11%,9%,176,Masala Chai,11,Low_Fat,Malai Milk,0.101,0.9103,10,17.2,595,4.9203,Medium
+6096,47%,24%,0.08558,24.3558,30,Brand 16,0.11%,9%,32,Masala Chai,10,Low_Fat,Badam Milk,0.101,1.4132,374,43.1,20,3.3381,Medium
+6097,15%,43%,0.08006,22.5768,72,Brand 8,30.16%,50%,206,Masala Chai,25,Vitamin_Rich,Rose Milk,0.101,3.7414,517,58.1,138,13.8393,Medium
+6098,74%,0%,0.0284,28.0447,39,Brand 30,0.11%,5%,84,Masala Chai,10,Low_Fat,Saffron-Infused Milk,0.101,0.2277,129,3.0,347,8.4544,Medium
+6099,44%,57%,0.08693,33.9317,48,Brand 32,10.18%,12%,174,Special Spiced Chai,18,Vitamin_Rich,Saffron-Infused Milk,164.222,2.6075,426,114.9,52,22.7252,Medium
